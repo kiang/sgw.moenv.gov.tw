@@ -1,0 +1,189 @@
+{
+    "PageNo": 408,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F10286",
+            "Site_Name": "愛米斯機械工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293509,
+            "CoorY": 2768509,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "H10150",
+            "Site_Name": "功學社教育用品股份有限公司過嶺第一廠",
+            "Kind_No": "Factory",
+            "CoorX": 267829,
+            "CoorY": 2762630,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "K10263",
+            "Site_Name": "台灣中油股份有限公司探採事業部採油工程處鐵砧山礦場",
+            "Kind_No": "Other",
+            "CoorX": 220424,
+            "CoorY": 2704812,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "H14062",
+            "Site_Name": "台灣富士全錄股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 282724,
+            "CoorY": 2763767,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "H14131",
+            "Site_Name": "昇榮科技股份有限公司二廠",
+            "Kind_No": "Factory",
+            "CoorX": 261772,
+            "CoorY": 2772300,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "N11019",
+            "Site_Name": "青輪昌工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 201854,
+            "CoorY": 2665971,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "J10015",
+            "Site_Name": "新竹縣湖口鄉竹九二段0059、0060、0061、0062、0065、0066、0077、0080、0081及0084地號(台亞湖口北上加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 251268,
+            "CoorY": 2750570,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "S10045",
+            "Site_Name": "統一精工鳳山二站加油站",
+            "Kind_No": "Gas",
+            "CoorX": 188528,
+            "CoorY": 2504532,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "T00004",
+            "Site_Name": "屏東縣新園鄉新洋段325、416、419、428、429、430、431、432-6(部分)地號",
+            "Kind_No": "Discard",
+            "CoorX": 194305,
+            "CoorY": 2495478,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E10564",
+            "Site_Name": "泓達化工股份有限公司燕巢廠",
+            "Kind_No": "Factory",
+            "CoorX": 184231,
+            "CoorY": 2519691,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "S10070",
+            "Site_Name": "世發電池工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 173859,
+            "CoorY": 2515570,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "B10006",
+            "Site_Name": "臺中市北屯區景美段377地號",
+            "Kind_No": "Other",
+            "CoorX": 220170,
+            "CoorY": 2674081,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "D10497",
+            "Site_Name": "臺南市關廟區下湖段0116-0009地號(大關廟加油站股份有限公司)",
+            "Kind_No": "Gas",
+            "CoorX": 180274,
+            "CoorY": 2541642,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E10332",
+            "Site_Name": "和益化學工業股份有限公司林園廠",
+            "Kind_No": "Factory",
+            "CoorX": 188881,
+            "CoorY": 2487679,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10141",
+            "Site_Name": "臺南市仁德區保甲段1301-0000地號土壤污染整治場址",
+            "Kind_No": "Discard",
+            "CoorX": 168373,
+            "CoorY": 2535499,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E00026",
+            "Site_Name": "統一精工左營加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179953,
+            "CoorY": 2508343,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "D10164",
+            "Site_Name": "生達化學製藥股份有限公司二廠",
+            "Kind_No": "Factory",
+            "CoorX": 182269,
+            "CoorY": 2579832,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "A00665",
+            "Site_Name": "全國台北交流道站",
+            "Kind_No": "Gas",
+            "CoorX": 301642,
+            "CoorY": 2775067,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10062",
+            "Site_Name": "南昇加油站股份有限公司南昇加油站",
+            "Kind_No": "Gas",
+            "CoorX": 169721,
+            "CoorY": 2539790,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "J10038",
+            "Site_Name": "竹東鎮明星段593之1及594之1地號(二重埔加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 255180,
+            "CoorY": 2740486,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        }
+    ]
+}

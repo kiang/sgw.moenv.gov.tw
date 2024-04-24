@@ -1,0 +1,189 @@
+{
+    "PageNo": 403,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "O00104",
+            "Site_Name": "新竹市香山區香雅段348地號",
+            "Kind_No": "Farm",
+            "CoorX": 242567,
+            "CoorY": 2743455,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00105",
+            "Site_Name": "新竹市香山區香雅段349地號",
+            "Kind_No": "Farm",
+            "CoorX": 242559,
+            "CoorY": 2743432,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00106",
+            "Site_Name": "新竹市香山區香雅段329地號",
+            "Kind_No": "Farm",
+            "CoorX": 242647,
+            "CoorY": 2743404,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00151",
+            "Site_Name": "新竹市香山區香雅段173地號",
+            "Kind_No": "Farm",
+            "CoorX": 242713,
+            "CoorY": 2743040,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00152",
+            "Site_Name": "新竹市香山區香雅段174地號",
+            "Kind_No": "Farm",
+            "CoorX": 242702,
+            "CoorY": 2743021,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00153",
+            "Site_Name": "新竹市香山區香雅段185地號",
+            "Kind_No": "Farm",
+            "CoorX": 242687,
+            "CoorY": 2743051,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00154",
+            "Site_Name": "新竹市香山區香雅段186地號",
+            "Kind_No": "Farm",
+            "CoorX": 242679,
+            "CoorY": 2743061,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00155",
+            "Site_Name": "新竹市香山區香雅段188地號",
+            "Kind_No": "Farm",
+            "CoorX": 242665,
+            "CoorY": 2743069,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00156",
+            "Site_Name": "新竹市香山區香雅段189地號",
+            "Kind_No": "Farm",
+            "CoorX": 242635,
+            "CoorY": 2743062,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00157",
+            "Site_Name": "新竹市香山區香雅段203地號",
+            "Kind_No": "Farm",
+            "CoorX": 242552,
+            "CoorY": 2743096,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00140",
+            "Site_Name": "新竹市香山區香雅段201地號",
+            "Kind_No": "Farm",
+            "CoorX": 242595,
+            "CoorY": 2743084,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00141",
+            "Site_Name": "新竹市香山區香雅段163地號",
+            "Kind_No": "Farm",
+            "CoorX": 242745,
+            "CoorY": 2743044,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00142",
+            "Site_Name": "新竹市香山區香雅段172地號",
+            "Kind_No": "Farm",
+            "CoorX": 242730,
+            "CoorY": 2743056,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00108",
+            "Site_Name": "新竹市香山區香雅段265地號",
+            "Kind_No": "Farm",
+            "CoorX": 242757,
+            "CoorY": 2743470,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00109",
+            "Site_Name": "新竹市香山區香雅段461地號",
+            "Kind_No": "Farm",
+            "CoorX": 242395,
+            "CoorY": 2743304,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00110",
+            "Site_Name": "新竹市香山區香雅段373地號",
+            "Kind_No": "Farm",
+            "CoorX": 242452,
+            "CoorY": 2743392,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00111",
+            "Site_Name": "新竹市香山區香雅段378地號",
+            "Kind_No": "Farm",
+            "CoorX": 242523,
+            "CoorY": 2743330,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00112",
+            "Site_Name": "新竹市香山區香雅段389地號",
+            "Kind_No": "Farm",
+            "CoorX": 242513,
+            "CoorY": 2743303,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00113",
+            "Site_Name": "新竹市香山區香雅段393地號",
+            "Kind_No": "Farm",
+            "CoorX": 242428,
+            "CoorY": 2743321,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00114",
+            "Site_Name": "新竹市香山區香雅段334地號",
+            "Kind_No": "Farm",
+            "CoorX": 242620,
+            "CoorY": 2743347,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

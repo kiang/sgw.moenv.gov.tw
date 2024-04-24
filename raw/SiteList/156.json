@@ -1,0 +1,189 @@
+{
+    "PageNo": 156,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12587",
+            "Site_Name": "大園鄉埔心段海豐坡小段293-1地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 272009,
+            "CoorY": 2772590,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12588",
+            "Site_Name": "大園鄉埔心段海豐坡小段294地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271984,
+            "CoorY": 2772615,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12590",
+            "Site_Name": "大園鄉埔心段海豐坡小段298-1地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271923,
+            "CoorY": 2772682,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12560",
+            "Site_Name": "大園鄉埔心段海豐坡小段127-11地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271984,
+            "CoorY": 2772615,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12517",
+            "Site_Name": "大園鄉埔心段埔心小段1901-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 271662,
+            "CoorY": 2770595,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12518",
+            "Site_Name": "大園鄉埔心段埔心小段1901-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271662,
+            "CoorY": 2770595,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10919",
+            "Site_Name": "大園鄉埔心段三塊厝小段369地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273450,
+            "CoorY": 2770077,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10920",
+            "Site_Name": "大園鄉埔心段三塊厝小段370-1地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273450,
+            "CoorY": 2770077,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10921",
+            "Site_Name": "大園鄉埔心段三塊厝小段381地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273683,
+            "CoorY": 2769999,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10915",
+            "Site_Name": "大園鄉埔心段三塊厝小段351地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273554,
+            "CoorY": 2770152,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14509",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段27(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276985,
+            "CoorY": 2774393,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H15253",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段28-56(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276844,
+            "CoorY": 2774453,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10557",
+            "Site_Name": "大園鄉埔心段三塊厝小段400-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 273446,
+            "CoorY": 2770069,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10519",
+            "Site_Name": "大園鄉埔心段三塊厝小段400地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273453,
+            "CoorY": 2770057,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10510",
+            "Site_Name": "大園鄉埔心段三塊厝小段380地號(部分坵塊)(現為大園區埔心段三塊厝小段379(部分)、379-2地號)",
+            "Kind_No": "Farm",
+            "CoorX": 273651,
+            "CoorY": 2769971,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10282",
+            "Site_Name": "大園聯合水處理股份有限公司大園廠",
+            "Kind_No": "Factory",
+            "CoorX": 268872,
+            "CoorY": 2774303,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12885",
+            "Site_Name": "桃園市大園區大牛稠段大牛稠小段746地號",
+            "Kind_No": "Farm",
+            "CoorX": 273664,
+            "CoorY": 2772232,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13226",
+            "Site_Name": "桃園縣大園鄉埔心段海豐坡小段304、305地號",
+            "Kind_No": "Farm",
+            "CoorX": 271825,
+            "CoorY": 2772782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12926",
+            "Site_Name": "桃園市大園區大牛稠段倒厝子小段1258地號",
+            "Kind_No": "Farm",
+            "CoorX": 272657,
+            "CoorY": 2771996,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12775",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段641地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273502,
+            "CoorY": 2772594,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

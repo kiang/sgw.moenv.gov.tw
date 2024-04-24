@@ -1,0 +1,189 @@
+{
+    "PageNo": 279,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10670",
+            "Site_Name": "蘆竹鄉新庄子段926地號",
+            "Kind_No": "Farm",
+            "CoorX": 274219,
+            "CoorY": 2769349,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10649",
+            "Site_Name": "蘆竹鄉新庄子段743地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274499,
+            "CoorY": 2769365,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11091",
+            "Site_Name": "蘆竹鄉新庄子段928地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274190,
+            "CoorY": 2769387,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11088",
+            "Site_Name": "蘆竹鄉新庄子段884地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274315,
+            "CoorY": 2769352,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10186",
+            "Site_Name": "臺南市歸仁區沙崙段0331-0002地號",
+            "Kind_No": "Discard",
+            "CoorX": 178031,
+            "CoorY": 2537953,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10012",
+            "Site_Name": "原台灣塑膠工業股份有限公司前鎮分廠廠區",
+            "Kind_No": "Factory",
+            "CoorX": 179162,
+            "CoorY": 2499623,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10048",
+            "Site_Name": "臺南市南區同安段0125-0000地號",
+            "Kind_No": "Discard",
+            "CoorX": 166904,
+            "CoorY": 2536072,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10100",
+            "Site_Name": "七股鄉農會所屬台潭加油站",
+            "Kind_No": "Gas",
+            "CoorX": 161250,
+            "CoorY": 2565350,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10042",
+            "Site_Name": "璟美環保科技有限公司所設乙級廢棄物處理場(衛生掩埋場)場址",
+            "Kind_No": "Other",
+            "CoorX": 205781,
+            "CoorY": 2624288,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10013",
+            "Site_Name": "昇易加油站實業有限公司五股昇易加油站",
+            "Kind_No": "Gas",
+            "CoorX": 294152,
+            "CoorY": 2774455,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11001",
+            "Site_Name": "大園鄉五塊厝段下埔小段1006-11地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272652,
+            "CoorY": 2768665,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10066",
+            "Site_Name": "嘉義縣南亞民雄加油站",
+            "Kind_No": "Gas",
+            "CoorX": 191942,
+            "CoorY": 2601242,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10508",
+            "Site_Name": "和成企業工廠",
+            "Kind_No": "Factory",
+            "CoorX": 200104,
+            "CoorY": 2664185,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10028",
+            "Site_Name": "泓成加油站有限公司泓成加油站",
+            "Kind_No": "Gas",
+            "CoorX": 188602,
+            "CoorY": 2499137,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10014",
+            "Site_Name": "新統銅業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 242671,
+            "CoorY": 2746115,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10274",
+            "Site_Name": "大里區詹厝園段165-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216630,
+            "CoorY": 2664955,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10300",
+            "Site_Name": "大里區詹厝園段165(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216620,
+            "CoorY": 2664961,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10179",
+            "Site_Name": "大里區詹厝園段187(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216319,
+            "CoorY": 2664876,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10463",
+            "Site_Name": "大里區詹厝園段176-70(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215845,
+            "CoorY": 2665139,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10419",
+            "Site_Name": "大里區詹厝園段171-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216443,
+            "CoorY": 2664905,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

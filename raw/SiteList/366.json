@@ -1,0 +1,189 @@
+{
+    "PageNo": 366,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "P00009",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段681地號",
+            "Kind_No": "Farm",
+            "CoorX": 190629,
+            "CoorY": 2623343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00010",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段682地號",
+            "Kind_No": "Farm",
+            "CoorX": 190594,
+            "CoorY": 2623321,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00011",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段683地號",
+            "Kind_No": "Farm",
+            "CoorX": 190569,
+            "CoorY": 2623306,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00012",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段684地號",
+            "Kind_No": "Farm",
+            "CoorX": 190541,
+            "CoorY": 2623288,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00013",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段685地號",
+            "Kind_No": "Farm",
+            "CoorX": 190515,
+            "CoorY": 2623275,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00014",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段68-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 190748,
+            "CoorY": 2623647,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00015",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段845地號",
+            "Kind_No": "Farm",
+            "CoorX": 190381,
+            "CoorY": 2623019,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00001",
+            "Site_Name": "台北市北投區八仙段一小段三三五地號",
+            "Kind_No": "Farm",
+            "CoorX": 301277,
+            "CoorY": 2777431,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00002",
+            "Site_Name": "台北市北投區八仙段一小段三四四地號",
+            "Kind_No": "Farm",
+            "CoorX": 301267,
+            "CoorY": 2777372,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00516",
+            "Site_Name": "彰化縣和美鎮嘉安段1152地號",
+            "Kind_No": "Farm",
+            "CoorX": 201509,
+            "CoorY": 2665727,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00509",
+            "Site_Name": "彰化縣和美鎮嘉安段1092地號",
+            "Kind_No": "Farm",
+            "CoorX": 201607,
+            "CoorY": 2665658,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00505",
+            "Site_Name": "彰化縣和美鎮嘉安段1074地號",
+            "Kind_No": "Farm",
+            "CoorX": 201833,
+            "CoorY": 2665691,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00615",
+            "Site_Name": "彰化縣和美鎮嘉慶段0554地號",
+            "Kind_No": "Farm",
+            "CoorX": 201295,
+            "CoorY": 2664968,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00015",
+            "Site_Name": "台南縣仁德鄉十三甲段1262地號",
+            "Kind_No": "Farm",
+            "CoorX": 170325,
+            "CoorY": 2536729,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00016",
+            "Site_Name": "台南縣仁德鄉大甲段1023地號",
+            "Kind_No": "Farm",
+            "CoorX": 167716,
+            "CoorY": 2536500,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00017",
+            "Site_Name": "台南縣善化鎮善化段2846地號",
+            "Kind_No": "Farm",
+            "CoorX": 177414,
+            "CoorY": 2557567,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00018",
+            "Site_Name": "台南縣善化鎮善化段2844地號",
+            "Kind_No": "Farm",
+            "CoorX": 177373,
+            "CoorY": 2557565,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00019",
+            "Site_Name": "台南縣善化鎮善化段2819地號",
+            "Kind_No": "Farm",
+            "CoorX": 177348,
+            "CoorY": 2557704,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00007",
+            "Site_Name": "台南縣歸仁鄉歸仁北段1791-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 178537,
+            "CoorY": 2539809,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00008",
+            "Site_Name": "台南縣麻豆鎮麻豆口段12-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 170907,
+            "CoorY": 2564725,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

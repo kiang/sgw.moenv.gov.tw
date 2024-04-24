@@ -1,0 +1,189 @@
+{
+    "PageNo": 387,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00118",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0138地號",
+            "Kind_No": "Farm",
+            "CoorX": 202532,
+            "CoorY": 2664631,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00119",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0169-0024地號",
+            "Kind_No": "Farm",
+            "CoorX": 201912,
+            "CoorY": 2664280,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00120",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0172-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 202040,
+            "CoorY": 2664213,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00121",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0173-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201912,
+            "CoorY": 2664227,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00122",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0174地號",
+            "Kind_No": "Farm",
+            "CoorX": 202039,
+            "CoorY": 2664140,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00123",
+            "Site_Name": "彰化縣彰化市線東段0775-0000(原彰化縣彰化市西勢子段西勢子小段0175-0010地號)",
+            "Kind_No": "Farm",
+            "CoorX": 201692,
+            "CoorY": 2664084,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00124",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0175-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 202022,
+            "CoorY": 2664116,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00125",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0175-0009地號",
+            "Kind_No": "Farm",
+            "CoorX": 201923,
+            "CoorY": 2664107,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00126",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0176地號",
+            "Kind_No": "Farm",
+            "CoorX": 201919,
+            "CoorY": 2664065,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00127",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0177-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 201956,
+            "CoorY": 2664075,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00128",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0178地號",
+            "Kind_No": "Farm",
+            "CoorX": 202005,
+            "CoorY": 2664088,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00129",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0179地號",
+            "Kind_No": "Farm",
+            "CoorX": 202074,
+            "CoorY": 2664088,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00130",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0196地號",
+            "Kind_No": "Farm",
+            "CoorX": 202128,
+            "CoorY": 2664038,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00131",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0214地號",
+            "Kind_No": "Farm",
+            "CoorX": 202043,
+            "CoorY": 2664039,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00132",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0215地號",
+            "Kind_No": "Farm",
+            "CoorX": 202000,
+            "CoorY": 2664045,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00133",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0216-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201995,
+            "CoorY": 2663920,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00134",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0219地號",
+            "Kind_No": "Farm",
+            "CoorX": 201992,
+            "CoorY": 2663840,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00135",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0220地號",
+            "Kind_No": "Farm",
+            "CoorX": 201934,
+            "CoorY": 2663823,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00136",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0221-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 201887,
+            "CoorY": 2664001,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00137",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0221-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201953,
+            "CoorY": 2663915,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

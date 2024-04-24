@@ -1,0 +1,189 @@
+{
+    "PageNo": 261,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10424",
+            "Site_Name": "大園鄉埔心段三塊厝小段340地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273488,
+            "CoorY": 2770372,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10430",
+            "Site_Name": "大園鄉埔心段三塊厝小段370地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273546,
+            "CoorY": 2770101,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10412",
+            "Site_Name": "大園鄉埔心段三塊厝小段317地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273526,
+            "CoorY": 2770326,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10421",
+            "Site_Name": "大園鄉埔心段三塊厝小段332地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273441,
+            "CoorY": 2770619,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10415",
+            "Site_Name": "大園鄉埔心段三塊厝小段327地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273497,
+            "CoorY": 2770540,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00190",
+            "Site_Name": "桃園縣蘆竹鄉新興段467-2地號(現為德林段1040地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275982,
+            "CoorY": 2766339,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11094",
+            "Site_Name": "大園鄉埔心段三塊厝小段321地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273475,
+            "CoorY": 2770399,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11079",
+            "Site_Name": "蘆竹鄉新庄子段1670地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274852,
+            "CoorY": 2769038,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11080",
+            "Site_Name": "蘆竹鄉新庄子段1670-1地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274852,
+            "CoorY": 2769038,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11070",
+            "Site_Name": "蘆竹鄉新庄子段1118地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273939,
+            "CoorY": 2769296,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11205",
+            "Site_Name": "大園鄉埔心段三塊厝小段343-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273519,
+            "CoorY": 2770323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10893",
+            "Site_Name": "大園鄉埔心段三塊厝小段303-2地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273874,
+            "CoorY": 2770019,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10925",
+            "Site_Name": "大園鄉埔心段三塊厝小段399地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273684,
+            "CoorY": 2770035,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10926",
+            "Site_Name": "大園鄉埔心段三塊厝小段399-1地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273487,
+            "CoorY": 2770035,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10141",
+            "Site_Name": "苗栗縣竹南鎮廣源段1575地號",
+            "Kind_No": "Other",
+            "CoorX": 240605,
+            "CoorY": 2734405,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10546",
+            "Site_Name": "永益加油站(101年公告)",
+            "Kind_No": "Gas",
+            "CoorX": 190339,
+            "CoorY": 2658409,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10643",
+            "Site_Name": "彰化縣埔心鄉二重段0527-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202792,
+            "CoorY": 2650819,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10967",
+            "Site_Name": "大園鄉五塊厝段下埔小段731地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272349,
+            "CoorY": 2769354,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10974",
+            "Site_Name": "大園鄉埔心段埔心小段704-1地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272602,
+            "CoorY": 2770768,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11012",
+            "Site_Name": "大園鄉埔心段埔心小段720地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272799,
+            "CoorY": 2770541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

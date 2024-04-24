@@ -1,0 +1,189 @@
+{
+    "PageNo": 315,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10199",
+            "Site_Name": "南區大山段0107-0000",
+            "Kind_No": "Farm",
+            "CoorX": 166980,
+            "CoorY": 2536452,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00093",
+            "Site_Name": "桃園縣蘆竹鄉中興段62-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 276345,
+            "CoorY": 2767219,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00582",
+            "Site_Name": "台灣中油股份有限公司內湖加油站",
+            "Kind_No": "Gas",
+            "CoorX": 308851,
+            "CoorY": 2773473,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10053",
+            "Site_Name": "臺中市潭子區大埔厝段大埔厝小段178地號",
+            "Kind_No": "Farm",
+            "CoorX": 218424,
+            "CoorY": 2680868,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10056",
+            "Site_Name": "臺中市潭子區大埔厝段牛埔子小段5-35地號",
+            "Kind_No": "Farm",
+            "CoorX": 217895,
+            "CoorY": 2680576,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10075",
+            "Site_Name": "原元隆工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 299064,
+            "CoorY": 2766636,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10108",
+            "Site_Name": "彰化縣埔鹽鄉彰水路一段4號",
+            "Kind_No": "Gas",
+            "CoorX": 196860,
+            "CoorY": 2654129,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10034",
+            "Site_Name": "凱盛金屬企業股份有限公司橋頭廠",
+            "Kind_No": "Factory",
+            "CoorX": 177754,
+            "CoorY": 2518401,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10056",
+            "Site_Name": "台南市興農段0203地號",
+            "Kind_No": "Farm",
+            "CoorX": 167404,
+            "CoorY": 2537322,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10057",
+            "Site_Name": "台南市興農段0208地號",
+            "Kind_No": "Farm",
+            "CoorX": 167479,
+            "CoorY": 2537323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10038",
+            "Site_Name": "台南市南區同安段0079-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 166964,
+            "CoorY": 2536106,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10036",
+            "Site_Name": "台南市南區同安段0078-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 167001,
+            "CoorY": 2536135,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10073",
+            "Site_Name": "台南市興農段0755-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 166997,
+            "CoorY": 2536401,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10060",
+            "Site_Name": "厚生化學工業股份有限公司(部分廠址)",
+            "Kind_No": "Factory",
+            "CoorX": 297429,
+            "CoorY": 2767486,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00036",
+            "Site_Name": "太爺加油站股份有限公司展利加油站",
+            "Kind_No": "Gas",
+            "CoorX": 170651,
+            "CoorY": 2534810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00022",
+            "Site_Name": "原高雄硫酸錏股份有限公司(憲德段二小段34地號)場址",
+            "Kind_No": "Factory",
+            "CoorX": 179363,
+            "CoorY": 2500573,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00021",
+            "Site_Name": "原高雄硫酸錏股份有限公司(憲德段二小段7地號)場址",
+            "Kind_No": "Factory",
+            "CoorX": 179843,
+            "CoorY": 2500890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10086",
+            "Site_Name": "高雄縣鳥松鄉長庚段401地號",
+            "Kind_No": "Discard",
+            "CoorX": 184630,
+            "CoorY": 2505323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10058",
+            "Site_Name": "原友力工業股份有限公司(部分廠址)",
+            "Kind_No": "Factory",
+            "CoorX": 315826,
+            "CoorY": 2773769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00056",
+            "Site_Name": "果毅加油站股份有限公司所有果毅加油站",
+            "Kind_No": "Gas",
+            "CoorX": 185826,
+            "CoorY": 2573178,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

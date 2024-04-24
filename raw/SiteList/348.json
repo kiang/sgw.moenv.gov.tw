@@ -1,0 +1,189 @@
+{
+    "PageNo": 348,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L00032",
+            "Site_Name": "臺中縣大里區國中段430地號",
+            "Kind_No": "Farm",
+            "CoorX": 217598,
+            "CoorY": 2665298,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00036",
+            "Site_Name": "臺中縣大里區大突寮段257地號",
+            "Kind_No": "Farm",
+            "CoorX": 217435,
+            "CoorY": 2665147,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00037",
+            "Site_Name": "臺中縣大里區大突寮段258地號",
+            "Kind_No": "Farm",
+            "CoorX": 217488,
+            "CoorY": 2665213,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00038",
+            "Site_Name": "臺中縣大里區大突寮段258-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217448,
+            "CoorY": 2665203,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00039",
+            "Site_Name": "臺中縣大里區大突寮段259-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 217497,
+            "CoorY": 2665270,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00034",
+            "Site_Name": "臺中縣大里區大突寮段254-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217522,
+            "CoorY": 2665244,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00042",
+            "Site_Name": "臺中縣大里區國中段410地號",
+            "Kind_No": "Farm",
+            "CoorX": 217491,
+            "CoorY": 2665293,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00043",
+            "Site_Name": "臺中縣大里區國中段432地號",
+            "Kind_No": "Farm",
+            "CoorX": 217507,
+            "CoorY": 2665297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00067",
+            "Site_Name": "臺中縣大里區大突寮段253-5地號",
+            "Kind_No": "Farm",
+            "CoorX": 217586,
+            "CoorY": 2665286,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00068",
+            "Site_Name": "臺中縣大里區大突寮段255-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217462,
+            "CoorY": 2665099,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00069",
+            "Site_Name": "臺中縣大里區大突寮段259-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217438,
+            "CoorY": 2665231,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00871",
+            "Site_Name": "彰化縣彰化市西勢子段過溝小段0019地號",
+            "Kind_No": "Farm",
+            "CoorX": 202749,
+            "CoorY": 2665397,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00001",
+            "Site_Name": "(L009)臺中縣烏日區五光路961巷場址",
+            "Kind_No": "Discard",
+            "CoorX": 212247,
+            "CoorY": 2666470,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00004",
+            "Site_Name": "台中市南屯區寶山段1003地號",
+            "Kind_No": "Farm",
+            "CoorX": 210482,
+            "CoorY": 2672325,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00005",
+            "Site_Name": "台中市南屯區寶山段1004地號",
+            "Kind_No": "Farm",
+            "CoorX": 210519,
+            "CoorY": 2672360,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00006",
+            "Site_Name": "台中市南屯區寶山段1005地號",
+            "Kind_No": "Farm",
+            "CoorX": 210574,
+            "CoorY": 2672383,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00007",
+            "Site_Name": "台中市南屯區寶山段1012地號",
+            "Kind_No": "Farm",
+            "CoorX": 210663,
+            "CoorY": 2672395,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00008",
+            "Site_Name": "台中市南屯區寶山段1014地號",
+            "Kind_No": "Farm",
+            "CoorX": 210622,
+            "CoorY": 2672454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00009",
+            "Site_Name": "台中市南屯區寶山段1150地號",
+            "Kind_No": "Farm",
+            "CoorX": 210830,
+            "CoorY": 2672684,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00010",
+            "Site_Name": "台中市南屯區寶山段1155地號",
+            "Kind_No": "Farm",
+            "CoorX": 210715,
+            "CoorY": 2672728,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

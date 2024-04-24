@@ -1,0 +1,189 @@
+{
+    "PageNo": 102,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H13988",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46-35地號",
+            "Kind_No": "Farm",
+            "CoorX": 276319,
+            "CoorY": 2775500,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13989",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46-2地號、桃園市大園區竹圍段崁下小段46-35地號",
+            "Kind_No": "Farm",
+            "CoorX": 276297,
+            "CoorY": 2775560,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13990",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46-2地號、桃園市大園區竹圍段崁下小段46-48地號、桃園市大園區竹圍段崁下小段47-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 276329,
+            "CoorY": 2775535,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14010",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46地號",
+            "Kind_No": "Farm",
+            "CoorX": 276578,
+            "CoorY": 2775302,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14014",
+            "Site_Name": "桃園市大園區竹圍段崁下小段19-5地號",
+            "Kind_No": "Farm",
+            "CoorX": 275989,
+            "CoorY": 2775736,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14015",
+            "Site_Name": "桃園市大園區竹圍段崁下小段19-5地號",
+            "Kind_No": "Farm",
+            "CoorX": 275961,
+            "CoorY": 2775725,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14016",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46-8地號、桃園市大園區竹圍段崁下小段46-9地號",
+            "Kind_No": "Farm",
+            "CoorX": 276362,
+            "CoorY": 2775792,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14007",
+            "Site_Name": "桃園市大園區竹圍段崁下小段48-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 276483,
+            "CoorY": 2775222,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14008",
+            "Site_Name": "桃園市大園區竹圍段崁下小段48-43地號、桃園市大園區竹圍段崁下小段48-49地號",
+            "Kind_No": "Farm",
+            "CoorX": 276535,
+            "CoorY": 2775290,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14020",
+            "Site_Name": "桃園市大園區竹圍段崁下小段46-146地號",
+            "Kind_No": "Farm",
+            "CoorX": 276310,
+            "CoorY": 2775787,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13723",
+            "Site_Name": "桃園市大園區竹圍段崁腳小段135-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276042,
+            "CoorY": 2775807,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13717",
+            "Site_Name": "桃園市大園區竹圍段崁腳小段117-13(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276182,
+            "CoorY": 2775792,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13719",
+            "Site_Name": "桃園市大園區竹圍段崁腳小段135-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276092,
+            "CoorY": 2775765,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12442",
+            "Site_Name": "彰化縣福興鄉元興段1547-0000(部分)地號",
+            "Kind_No": "Factory",
+            "CoorX": 190251,
+            "CoorY": 2658462,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13978",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段124地號、134-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 276640,
+            "CoorY": 2776207,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13819",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段124-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276730,
+            "CoorY": 2776166,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13802",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段210地號",
+            "Kind_No": "Farm",
+            "CoorX": 276473,
+            "CoorY": 2776239,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13807",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段168-62地號桃園市蘆竹區坑子口段頭前小段168-63地號",
+            "Kind_No": "Farm",
+            "CoorX": 276004,
+            "CoorY": 2776758,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13781",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段210(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276483,
+            "CoorY": 2776283,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13942",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段172-21地號、172-22地號",
+            "Kind_No": "Farm",
+            "CoorX": 276044,
+            "CoorY": 2776612,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 8,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11378",
+            "Site_Name": "茂琳企業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 197647,
+            "CoorY": 2664375,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H13351",
+            "Site_Name": "揚堡實業有限公司觀音廠",
+            "Kind_No": "Factory",
+            "CoorX": 260760,
+            "CoorY": 2772242,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11374",
+            "Site_Name": "蓬萊金島企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202812,
+            "CoorY": 2661330,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10412",
+            "Site_Name": "臺南市永康區東邊寮段1015-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 175325,
+            "CoorY": 2550456,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10313",
+            "Site_Name": "七股區十分塭段R671地號",
+            "Kind_No": "Other",
+            "CoorX": 159252,
+            "CoorY": 2554463,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10102",
+            "Site_Name": "全興避震器股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 251010,
+            "CoorY": 2751243,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10409",
+            "Site_Name": "南區鹽埕段3036-0053地號",
+            "Kind_No": "Factory",
+            "CoorX": 165720,
+            "CoorY": 2540643,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N12431",
+            "Site_Name": "花壇鄉溪北段0758-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 203465,
+            "CoorY": 2660193,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10456",
+            "Site_Name": "南區同安段0009-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167201,
+            "CoorY": 2536067,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N12074",
+            "Site_Name": "學一企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 183517,
+            "CoorY": 2645558,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11795",
+            "Site_Name": "臺中市梧棲區港口段335-9地號",
+            "Kind_No": "Tank",
+            "CoorX": 200020,
+            "CoorY": 2686112,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10437",
+            "Site_Name": "林園先進材料科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 189074,
+            "CoorY": 2487403,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N10955",
+            "Site_Name": "建芳五金股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 197814,
+            "CoorY": 2670507,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11772",
+            "Site_Name": "臺中市南屯區文山段212地號",
+            "Kind_No": "Factory",
+            "CoorX": 209446,
+            "CoorY": 2673553,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10306",
+            "Site_Name": "原耀元電子股份有限公司大園廠",
+            "Kind_No": "Factory",
+            "CoorX": 269352,
+            "CoorY": 2773751,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10403",
+            "Site_Name": "楠梓加工出口區東北側區內及周界",
+            "Kind_No": "Factory",
+            "CoorX": 179170,
+            "CoorY": 2514179,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10277",
+            "Site_Name": "原勇韶有限公司樹林廠",
+            "Kind_No": "Factory",
+            "CoorX": 291626,
+            "CoorY": 2764447,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H12873",
+            "Site_Name": "三府實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 268719,
+            "CoorY": 2774494,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N12040",
+            "Site_Name": "彰化縣秀水鄉復興段0191-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197638,
+            "CoorY": 2663190,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10142",
+            "Site_Name": "竹南鎮龍鳳東段1081地號土地",
+            "Kind_No": "Other",
+            "CoorX": 237805,
+            "CoorY": 2731804,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

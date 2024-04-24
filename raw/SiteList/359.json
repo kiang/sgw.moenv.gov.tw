@@ -1,0 +1,189 @@
+{
+    "PageNo": 359,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "A00004",
+            "Site_Name": "臺北市北投區八仙段一小段一四○(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 301310,
+            "CoorY": 2777998,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00009",
+            "Site_Name": "高雄縣大寮鄉磚子嗂段4018地號",
+            "Kind_No": "Farm",
+            "CoorX": 186323,
+            "CoorY": 2503851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00010",
+            "Site_Name": "高雄縣大寮鄉磚子嗂段4020地號",
+            "Kind_No": "Farm",
+            "CoorX": 186345,
+            "CoorY": 2503803,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00011",
+            "Site_Name": "高雄縣大寮鄉磚子嗂段4028地號",
+            "Kind_No": "Farm",
+            "CoorX": 186419,
+            "CoorY": 2503661,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00012",
+            "Site_Name": "高雄縣大寮鄉磚子嗂段4031地號",
+            "Kind_No": "Farm",
+            "CoorX": 186443,
+            "CoorY": 2503619,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00013",
+            "Site_Name": "高雄縣大寮鄉翁公園段4099地號",
+            "Kind_No": "Farm",
+            "CoorX": 186822,
+            "CoorY": 2503434,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00016",
+            "Site_Name": "高雄縣阿蓮鄉土庫段1320地號",
+            "Kind_No": "Farm",
+            "CoorX": 179307,
+            "CoorY": 2526965,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00017",
+            "Site_Name": "高雄縣阿蓮鄉土庫段1321地號",
+            "Kind_No": "Farm",
+            "CoorX": 179282,
+            "CoorY": 2526963,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00018",
+            "Site_Name": "高雄縣湖內鄉海埔段2312地號",
+            "Kind_No": "Farm",
+            "CoorX": 170904,
+            "CoorY": 2534309,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00020",
+            "Site_Name": "臺中縣大甲區福安段997地號",
+            "Kind_No": "Farm",
+            "CoorX": 213711,
+            "CoorY": 2700630,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T00001",
+            "Site_Name": "屏東縣九如鄉彭厝段1425地號",
+            "Kind_No": "Farm",
+            "CoorX": 201697,
+            "CoorY": 2513934,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00016",
+            "Site_Name": "台南市同安段615地號",
+            "Kind_No": "Farm",
+            "CoorX": 166637,
+            "CoorY": 2535855,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00017",
+            "Site_Name": "台南市同安段581地號",
+            "Kind_No": "Farm",
+            "CoorX": 166733,
+            "CoorY": 2535879,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00012",
+            "Site_Name": "台南市興農段762地號",
+            "Kind_No": "Other",
+            "CoorX": 167014,
+            "CoorY": 2536322,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00004",
+            "Site_Name": "台南市興農段731地號",
+            "Kind_No": "Farm",
+            "CoorX": 167092,
+            "CoorY": 2536357,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00006",
+            "Site_Name": "台南市興農段641地號",
+            "Kind_No": "Farm",
+            "CoorX": 167251,
+            "CoorY": 2536546,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00005",
+            "Site_Name": "台北縣泰山鄉泰山段二小段738地號",
+            "Kind_No": "Farm",
+            "CoorX": 293964,
+            "CoorY": 2770349,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00010",
+            "Site_Name": "台北縣新莊市海山頭段三角子小段92-8號",
+            "Kind_No": "Farm",
+            "CoorX": 293756,
+            "CoorY": 2770270,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00011",
+            "Site_Name": "台北縣新莊市海山頭段三角子小段92-10號",
+            "Kind_No": "Farm",
+            "CoorX": 293843,
+            "CoorY": 2770169,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00012",
+            "Site_Name": "台北縣新莊市海山頭段三角子小段92-15號",
+            "Kind_No": "Farm",
+            "CoorX": 294061,
+            "CoorY": 2770088,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

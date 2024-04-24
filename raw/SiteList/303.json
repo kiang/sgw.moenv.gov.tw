@@ -1,0 +1,189 @@
+{
+    "PageNo": 303,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10239",
+            "Site_Name": "大園鄉五塊厝段下埔小段840地號",
+            "Kind_No": "Farm",
+            "CoorX": 272166,
+            "CoorY": 2769499,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10195",
+            "Site_Name": "蘆竹鄉新庄子段1672-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 274774,
+            "CoorY": 2769028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10196",
+            "Site_Name": "蘆竹鄉新庄子段1683地號",
+            "Kind_No": "Farm",
+            "CoorX": 274786,
+            "CoorY": 2769138,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10177",
+            "Site_Name": "蘆竹鄉新庄子段768地號",
+            "Kind_No": "Farm",
+            "CoorX": 274613,
+            "CoorY": 2769180,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00057",
+            "Site_Name": "桃園縣蘆竹鄉中興段589地號",
+            "Kind_No": "Farm",
+            "CoorX": 275289,
+            "CoorY": 2767881,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00040",
+            "Site_Name": "桃園縣蘆竹鄉中興段869-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275324,
+            "CoorY": 2767328,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00041",
+            "Site_Name": "桃園縣蘆竹鄉中興段867地號",
+            "Kind_No": "Farm",
+            "CoorX": 275314,
+            "CoorY": 2767370,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00042",
+            "Site_Name": "桃園縣蘆竹鄉中興段866地號",
+            "Kind_No": "Farm",
+            "CoorX": 275308,
+            "CoorY": 2767389,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11340",
+            "Site_Name": "臺中市潭子區工區段25-1、25-6地號",
+            "Kind_No": "Factory",
+            "CoorX": 219485,
+            "CoorY": 2679423,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00003",
+            "Site_Name": "臺南市將軍區巷口段一小段 9、10、13及40地號",
+            "Kind_No": "Discard",
+            "CoorX": 164216,
+            "CoorY": 2570583,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10011",
+            "Site_Name": "通霄鎮通灣段台1線129公里",
+            "Kind_No": "Other",
+            "CoorX": 218852,
+            "CoorY": 2712974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10483",
+            "Site_Name": "臺中市大里區詹厝園段5-23(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217219,
+            "CoorY": 2665257,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10484",
+            "Site_Name": "臺中市大里區詹厝園段176-140地號",
+            "Kind_No": "Farm",
+            "CoorX": 216091,
+            "CoorY": 2665082,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10285",
+            "Site_Name": "彰化縣田尾鄉和平段0759地號",
+            "Kind_No": "Other",
+            "CoorX": 204840,
+            "CoorY": 2643268,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10032",
+            "Site_Name": "臺中市大雅區西員寶地段0034-0012地號(豐穫工業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 216411,
+            "CoorY": 2679039,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10067",
+            "Site_Name": "台亞石油股份有限公司台亞汐止新台五一加油站",
+            "Kind_No": "Gas",
+            "CoorX": 315729,
+            "CoorY": 2772770,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10011",
+            "Site_Name": "大學加油站",
+            "Kind_No": "Gas",
+            "CoorX": 203911,
+            "CoorY": 2621922,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10012",
+            "Site_Name": "新南環路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 204776,
+            "CoorY": 2623126,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10037",
+            "Site_Name": "全民加油站",
+            "Kind_No": "Gas",
+            "CoorX": 167788,
+            "CoorY": 2622978,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00023",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1965地號(原桃園縣蘆竹鄉新庄子段1966地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275113,
+            "CoorY": 2768274,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

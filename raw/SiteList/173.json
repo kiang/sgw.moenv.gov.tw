@@ -1,0 +1,189 @@
+{
+    "PageNo": 173,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H13604",
+            "Site_Name": "桃園市大園區竹圍段崁下小段261-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 276254,
+            "CoorY": 2774782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13605",
+            "Site_Name": "桃園市大園區竹圍段崁下小段261-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 276254,
+            "CoorY": 2774782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13606",
+            "Site_Name": "桃園市大園區竹圍段崁下小段261-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 276320,
+            "CoorY": 2774810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13609",
+            "Site_Name": "桃園市大園區竹圍段崁下小段261-24地號",
+            "Kind_No": "Farm",
+            "CoorX": 276254,
+            "CoorY": 2774782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13619",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13620",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13621",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13622",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-11地號",
+            "Kind_No": "Farm",
+            "CoorX": 276254,
+            "CoorY": 2774782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13623",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-16地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13624",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-17地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13625",
+            "Site_Name": "桃園市大園區竹圍段崁下小段271-18地號",
+            "Kind_No": "Farm",
+            "CoorX": 276306,
+            "CoorY": 2774767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13649",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段31地號",
+            "Kind_No": "Farm",
+            "CoorX": 276949,
+            "CoorY": 2774629,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13650",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-143地號",
+            "Kind_No": "Farm",
+            "CoorX": 276851,
+            "CoorY": 2774732,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12250",
+            "Site_Name": "彰化縣彰化市線東段0852-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201233,
+            "CoorY": 2663973,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12096",
+            "Site_Name": "彰化縣彰化市彰興段0189-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199634,
+            "CoorY": 2663351,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12097",
+            "Site_Name": "彰化縣彰化市彰興段0190-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199631,
+            "CoorY": 2663325,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12099",
+            "Site_Name": "彰化縣彰化市彰興段0192-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199623,
+            "CoorY": 2663235,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12100",
+            "Site_Name": "彰化縣彰化市彰興段0185-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199641,
+            "CoorY": 2663433,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12101",
+            "Site_Name": "彰化縣彰化市彰興段0187-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199635,
+            "CoorY": 2663378,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12102",
+            "Site_Name": "彰化縣彰化市彰興段0188-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199635,
+            "CoorY": 2663364,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 192,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13638",
+            "Site_Name": "彰化縣花壇鄉長沙段0327-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203750,
+            "CoorY": 2658261,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11608",
+            "Site_Name": "彰化縣鹿港鎮頂和段0404-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198104,
+            "CoorY": 2664759,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11888",
+            "Site_Name": "彰化縣和美鎮仁和段0552-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198967,
+            "CoorY": 2666446,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12025",
+            "Site_Name": "彰化縣和美鎮仁和段0555-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198991,
+            "CoorY": 2666432,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12026",
+            "Site_Name": "彰化縣和美鎮仁和段0556-0000(部分)",
+            "Kind_No": "Farm",
+            "CoorX": 198995,
+            "CoorY": 2666417,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12027",
+            "Site_Name": "彰化縣和美鎮仁和段0559-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198987,
+            "CoorY": 2666412,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11417",
+            "Site_Name": "順盛五金企業社",
+            "Kind_No": "Factory",
+            "CoorX": 204057,
+            "CoorY": 2665978,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10311",
+            "Site_Name": "安平加油站",
+            "Kind_No": "Gas",
+            "CoorX": 165789,
+            "CoorY": 2542218,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00208",
+            "Site_Name": "桃園縣蘆竹鄉中興段1295地號",
+            "Kind_No": "Farm",
+            "CoorX": 275310,
+            "CoorY": 2766693,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00197",
+            "Site_Name": "桃園縣蘆竹鄉中興段533地號",
+            "Kind_No": "Farm",
+            "CoorX": 275515,
+            "CoorY": 2767851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00126",
+            "Site_Name": "桃園縣蘆竹鄉中興段152-1地號(新中段658地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275250,
+            "CoorY": 2767240,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00127",
+            "Site_Name": "桃園縣蘆竹鄉中興段152-2地號(新中段663地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275225,
+            "CoorY": 2767225,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00180",
+            "Site_Name": "桃園縣蘆竹鄉福興段18-1地號(現為德林段1061地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276696,
+            "CoorY": 2765987,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00181",
+            "Site_Name": "桃園縣蘆竹鄉福興段19-1地號(現為德林段1059地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276691,
+            "CoorY": 2766011,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00149",
+            "Site_Name": "桃園縣蘆竹鄉中興段74地號(現為德林段578地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275656,
+            "CoorY": 2766956,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00150",
+            "Site_Name": "桃園縣蘆竹鄉德林段577地號(原蘆竹鄉中興段75-1地號)(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 276467,
+            "CoorY": 2766750,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00151",
+            "Site_Name": "桃園縣蘆竹鄉中興段80-3地號(現為德林段567地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275556,
+            "CoorY": 2766700,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00163",
+            "Site_Name": "桃園縣蘆竹鄉德林段616地號(原為中興段99-18地號)(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 276132,
+            "CoorY": 2766550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00077",
+            "Site_Name": "桃園縣蘆竹鄉中興段897地號",
+            "Kind_No": "Farm",
+            "CoorX": 275445,
+            "CoorY": 2767276,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10786",
+            "Site_Name": "蘆竹鄉新庄子段1704-5地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275061,
+            "CoorY": 2768790,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

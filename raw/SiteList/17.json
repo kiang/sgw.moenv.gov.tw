@@ -1,0 +1,189 @@
+{
+    "PageNo": 17,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "K10120",
+            "Site_Name": "虹銘股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 238169,
+            "CoorY": 2731916,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10607",
+            "Site_Name": "強新電工股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 200593,
+            "CoorY": 2661057,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H12878",
+            "Site_Name": "桃園市龍潭區(原為桃園縣龍潭鄉)銅鑼圈段94-3地號(劦呈股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 269965,
+            "CoorY": 2748798,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "J10085",
+            "Site_Name": "新竹縣湖口鄉建興段建興小段0028地號(華淵電機工業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 250906,
+            "CoorY": 2751457,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H12868",
+            "Site_Name": "原桃園縣龍潭鄉(現為桃圉市龍潭區)潛龍段31、58、59、60、93、96、98、99地號(錦明實業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 270462,
+            "CoorY": 2753398,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "B11329",
+            "Site_Name": "臺中市大里區振坤段0001-0000及0002-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 220666,
+            "CoorY": 2666507,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10638",
+            "Site_Name": "景二金屬工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 204237,
+            "CoorY": 2661719,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10287",
+            "Site_Name": "閏江企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 165897,
+            "CoorY": 2542124,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10071",
+            "Site_Name": "新北市新店區安和段49、51及52地號原金隆興金屬工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 302069,
+            "CoorY": 2763418,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "Q10474",
+            "Site_Name": "鑫榮機械工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 192228,
+            "CoorY": 2602318,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10030",
+            "Site_Name": "原禮樂煉銅廠",
+            "Kind_No": "Factory",
+            "CoorX": 338320,
+            "CoorY": 2779677,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "T10100",
+            "Site_Name": "屏東縣長治鄉榮興段1140地號(部分)、1141地號(部分)",
+            "Kind_No": "Discard",
+            "CoorX": 203741,
+            "CoorY": 2507777,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "P10536",
+            "Site_Name": "臺灣化學纖維股份有限公司海豐廠芳香烴三廠",
+            "Kind_No": "Factory",
+            "CoorX": 166871,
+            "CoorY": 2629816,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10552",
+            "Site_Name": "景大工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202041,
+            "CoorY": 2661759,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "S00002",
+            "Site_Name": "台灣中油股份有限公司石化事業部林園石化廠",
+            "Kind_No": "Factory",
+            "CoorX": 188966,
+            "CoorY": 2488883,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10550",
+            "Site_Name": "虹貿實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 203459,
+            "CoorY": 2659622,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E10033",
+            "Site_Name": "台灣中油股份有限公司煉製事業部大林煉油廠",
+            "Kind_No": "Factory",
+            "CoorX": 184271,
+            "CoorY": 2492252,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10170",
+            "Site_Name": "台灣多代精密股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 180856,
+            "CoorY": 2567292,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "R10140",
+            "Site_Name": "臺南市仁德區公園段0270-0000地號",
+            "Kind_No": "Discard",
+            "CoorX": 170367,
+            "CoorY": 2536676,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "L10306",
+            "Site_Name": "興農股份有限公司王田廠",
+            "Kind_No": "Factory",
+            "CoorX": 207196,
+            "CoorY": 2667279,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        }
+    ]
+}

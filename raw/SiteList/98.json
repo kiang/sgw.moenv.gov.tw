@@ -1,0 +1,189 @@
+{
+    "PageNo": 98,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H14218",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277068,
+            "CoorY": 2773392,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14219",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277096,
+            "CoorY": 2773364,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14369",
+            "Site_Name": "桃園市蘆竹區內興段1040(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276841,
+            "CoorY": 2772864,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14382",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277036,
+            "CoorY": 2773436,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14341",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277010,
+            "CoorY": 2773326,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14338",
+            "Site_Name": "桃園市蘆竹區內興段911(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276616,
+            "CoorY": 2772968,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14378",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277082,
+            "CoorY": 2773348,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13731",
+            "Site_Name": "桃園市大園區竹圍段崁腳小段130、130-1、131-7地號(部分)",
+            "Kind_No": "Farm",
+            "CoorX": 275794,
+            "CoorY": 2775979,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00017",
+            "Site_Name": "建國路加油站有限公司建國路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 192378,
+            "CoorY": 2598095,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10154",
+            "Site_Name": "中壢工業區中工段113、7-20地號",
+            "Kind_No": "Factory",
+            "CoorX": 275144,
+            "CoorY": 2765004,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11123",
+            "Site_Name": "彰化縣鹿港鎮頂和段0409-0000(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 198082,
+            "CoorY": 2664686,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11442",
+            "Site_Name": "彰化縣鹿港鎮頂和段0419-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198023,
+            "CoorY": 2664398,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11626",
+            "Site_Name": "彰化縣鹿港鎮鹿鳳段0642-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197741,
+            "CoorY": 2664874,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13628",
+            "Site_Name": "彰化縣花壇鄉長沙段0316-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203615,
+            "CoorY": 2658349,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13629",
+            "Site_Name": "彰化縣花壇鄉長沙段0317-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203616,
+            "CoorY": 2658386,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13624",
+            "Site_Name": "彰化縣花壇鄉長沙段0312-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203627,
+            "CoorY": 2658315,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13625",
+            "Site_Name": "彰化縣花壇鄉長沙段0313-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203588,
+            "CoorY": 2658299,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13626",
+            "Site_Name": "彰化縣花壇鄉長沙段0314-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203608,
+            "CoorY": 2658321,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13619",
+            "Site_Name": "彰化縣花壇鄉口庄段0173-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201171,
+            "CoorY": 2660605,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13959",
+            "Site_Name": "彰化縣花壇鄉溪南段1223-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203373,
+            "CoorY": 2659324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

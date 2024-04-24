@@ -1,0 +1,189 @@
+{
+    "PageNo": 12,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F10131",
+            "Site_Name": "新莊區瓊林段998地號北基加油站股份有限公司新北市幸運加油站",
+            "Kind_No": "Gas",
+            "CoorX": 293925,
+            "CoorY": 2768415,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10029",
+            "Site_Name": "新北市林口區嘉寶三段1608(部分)、1615(部分)等2筆地號",
+            "Kind_No": "Other",
+            "CoorX": 281562,
+            "CoorY": 2779198,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B10043",
+            "Site_Name": "臺中市潭子區工區段0216-0000地號為地下水污染控制場址",
+            "Kind_No": "Other",
+            "CoorX": 219632,
+            "CoorY": 2679091,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B10045",
+            "Site_Name": "臺中市潭子區工區段0217-0000地號為地下水污染控制場址",
+            "Kind_No": "Other",
+            "CoorX": 219835,
+            "CoorY": 2679041,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10186",
+            "Site_Name": "鼓山區內惟段九小段40地號",
+            "Kind_No": "Other",
+            "CoorX": 175815,
+            "CoorY": 2505252,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10187",
+            "Site_Name": "鼓山區內惟段九小段41地號",
+            "Kind_No": "Other",
+            "CoorX": 175811,
+            "CoorY": 2505210,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10189",
+            "Site_Name": "鼓山區內惟段九小段54地號",
+            "Kind_No": "Other",
+            "CoorX": 175930,
+            "CoorY": 2505254,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10190",
+            "Site_Name": "鼓山區內惟段九小段55地號",
+            "Kind_No": "Other",
+            "CoorX": 175903,
+            "CoorY": 2505208,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10155",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區",
+            "Kind_No": "Factory",
+            "CoorX": 179646,
+            "CoorY": 2512233,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10021",
+            "Site_Name": "原台灣鹼業股份有限公司(部分廠址)",
+            "Kind_No": "Factory",
+            "CoorX": 291075,
+            "CoorY": 2763182,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "T10008",
+            "Site_Name": "(T004)屏東縣長治鄉興華段922部分地號",
+            "Kind_No": "Discard",
+            "CoorX": 204387,
+            "CoorY": 2509104,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "T10067",
+            "Site_Name": "(T004)屏東縣長治鄉榮華段1682地號(部分)",
+            "Kind_No": "Discard",
+            "CoorX": 204701,
+            "CoorY": 2508894,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "S10002",
+            "Site_Name": "大寮鄉新庄段0570、0860、0863及0873地號",
+            "Kind_No": "Discard",
+            "CoorX": 188612,
+            "CoorY": 2495045,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10141",
+            "Site_Name": "苓雅區意誠里新光社區(意誠段776地號等49筆土地)場址",
+            "Kind_No": "Other",
+            "CoorX": 177950,
+            "CoorY": 2501340,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F00018",
+            "Site_Name": "原正泰化工股份有限公司(部分場址)",
+            "Kind_No": "Factory",
+            "CoorX": 293570,
+            "CoorY": 2766597,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10255",
+            "Site_Name": "萬象製革廠股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 226922,
+            "CoorY": 2701456,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10095",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠北側綠帶(後勁段四小段146-1、148-1、153-1、155、156-1、158地號)場址",
+            "Kind_No": "Other",
+            "CoorX": 179716,
+            "CoorY": 2512831,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "S10032",
+            "Site_Name": "上源加油站股份有限公司上源加油站",
+            "Kind_No": "Gas",
+            "CoorX": 185701,
+            "CoorY": 2502634,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10084",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區後勁段月眉小段756、758-3、801地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 179736,
+            "CoorY": 2512684,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10016",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區東門區域場址",
+            "Kind_No": "Factory",
+            "CoorX": 179981,
+            "CoorY": 2512427,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

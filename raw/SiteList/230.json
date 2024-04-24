@@ -1,0 +1,189 @@
+{
+    "PageNo": 230,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10493",
+            "Site_Name": "大園鄉五塊厝段下埔小段1521地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272988,
+            "CoorY": 2767481,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10498",
+            "Site_Name": "大園鄉五塊厝段下埔小段1561地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272788,
+            "CoorY": 2767310,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10499",
+            "Site_Name": "大園鄉五塊厝段下埔小段1570地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272778,
+            "CoorY": 2767418,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11039",
+            "Site_Name": "大園鄉五塊厝段下埔小段1554地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272854,
+            "CoorY": 2767187,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11044",
+            "Site_Name": "大園鄉五塊厝段下埔小段1571-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272764,
+            "CoorY": 2767477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11102",
+            "Site_Name": "大園鄉五塊厝段下埔小段1800-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272602,
+            "CoorY": 2766925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11171",
+            "Site_Name": "大園鄉五塊厝段下埔小段1805-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272602,
+            "CoorY": 2766925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11172",
+            "Site_Name": "大園鄉五塊厝段下埔小段1806-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272596,
+            "CoorY": 2766854,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11169",
+            "Site_Name": "大園鄉五塊厝段下埔小段1566-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272788,
+            "CoorY": 2767310,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11163",
+            "Site_Name": "大園鄉五塊厝段下埔小段1760地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272752,
+            "CoorY": 2766718,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11161",
+            "Site_Name": "大園鄉五塊厝段下埔小段1680地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272928,
+            "CoorY": 2766761,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10027",
+            "Site_Name": "嘉義縣派奇有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 182770,
+            "CoorY": 2593454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10303",
+            "Site_Name": "明興鋼鐵工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 179035,
+            "CoorY": 2506008,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00001",
+            "Site_Name": "高雄市大寮區福德爺廟場址",
+            "Kind_No": "Other",
+            "CoorX": 189137,
+            "CoorY": 2494888,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12877",
+            "Site_Name": "高銀化學工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 255718,
+            "CoorY": 2768342,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13703",
+            "Site_Name": "彰化縣鹿港鎮永安段0333-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 194550,
+            "CoorY": 2664079,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13704",
+            "Site_Name": "彰化縣鹿港鎮永安段0333-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 194548,
+            "CoorY": 2664064,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12841",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段652-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 274586,
+            "CoorY": 2769533,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12842",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段603(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274558,
+            "CoorY": 2769593,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12265",
+            "Site_Name": "大園鄉圳股頭段後館小段119-7地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270389,
+            "CoorY": 2773838,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

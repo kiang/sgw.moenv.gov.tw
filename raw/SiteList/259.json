@@ -1,0 +1,189 @@
+{
+    "PageNo": 259,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12668",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段225-12地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273085,
+            "CoorY": 2771707,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12752",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段616地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273482,
+            "CoorY": 2772887,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12753",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段617地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273482,
+            "CoorY": 2772887,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12754",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段618地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273482,
+            "CoorY": 2772887,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12730",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段764地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273282,
+            "CoorY": 2772149,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12731",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段765地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273282,
+            "CoorY": 2772149,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12732",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段766地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273292,
+            "CoorY": 2772131,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12712",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段733地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273647,
+            "CoorY": 2772261,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13326",
+            "Site_Name": "大園區埔心段三塊厝小段282-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 273679,
+            "CoorY": 2770390,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13330",
+            "Site_Name": "大園區埔心段三塊厝小段95(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273152,
+            "CoorY": 2770741,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13331",
+            "Site_Name": "大園區埔心段三塊厝小段96(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273152,
+            "CoorY": 2770741,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12850",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1682地號",
+            "Kind_No": "Farm",
+            "CoorX": 274786,
+            "CoorY": 2769138,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12844",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段769(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274613,
+            "CoorY": 2769180,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12845",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段885(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274328,
+            "CoorY": 2769316,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12829",
+            "Site_Name": "大園鄉五塊厝段下埔小段906地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272010,
+            "CoorY": 2769413,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12830",
+            "Site_Name": "大園鄉五塊厝段下埔小段907地號",
+            "Kind_No": "Farm",
+            "CoorX": 272010,
+            "CoorY": 2769413,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12831",
+            "Site_Name": "大園鄉五塊厝段下埔小段909地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272010,
+            "CoorY": 2769413,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12846",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1039(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274121,
+            "CoorY": 2769129,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10672",
+            "Site_Name": "蘆竹鄉新庄子段927地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274168,
+            "CoorY": 2769342,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10478",
+            "Site_Name": "義竹鄉五間厝段祥和小段202地號",
+            "Kind_No": "Farm",
+            "CoorX": 174487,
+            "CoorY": 2583582,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

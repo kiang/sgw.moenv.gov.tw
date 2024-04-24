@@ -1,0 +1,189 @@
+{
+    "PageNo": 360,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F00013",
+            "Site_Name": "台北縣新莊市海山頭段三角子小段92-16號",
+            "Kind_No": "Farm",
+            "CoorX": 294054,
+            "CoorY": 2770049,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00011",
+            "Site_Name": "桃園縣蘆竹鄉新興段706地號(現為新福段850地號)",
+            "Kind_No": "Farm",
+            "CoorX": 277005,
+            "CoorY": 2765470,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00012",
+            "Site_Name": "桃園縣蘆竹鄉福興段32-5地號(現為新福段566地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276953,
+            "CoorY": 2765365,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00013",
+            "Site_Name": "桃園縣蘆竹鄉福興段25地號(現為新福段277地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276838,
+            "CoorY": 2765653,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00014",
+            "Site_Name": "桃園縣蘆竹鄉福興段25-4地號(現為新福段537地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276934,
+            "CoorY": 2765499,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00052",
+            "Site_Name": "桃園縣蘆竹鄉中興段534地號",
+            "Kind_No": "Farm",
+            "CoorX": 275523,
+            "CoorY": 2767833,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00053",
+            "Site_Name": "桃園縣蘆竹鄉中興段535地號",
+            "Kind_No": "Farm",
+            "CoorX": 275534,
+            "CoorY": 2767808,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00054",
+            "Site_Name": "桃園縣蘆竹鄉中興段536地號",
+            "Kind_No": "Farm",
+            "CoorX": 275543,
+            "CoorY": 2767788,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00055",
+            "Site_Name": "桃園縣蘆竹鄉中興段587地號",
+            "Kind_No": "Farm",
+            "CoorX": 275302,
+            "CoorY": 2767827,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00071",
+            "Site_Name": "桃園縣蘆竹鄉中興段669地號",
+            "Kind_No": "Farm",
+            "CoorX": 275193,
+            "CoorY": 2767848,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00072",
+            "Site_Name": "桃園縣蘆竹鄉中興段670地號",
+            "Kind_No": "Farm",
+            "CoorX": 275214,
+            "CoorY": 2767880,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00132",
+            "Site_Name": "新竹市香山區香雅段403地號",
+            "Kind_No": "Farm",
+            "CoorX": 242585,
+            "CoorY": 2743132,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00158",
+            "Site_Name": "新竹市香山區三姓段0010地號",
+            "Kind_No": "Farm",
+            "CoorX": 242972,
+            "CoorY": 2743107,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00159",
+            "Site_Name": "新竹市香山區三姓段0011地號",
+            "Kind_No": "Farm",
+            "CoorX": 242966,
+            "CoorY": 2743073,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00160",
+            "Site_Name": "新竹市東區水源段0788地號",
+            "Kind_No": "Farm",
+            "CoorX": 249445,
+            "CoorY": 2744779,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00161",
+            "Site_Name": "新竹市東區水源段1082地號",
+            "Kind_No": "Farm",
+            "CoorX": 249491,
+            "CoorY": 2744428,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00162",
+            "Site_Name": "新竹市東區水源段1085地號",
+            "Kind_No": "Farm",
+            "CoorX": 249423,
+            "CoorY": 2744497,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00163",
+            "Site_Name": "新竹市東區水源段1086地號",
+            "Kind_No": "Farm",
+            "CoorX": 249465,
+            "CoorY": 2744501,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00164",
+            "Site_Name": "新竹市東區水源段1096地號",
+            "Kind_No": "Farm",
+            "CoorX": 249502,
+            "CoorY": 2744575,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00165",
+            "Site_Name": "新竹市東區水源段1106地號",
+            "Kind_No": "Farm",
+            "CoorX": 249528,
+            "CoorY": 2744644,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

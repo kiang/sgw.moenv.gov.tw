@@ -1,0 +1,189 @@
+{
+    "PageNo": 253,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10182",
+            "Site_Name": "土城加油站",
+            "Kind_No": "Gas",
+            "CoorX": 161329,
+            "CoorY": 2552135,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "M10090",
+            "Site_Name": "南光站",
+            "Kind_No": "Gas",
+            "CoorX": 235172,
+            "CoorY": 2633656,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10143",
+            "Site_Name": "中國石油化學工業開發股份有限公司前鎮廠場址(地下水污染行為人：台灣氯乙烯公司)",
+            "Kind_No": "Factory",
+            "CoorX": 179096,
+            "CoorY": 2500149,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10166",
+            "Site_Name": "五結鄉五結段970地號(東寶加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 328740,
+            "CoorY": 2730801,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12671",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段225-21地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273103,
+            "CoorY": 2771673,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11056",
+            "Site_Name": "大園鄉五塊厝段下埔小段1790地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272752,
+            "CoorY": 2767117,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11057",
+            "Site_Name": "大園鄉五塊厝段下埔小段1791地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272752,
+            "CoorY": 2767098,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10210",
+            "Site_Name": "高雄市前鎮區憲德段二小段9地號",
+            "Kind_No": "Factory",
+            "CoorX": 179775,
+            "CoorY": 2500841,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10426",
+            "Site_Name": "大園鄉埔心段埔心小段595地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272579,
+            "CoorY": 2771061,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10161",
+            "Site_Name": "佳興加油站",
+            "Kind_No": "Gas",
+            "CoorX": 280032,
+            "CoorY": 2759210,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10210",
+            "Site_Name": "大園鄉埔心段埔心小段960地號",
+            "Kind_No": "Farm",
+            "CoorX": 272553,
+            "CoorY": 2771288,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10211",
+            "Site_Name": "大園鄉埔心段埔心小段1088-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 272491,
+            "CoorY": 2770956,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00155",
+            "Site_Name": "桃園縣蘆竹鄉中興段87地號(德林段771地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275556,
+            "CoorY": 2766790,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00146",
+            "Site_Name": "桃園縣蘆竹鄉中興段69-20地號(德林段552地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275699,
+            "CoorY": 2767106,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10385",
+            "Site_Name": "大園鄉埔心段埔心小段547地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272878,
+            "CoorY": 2771159,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10375",
+            "Site_Name": "大園鄉埔心段埔心小段506地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272982,
+            "CoorY": 2771223,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10376",
+            "Site_Name": "大園鄉埔心段埔心小段507地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272990,
+            "CoorY": 2771196,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10377",
+            "Site_Name": "大園鄉埔心段埔心小段508地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272990,
+            "CoorY": 2771196,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10327",
+            "Site_Name": "大園鄉五塊厝段下埔小段438地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272911,
+            "CoorY": 2769346,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10328",
+            "Site_Name": "大園鄉五塊厝段下埔小段459地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272892,
+            "CoorY": 2769342,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

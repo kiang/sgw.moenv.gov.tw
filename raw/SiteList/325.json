@@ -1,0 +1,189 @@
+{
+    "PageNo": 325,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N10105",
+            "Site_Name": "彰化縣彰化市莿桐段0930地號",
+            "Kind_No": "Farm",
+            "CoorX": 200166,
+            "CoorY": 2662029,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10127",
+            "Site_Name": "彰化縣彰化市彰興段0146地號",
+            "Kind_No": "Farm",
+            "CoorX": 199851,
+            "CoorY": 2663386,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10110",
+            "Site_Name": "彰化縣鹿港鎮鹿草段1098地號",
+            "Kind_No": "Farm",
+            "CoorX": 194783,
+            "CoorY": 2666319,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10008",
+            "Site_Name": "台亞石油股份有限公司高雄市華盟加油站站址",
+            "Kind_No": "Gas",
+            "CoorX": 177267,
+            "CoorY": 2505577,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10233",
+            "Site_Name": "經濟部所屬本縣彰濱工業區防風林用地(伸港鄉伸興段0064-0000地號)",
+            "Kind_No": "Other",
+            "CoorX": 194474,
+            "CoorY": 2672324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10015",
+            "Site_Name": "永記造漆工業股份有限公司舊廠址",
+            "Kind_No": "Factory",
+            "CoorX": 177000,
+            "CoorY": 2505000,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10087",
+            "Site_Name": "久井企業股份有限公司久井加油加氣站",
+            "Kind_No": "Gas",
+            "CoorX": 169135,
+            "CoorY": 2546985,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10034",
+            "Site_Name": "福懋興業股份有限公司福懋忠孝加油站",
+            "Kind_No": "Gas",
+            "CoorX": 202339,
+            "CoorY": 2664600,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T10039",
+            "Site_Name": "台灣中油公司內埔加油站",
+            "Kind_No": "Gas",
+            "CoorX": 204540,
+            "CoorY": 2502576,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10105",
+            "Site_Name": "台南市南區舉喜段0464-0000地號",
+            "Kind_No": "Discard",
+            "CoorX": 166585,
+            "CoorY": 2536841,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00018",
+            "Site_Name": "嘉義市遠東段418-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 193802,
+            "CoorY": 2601020,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00053",
+            "Site_Name": "嘉義市遠東段485地號",
+            "Kind_No": "Farm",
+            "CoorX": 193478,
+            "CoorY": 2601101,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00001",
+            "Site_Name": "嘉義市遠東段471地號",
+            "Kind_No": "Farm",
+            "CoorX": 193591,
+            "CoorY": 2600974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00004",
+            "Site_Name": "嘉義市遠東段435地號",
+            "Kind_No": "Farm",
+            "CoorX": 192947,
+            "CoorY": 2601243,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00011",
+            "Site_Name": "嘉義市遠東段470地號",
+            "Kind_No": "Farm",
+            "CoorX": 192792,
+            "CoorY": 2601154,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00014",
+            "Site_Name": "嘉義市遠東段428-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 192786,
+            "CoorY": 2601139,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00015",
+            "Site_Name": "嘉義市遠東段473地號",
+            "Kind_No": "Farm",
+            "CoorX": 193811,
+            "CoorY": 2600986,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00016",
+            "Site_Name": "嘉義市遠東段474地號",
+            "Kind_No": "Farm",
+            "CoorX": 194019,
+            "CoorY": 2600993,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00258",
+            "Site_Name": "統一精工龍潭二站加油站",
+            "Kind_No": "Gas",
+            "CoorX": 273022,
+            "CoorY": 2751660,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10236",
+            "Site_Name": "東奕環保事業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 191497,
+            "CoorY": 2669614,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

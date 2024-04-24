@@ -1,0 +1,189 @@
+{
+    "PageNo": 301,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H00186",
+            "Site_Name": "桃園縣蘆竹鄉新興段135-4地號(德林段495地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276654,
+            "CoorY": 2766928,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00183",
+            "Site_Name": "桃園縣蘆竹鄉新興段110-3地號(現為德林段429地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276694,
+            "CoorY": 2767006,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10260",
+            "Site_Name": "新文欽五金企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 198583,
+            "CoorY": 2660874,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10229",
+            "Site_Name": "大園鄉五塊厝段大埔小段346地號",
+            "Kind_No": "Farm",
+            "CoorX": 273435,
+            "CoorY": 2769053,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10040",
+            "Site_Name": "桃園縣楊梅市頭重溪段7地號",
+            "Kind_No": "Farm",
+            "CoorX": 266678,
+            "CoorY": 2756524,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10041",
+            "Site_Name": "桃園縣楊梅市頭重溪段16-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 266656,
+            "CoorY": 2756477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10043",
+            "Site_Name": "桃園縣楊梅市頭重溪段16-13地號",
+            "Kind_No": "Farm",
+            "CoorX": 266785,
+            "CoorY": 2756490,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10044",
+            "Site_Name": "桃園縣楊梅市頭重溪段16-14地號",
+            "Kind_No": "Farm",
+            "CoorX": 266829,
+            "CoorY": 2756541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10045",
+            "Site_Name": "桃園縣楊梅市頭重溪段16-23地號",
+            "Kind_No": "Farm",
+            "CoorX": 266819,
+            "CoorY": 2756529,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10512",
+            "Site_Name": "學田路713號(烏日區山頂段0016-0000(部分)及0019-0000地號)",
+            "Kind_No": "Other",
+            "CoorX": 210068,
+            "CoorY": 2669058,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10188",
+            "Site_Name": "蘆竹鄉新庄子段1041地號",
+            "Kind_No": "Farm",
+            "CoorX": 274135,
+            "CoorY": 2769074,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10173",
+            "Site_Name": "臺南市永康區鹽行段1426-0005地號",
+            "Kind_No": "Other",
+            "CoorX": 172756,
+            "CoorY": 2549303,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00004",
+            "Site_Name": "桃園縣加得滿股份有限公司龍潭交流道加油站",
+            "Kind_No": "Gas",
+            "CoorX": 272141,
+            "CoorY": 2750040,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00027",
+            "Site_Name": "麻豆區安業段472地號",
+            "Kind_No": "Farm",
+            "CoorX": 173017,
+            "CoorY": 2561604,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10013",
+            "Site_Name": "臺南市後壁區新港東段新港東小段1580、1581及1582地號",
+            "Kind_No": "Discard",
+            "CoorX": 181125,
+            "CoorY": 2582576,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10264",
+            "Site_Name": "皇皓企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 280930,
+            "CoorY": 2768329,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10250",
+            "Site_Name": "大園鄉五塊厝段下埔小段1656地號",
+            "Kind_No": "Farm",
+            "CoorX": 272863,
+            "CoorY": 2767056,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10246",
+            "Site_Name": "大園鄉五塊厝段下埔小段1486地號",
+            "Kind_No": "Farm",
+            "CoorX": 272853,
+            "CoorY": 2767803,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10721",
+            "Site_Name": "蘆竹鄉新庄子段1119地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 273920,
+            "CoorY": 2769327,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10903",
+            "Site_Name": "大園鄉埔心段三塊厝小段331地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273452,
+            "CoorY": 2770606,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

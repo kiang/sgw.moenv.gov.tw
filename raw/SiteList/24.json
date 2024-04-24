@@ -1,0 +1,189 @@
+{
+    "PageNo": 24,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N10406",
+            "Site_Name": "彰化縣彰化市彰興段0184-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199593,
+            "CoorY": 2663444,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11265",
+            "Site_Name": "彰化縣彰化市線東段0320-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200529,
+            "CoorY": 2664572,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10057",
+            "Site_Name": "台灣田邊製藥股份有限公司新竹廠",
+            "Kind_No": "Factory",
+            "CoorX": 251889,
+            "CoorY": 2751021,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00636",
+            "Site_Name": "長安加油站",
+            "Kind_No": "Gas",
+            "CoorX": 303618,
+            "CoorY": 2771235,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10350",
+            "Site_Name": "裕源紡織股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 200198,
+            "CoorY": 2665907,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13303",
+            "Site_Name": "榮通工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 198399,
+            "CoorY": 2664160,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10679",
+            "Site_Name": "嘉義縣新港鄉水仙段736、737及738等三筆地號",
+            "Kind_No": "Gas",
+            "CoorX": 179176,
+            "CoorY": 2606446,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11902",
+            "Site_Name": "恭榮企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 218102,
+            "CoorY": 2666030,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18367",
+            "Site_Name": "彰化縣和美鎮嘉慶段0437-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201714,
+            "CoorY": 2665095,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10461",
+            "Site_Name": "上永興工業有限公司(竹園段1298地號)",
+            "Kind_No": "Factory",
+            "CoorX": 182355,
+            "CoorY": 2511208,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10098",
+            "Site_Name": "國泰塑膠工業股份有限公司竹南廠南側廠區",
+            "Kind_No": "Factory",
+            "CoorX": 237546,
+            "CoorY": 2729857,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10269",
+            "Site_Name": "苗栗縣通霄鎮五里牌段隘口寮小段377-92、377-94地號",
+            "Kind_No": "Other",
+            "CoorX": 218039,
+            "CoorY": 2704848,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N17941",
+            "Site_Name": "璟輝有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 198720,
+            "CoorY": 2664058,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13280",
+            "Site_Name": "饒明加油站有限公司",
+            "Kind_No": "Gas",
+            "CoorX": 206859,
+            "CoorY": 2648571,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B12049",
+            "Site_Name": "景順實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 215117,
+            "CoorY": 2699684,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13664",
+            "Site_Name": "(原)華固實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 262631,
+            "CoorY": 2772214,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13243",
+            "Site_Name": "彰化縣和美鎮大霞段1844-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199087,
+            "CoorY": 2664776,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13244",
+            "Site_Name": "彰化縣和美鎮大霞段1845-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199132,
+            "CoorY": 2664739,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13158",
+            "Site_Name": "彰化縣和美鎮大霞段1845-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 199130,
+            "CoorY": 2664769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12926",
+            "Site_Name": "彰化縣和美鎮大雅段0510-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197959,
+            "CoorY": 2666206,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

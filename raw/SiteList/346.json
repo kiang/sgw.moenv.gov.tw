@@ -1,0 +1,189 @@
+{
+    "PageNo": 346,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L00139",
+            "Site_Name": "臺中縣大里區大突寮段348-6(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216658,
+            "CoorY": 2665030,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00140",
+            "Site_Name": "臺中縣大里區大突寮段348-7(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216685,
+            "CoorY": 2665034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00141",
+            "Site_Name": "臺中縣大里區大突寮段349(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216620,
+            "CoorY": 2665020,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00142",
+            "Site_Name": "臺中縣大里區大突寮段349-8(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216664,
+            "CoorY": 2665019,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00143",
+            "Site_Name": "臺中縣大里區大突寮段350(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216609,
+            "CoorY": 2664987,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00133",
+            "Site_Name": "臺中縣大里區大突寮段306(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216657,
+            "CoorY": 2665065,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00134",
+            "Site_Name": "臺中縣大里區大突寮段306-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216523,
+            "CoorY": 2664964,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00159",
+            "Site_Name": "臺中縣大里區大突寮段238-17(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218054,
+            "CoorY": 2665272,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00160",
+            "Site_Name": "臺中縣大里區大突寮段247-27(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217727,
+            "CoorY": 2664976,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00161",
+            "Site_Name": "臺中縣大里區大突寮段247-38(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217694,
+            "CoorY": 2664986,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00162",
+            "Site_Name": "臺中縣大里區大突寮段247-54地號",
+            "Kind_No": "Farm",
+            "CoorX": 217702,
+            "CoorY": 2664985,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00169",
+            "Site_Name": "臺中縣大里區大突寮段247-36(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216776,
+            "CoorY": 2665134,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00028",
+            "Site_Name": "台南縣仁德鄉二橋段597地號",
+            "Kind_No": "Farm",
+            "CoorX": 170291,
+            "CoorY": 2534890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00029",
+            "Site_Name": "台南縣仁德鄉二橋段595-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 170356,
+            "CoorY": 2534983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00033",
+            "Site_Name": "台南縣仁德鄉車路墘段940地號",
+            "Kind_No": "Farm",
+            "CoorX": 170314,
+            "CoorY": 2536352,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q00002",
+            "Site_Name": "臺灣塑膠工業股份有限公司新港廠",
+            "Kind_No": "Tank",
+            "CoorX": 186833,
+            "CoorY": 2601755,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00050",
+            "Site_Name": "台南縣新市鄉港子墘段532、537地號(台亞新市加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 178334,
+            "CoorY": 2552582,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00027",
+            "Site_Name": "高雄縣湖內鄉圍子內段4143地號",
+            "Kind_No": "Farm",
+            "CoorX": 168259,
+            "CoorY": 2534138,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "U00002",
+            "Site_Name": "台灣水泥股份有限公司花蓮廠",
+            "Kind_No": "Factory",
+            "CoorX": 314756,
+            "CoorY": 2656380,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00088",
+            "Site_Name": "桃園縣全國加油站股份有限公司大溪加油站",
+            "Kind_No": "Gas",
+            "CoorX": 277657,
+            "CoorY": 2753813,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

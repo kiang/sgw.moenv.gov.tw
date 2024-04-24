@@ -1,0 +1,189 @@
+{
+    "PageNo": 131,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10564",
+            "Site_Name": "大園鄉埔心段三塊厝小段300地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273746,
+            "CoorY": 2770035,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10405",
+            "Site_Name": "大園鄉埔心段三塊厝小段292地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273815,
+            "CoorY": 2770263,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10407",
+            "Site_Name": "大園鄉埔心段三塊厝小段293地號(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 273823,
+            "CoorY": 2770258,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10378",
+            "Site_Name": "大園鄉埔心段埔心小段513地號",
+            "Kind_No": "Farm",
+            "CoorX": 273041,
+            "CoorY": 2771124,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10307",
+            "Site_Name": "桃興企業股份有限公司(桃園區汴洲段158-2地號)",
+            "Kind_No": "Factory",
+            "CoorX": 280726,
+            "CoorY": 2768913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10243",
+            "Site_Name": "苗栗縣竹南鎮新崎頂段2026地號",
+            "Kind_No": "Farm",
+            "CoorX": 236480,
+            "CoorY": 2732953,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10244",
+            "Site_Name": "苗栗縣竹南鎮新崎頂段2030、2031及2032等3筆地號(部分範圍)土地",
+            "Kind_No": "Farm",
+            "CoorX": 236414,
+            "CoorY": 2732944,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10245",
+            "Site_Name": "苗栗縣竹南鎮新崎頂段2029、2030、2031及2032等4筆地號(部分範圍)土地",
+            "Kind_No": "Farm",
+            "CoorX": 236435,
+            "CoorY": 2732952,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10246",
+            "Site_Name": "苗栗縣竹南鎮新崎頂段2045地號",
+            "Kind_No": "Farm",
+            "CoorX": 236325,
+            "CoorY": 2732989,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10249",
+            "Site_Name": "苗栗縣竹南鎮廣源段1357、1362、1363及1367地號",
+            "Kind_No": "Farm",
+            "CoorX": 240449,
+            "CoorY": 2735218,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10400",
+            "Site_Name": "臺南市南區興農段0632-0001地號",
+            "Kind_No": "Other",
+            "CoorX": 167346,
+            "CoorY": 2536633,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10338",
+            "Site_Name": "臺南市南區興農段0649-0001地號",
+            "Kind_No": "Other",
+            "CoorX": 167265,
+            "CoorY": 2536455,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T10114",
+            "Site_Name": "屏東縣屏東市前進段184、185地號",
+            "Kind_No": "Factory",
+            "CoorX": 195550,
+            "CoorY": 2507066,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10022",
+            "Site_Name": "新竹科學工業園區19號監測井週邊區域",
+            "Kind_No": "Other",
+            "CoorX": 250594,
+            "CoorY": 2741618,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12822",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1262地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272646,
+            "CoorY": 2771990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12823",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1263-3地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272646,
+            "CoorY": 2771990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10215",
+            "Site_Name": "高雄市岡山區台安段546地號",
+            "Kind_No": "Gas",
+            "CoorX": 178185,
+            "CoorY": 2523595,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11381",
+            "Site_Name": "璟鎂電鍍股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 198906,
+            "CoorY": 2664035,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10334",
+            "Site_Name": "大園鄉埔心段三塊厝小段211地號",
+            "Kind_No": "Farm",
+            "CoorX": 273826,
+            "CoorY": 2770479,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10342",
+            "Site_Name": "大園鄉埔心段三塊厝小段255地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273765,
+            "CoorY": 2770487,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

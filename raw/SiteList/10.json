@@ -1,0 +1,189 @@
+{
+    "PageNo": 10,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12837",
+            "Site_Name": "台全電機股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 269042,
+            "CoorY": 2746683,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10223",
+            "Site_Name": "原礄大有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 297282,
+            "CoorY": 2772240,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10103",
+            "Site_Name": "源豐加油站",
+            "Kind_No": "Gas",
+            "CoorX": 178447,
+            "CoorY": 2507765,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N10788",
+            "Site_Name": "彰化縣和美鎮大嘉段0486-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200450,
+            "CoorY": 2666298,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10212",
+            "Site_Name": "幸邦企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 296034,
+            "CoorY": 2773658,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "P10499",
+            "Site_Name": "台灣塑膠股份有限公司麥寮廠氯乙烯廠",
+            "Kind_No": "Factory",
+            "CoorX": 170298,
+            "CoorY": 2633831,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11364",
+            "Site_Name": "臺中市潭子區工區段187、197地號",
+            "Kind_No": "Other",
+            "CoorX": 219681,
+            "CoorY": 2679193,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11339",
+            "Site_Name": "臺中市潭子區工區段198地號",
+            "Kind_No": "Factory",
+            "CoorX": 219662,
+            "CoorY": 2679163,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10196",
+            "Site_Name": "原鎂金金屬有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 294430,
+            "CoorY": 2775616,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11338",
+            "Site_Name": "臺中市南區建成加油站",
+            "Kind_No": "Gas",
+            "CoorX": 217015,
+            "CoorY": 2669038,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11334",
+            "Site_Name": "臺中市潭子區工區段183地號",
+            "Kind_No": "Factory",
+            "CoorX": 219427,
+            "CoorY": 2679167,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11335",
+            "Site_Name": "臺中市潭子區工區段189地號",
+            "Kind_No": "Factory",
+            "CoorX": 219562,
+            "CoorY": 2679108,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11336",
+            "Site_Name": "臺中市潭子區工區段192地號",
+            "Kind_No": "Factory",
+            "CoorX": 219553,
+            "CoorY": 2679166,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11337",
+            "Site_Name": "臺中市潭子區工區段169地號",
+            "Kind_No": "Factory",
+            "CoorX": 219663,
+            "CoorY": 2679310,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10065",
+            "Site_Name": "原順基工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 290464,
+            "CoorY": 2769186,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10207",
+            "Site_Name": "原志和實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 289951,
+            "CoorY": 2761332,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10199",
+            "Site_Name": "錡福企業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292262,
+            "CoorY": 2765679,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10281",
+            "Site_Name": "全峰工業股份有限公司(桃園廠)",
+            "Kind_No": "Factory",
+            "CoorX": 267702,
+            "CoorY": 2773945,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10249",
+            "Site_Name": "臺南市南區同安段0087-0005地號",
+            "Kind_No": "Other",
+            "CoorX": 166936,
+            "CoorY": 2536177,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10156",
+            "Site_Name": "臺南市永康區頂溪段677地號",
+            "Kind_No": "Factory",
+            "CoorX": 169988,
+            "CoorY": 2547345,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

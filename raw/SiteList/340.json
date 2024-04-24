@@ -1,0 +1,189 @@
+{
+    "PageNo": 340,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10022",
+            "Site_Name": "桃園縣八德市中華段228地號",
+            "Kind_No": "Farm",
+            "CoorX": 282470,
+            "CoorY": 2762170,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10023",
+            "Site_Name": "桃園縣八德市中華段924地號",
+            "Kind_No": "Farm",
+            "CoorX": 282228,
+            "CoorY": 2762319,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00272",
+            "Site_Name": "桃園縣八德市中華段192地號",
+            "Kind_No": "Farm",
+            "CoorX": 282507,
+            "CoorY": 2762288,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00273",
+            "Site_Name": "桃園縣八德市中華段237地號",
+            "Kind_No": "Farm",
+            "CoorX": 282428,
+            "CoorY": 2762422,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00274",
+            "Site_Name": "桃園縣八德市中華段122地號",
+            "Kind_No": "Farm",
+            "CoorX": 282393,
+            "CoorY": 2762356,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00275",
+            "Site_Name": "桃園縣八德市中華段193地號",
+            "Kind_No": "Farm",
+            "CoorX": 282626,
+            "CoorY": 2762416,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00276",
+            "Site_Name": "桃園縣八德市中華段195地號",
+            "Kind_No": "Farm",
+            "CoorX": 282595,
+            "CoorY": 2762331,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00277",
+            "Site_Name": "桃園縣八德市中華段230地號",
+            "Kind_No": "Farm",
+            "CoorX": 282446,
+            "CoorY": 2762199,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00278",
+            "Site_Name": "桃園縣八德市中華段231地號",
+            "Kind_No": "Farm",
+            "CoorX": 282439,
+            "CoorY": 2762192,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00279",
+            "Site_Name": "桃園縣八德市中華段240地號",
+            "Kind_No": "Farm",
+            "CoorX": 282441,
+            "CoorY": 2762303,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00280",
+            "Site_Name": "桃園縣八德市中華段279地號",
+            "Kind_No": "Farm",
+            "CoorX": 282413,
+            "CoorY": 2762223,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00281",
+            "Site_Name": "桃園縣八德市中華段242地號",
+            "Kind_No": "Farm",
+            "CoorX": 282360,
+            "CoorY": 2762319,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00282",
+            "Site_Name": "桃園縣八德市中華段242-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 282392,
+            "CoorY": 2762353,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00283",
+            "Site_Name": "桃園縣八德市中華段234地號",
+            "Kind_No": "Farm",
+            "CoorX": 282424,
+            "CoorY": 2762223,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00003",
+            "Site_Name": "桃鶯加油站有限公司所屬桃鶯加油站",
+            "Kind_No": "Gas",
+            "CoorX": 282655,
+            "CoorY": 2763100,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00138",
+            "Site_Name": "桃園縣蘆竹鄉中興段207地號(現為新中段433地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275128,
+            "CoorY": 2767742,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00140",
+            "Site_Name": "桃園縣蘆竹鄉中興段208地號(現為新中段431地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275070,
+            "CoorY": 2767735,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00141",
+            "Site_Name": "桃園縣蘆竹鄉中興段210-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275815,
+            "CoorY": 2767784,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00108",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 275404,
+            "CoorY": 2767104,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00109",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-7地號(現為德林段60地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275437,
+            "CoorY": 2767187,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

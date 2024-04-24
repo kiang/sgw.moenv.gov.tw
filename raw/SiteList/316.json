@@ -1,0 +1,189 @@
+{
+    "PageNo": 316,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "E00023",
+            "Site_Name": "原高雄硫酸錏股份有限公司(憲德段二小段33地號)場址",
+            "Kind_No": "Factory",
+            "CoorX": 179453,
+            "CoorY": 2500649,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "X00007",
+            "Site_Name": "台灣電力股份有限公司尖山發電廠 ",
+            "Kind_No": "Factory",
+            "CoorX": 317412,
+            "CoorY": 2606967,
+            "AreaCode": 3,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10018",
+            "Site_Name": "新埤加油站",
+            "Kind_No": "Gas",
+            "CoorX": 182770,
+            "CoorY": 2593454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10003",
+            "Site_Name": "基隆市安樂區大武崙段內寮小段486-84地號",
+            "Kind_No": "Other",
+            "CoorX": 320612,
+            "CoorY": 2782693,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10004",
+            "Site_Name": "基隆市安樂區大武崙段內寮小段486-2地號",
+            "Kind_No": "Other",
+            "CoorX": 319938,
+            "CoorY": 2783076,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10005",
+            "Site_Name": "基隆市安樂區大武崙段內寮小段486-78地號",
+            "Kind_No": "Other",
+            "CoorX": 320636,
+            "CoorY": 2782694,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10006",
+            "Site_Name": "基隆市安樂區大武崙段內寮小段486-54地號",
+            "Kind_No": "Other",
+            "CoorX": 320576,
+            "CoorY": 2782703,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10007",
+            "Site_Name": "基隆市安樂區大武崙段內寮小段486-82地號",
+            "Kind_No": "Other",
+            "CoorX": 319780,
+            "CoorY": 2782867,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10089",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0298-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 201214,
+            "CoorY": 2664141,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10144",
+            "Site_Name": "彰化縣鹿港鎮頂和段0367地號",
+            "Kind_No": "Farm",
+            "CoorX": 197988,
+            "CoorY": 2664810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10145",
+            "Site_Name": "彰化縣鹿港鎮頂和段0368地號",
+            "Kind_No": "Farm",
+            "CoorX": 197960,
+            "CoorY": 2664790,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10153",
+            "Site_Name": "彰化縣鹿港鎮頂和段0127地號",
+            "Kind_No": "Farm",
+            "CoorX": 197744,
+            "CoorY": 2665051,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10154",
+            "Site_Name": "彰化縣鹿港鎮頂和段0128地號",
+            "Kind_No": "Farm",
+            "CoorX": 197757,
+            "CoorY": 2665034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10155",
+            "Site_Name": "彰化縣鹿港鎮頂和段0065地號",
+            "Kind_No": "Farm",
+            "CoorX": 197946,
+            "CoorY": 2664918,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10164",
+            "Site_Name": "彰化縣鹿港鎮頂和段0120地號",
+            "Kind_No": "Farm",
+            "CoorX": 197806,
+            "CoorY": 2665090,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10166",
+            "Site_Name": "彰化縣鹿港鎮頂和段0090地號",
+            "Kind_No": "Farm",
+            "CoorX": 197981,
+            "CoorY": 2665258,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10220",
+            "Site_Name": "彰化縣彰化市南興段0940-0006地號",
+            "Kind_No": "Farm",
+            "CoorX": 201292,
+            "CoorY": 2661342,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10035",
+            "Site_Name": "彰化縣鹿港鎮頂和段0365-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198012,
+            "CoorY": 2664799,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10054",
+            "Site_Name": "彰化縣彰化市西門口段0336-0023地號",
+            "Kind_No": "Farm",
+            "CoorX": 200884,
+            "CoorY": 2663482,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10068",
+            "Site_Name": "彰化縣彰化市南興段0940地號",
+            "Kind_No": "Farm",
+            "CoorX": 201320,
+            "CoorY": 2661420,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

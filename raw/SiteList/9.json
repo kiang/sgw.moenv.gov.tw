@@ -1,0 +1,189 @@
+{
+    "PageNo": 9,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "K10128",
+            "Site_Name": "頭份市光華段1455地號土地(力有興業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 238340,
+            "CoorY": 2731959,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11738",
+            "Site_Name": "臺中市南屯區文山段221地號",
+            "Kind_No": "Factory",
+            "CoorX": 209879,
+            "CoorY": 2672207,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10137",
+            "Site_Name": "三義鄉雙草湖段582地號土地",
+            "Kind_No": "Discard",
+            "CoorX": 226792,
+            "CoorY": 2701572,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11619",
+            "Site_Name": "彰化縣鹿港鎮鹿鳳段0341-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197631,
+            "CoorY": 2665455,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11620",
+            "Site_Name": "彰化縣鹿港鎮鹿鳳段0342-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197633,
+            "CoorY": 2665431,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11627",
+            "Site_Name": "彰化縣鹿港鎮鹿鳳段0681-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197870,
+            "CoorY": 2664404,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11574",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段0362-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197165,
+            "CoorY": 2665740,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11585",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段0781-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 196850,
+            "CoorY": 2665442,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11688",
+            "Site_Name": "大立光電股份有限公司二廠",
+            "Kind_No": "Factory",
+            "CoorX": 209840,
+            "CoorY": 2673027,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N11454",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段0455-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197128,
+            "CoorY": 2665228,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10339",
+            "Site_Name": "台灣三美股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 188888,
+            "CoorY": 2504240,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10131",
+            "Site_Name": "星憶金屬工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 230863,
+            "CoorY": 2724780,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "P10685",
+            "Site_Name": "臺灣化學纖維股份有限公司海豐廠芳香烴二廠",
+            "Kind_No": "Factory",
+            "CoorX": 166502,
+            "CoorY": 2630040,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11371",
+            "Site_Name": "臺中市梧棲區港口段335-18(部分)地號",
+            "Kind_No": "Tank",
+            "CoorX": 199458,
+            "CoorY": 2685035,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10321",
+            "Site_Name": "信昌化學工業股份有限公司林園廠",
+            "Kind_No": "Factory",
+            "CoorX": 189504,
+            "CoorY": 2488583,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "W00251",
+            "Site_Name": "金門酒廠實業股份有限公司自用加油站污染控制場址",
+            "Kind_No": "Other",
+            "CoorX": 179390,
+            "CoorY": 2699370,
+            "AreaCode": 3,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10309",
+            "Site_Name": "台耀化學股份有限公司蘆竹廠",
+            "Kind_No": "Factory",
+            "CoorX": 277959,
+            "CoorY": 2776054,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H12838",
+            "Site_Name": "華通電腦股份有限公司一廠",
+            "Kind_No": "Factory",
+            "CoorX": 274394,
+            "CoorY": 2768533,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10197",
+            "Site_Name": "新北市五股區五股坑一段1097(1)地號",
+            "Kind_No": "Other",
+            "CoorX": 293174,
+            "CoorY": 2775700,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10259",
+            "Site_Name": "鴻達電子股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 267000,
+            "CoorY": 2756411,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

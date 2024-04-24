@@ -1,0 +1,189 @@
+{
+    "PageNo": 6,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F10335",
+            "Site_Name": "新海加油站",
+            "Kind_No": "Gas",
+            "CoorX": 296447,
+            "CoorY": 2768446,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H14200",
+            "Site_Name": "廣明實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 276070,
+            "CoorY": 2777388,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13277",
+            "Site_Name": "富鈺山有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202419,
+            "CoorY": 2663604,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10591",
+            "Site_Name": "臺南市永康區亞太段0650-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 173027,
+            "CoorY": 2547166,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "T10274",
+            "Site_Name": "屏東縣內埔鄉科大段434、435、511地號",
+            "Kind_No": "Factory",
+            "CoorX": 209306,
+            "CoorY": 2506120,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10330",
+            "Site_Name": "麗正國際科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293067,
+            "CoorY": 2762089,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10551",
+            "Site_Name": "灶興企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 171932,
+            "CoorY": 2527155,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13986",
+            "Site_Name": "彰化縣溪湖鎮西安段0544-0000、0550-0000、0551-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 196639,
+            "CoorY": 2646560,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N12029",
+            "Site_Name": "彰化縣鹿港鎮上林段0382-0021地號",
+            "Kind_No": "Factory",
+            "CoorX": 188380,
+            "CoorY": 2662136,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10327",
+            "Site_Name": "台灣通用器材股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 305588,
+            "CoorY": 2763633,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "O10242",
+            "Site_Name": "貝民股份有限公司香山廠地下水污染控制場址",
+            "Kind_No": "Factory",
+            "CoorX": 241367,
+            "CoorY": 2735898,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10543",
+            "Site_Name": "裕誠加油站",
+            "Kind_No": "Gas",
+            "CoorX": 178430,
+            "CoorY": 2507421,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H14311",
+            "Site_Name": "中壢工業區中工段81、80、139、140地號等4筆地號土地部分區域為地下水污染控制場址",
+            "Kind_No": "Factory",
+            "CoorX": 274544,
+            "CoorY": 2764934,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16339",
+            "Site_Name": "中壢工業區中工段81、80、139、140地號等4筆地號土地部分區域為地下水污染控制場址",
+            "Kind_No": "Factory",
+            "CoorX": 274502,
+            "CoorY": 2764983,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11886",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-1)",
+            "Kind_No": "Other",
+            "CoorX": 215682,
+            "CoorY": 2687583,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11887",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-2)",
+            "Kind_No": "Other",
+            "CoorX": 215686,
+            "CoorY": 2687594,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11888",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-3)",
+            "Kind_No": "Other",
+            "CoorX": 215722,
+            "CoorY": 2687578,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11889",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-4)",
+            "Kind_No": "Other",
+            "CoorX": 215717,
+            "CoorY": 2687568,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11890",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-5)",
+            "Kind_No": "Other",
+            "CoorX": 215763,
+            "CoorY": 2687551,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11891",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-6)",
+            "Kind_No": "Other",
+            "CoorX": 215770,
+            "CoorY": 2687534,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

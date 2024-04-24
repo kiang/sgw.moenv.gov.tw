@@ -1,0 +1,189 @@
+{
+    "PageNo": 291,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L10292",
+            "Site_Name": "大里區詹厝園段165-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10293",
+            "Site_Name": "大里區詹厝園段166-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10294",
+            "Site_Name": "大里區詹厝園段165-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10295",
+            "Site_Name": "大里區詹厝園段156-6(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10296",
+            "Site_Name": "大里區詹厝園段155(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10297",
+            "Site_Name": "大里區詹厝園段155-6(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10298",
+            "Site_Name": "大里區詹厝園段155-1(部分)",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10164",
+            "Site_Name": "大里區詹厝園段165-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216630,
+            "CoorY": 2664955,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10159",
+            "Site_Name": "大里區詹厝園段166(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216675,
+            "CoorY": 2664985,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10181",
+            "Site_Name": "大里區詹厝園段187(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216251,
+            "CoorY": 2664816,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10154",
+            "Site_Name": "大里區詹厝園段162(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216978,
+            "CoorY": 2665239,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10301",
+            "Site_Name": "大里區詹厝園段170-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10302",
+            "Site_Name": "大里區詹厝園段170-3(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10303",
+            "Site_Name": "大里區詹厝園段169(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10304",
+            "Site_Name": "大里區詹厝園段166(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10276",
+            "Site_Name": "大里區詹厝園段162-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216937,
+            "CoorY": 2665232,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10284",
+            "Site_Name": "大里區詹厝園段165(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 216630,
+            "CoorY": 2664955,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10285",
+            "Site_Name": "臺中市大里區詹厝園段165-2(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 216630,
+            "CoorY": 2664955,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10191",
+            "Site_Name": "台中市大里區中興段498地號",
+            "Kind_No": "Farm",
+            "CoorX": 217061,
+            "CoorY": 2665388,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10192",
+            "Site_Name": "台中市大里區中興段499地號",
+            "Kind_No": "Farm",
+            "CoorX": 217074,
+            "CoorY": 2665375,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 116,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11987",
+            "Site_Name": "彰化縣和美鎮新盛段0392-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202176,
+            "CoorY": 2666347,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11903",
+            "Site_Name": "彰化縣和美鎮和群段0821-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201327,
+            "CoorY": 2666966,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12236",
+            "Site_Name": "彰化縣和美鎮大霞段1642-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198485,
+            "CoorY": 2664705,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12242",
+            "Site_Name": "彰化縣和美鎮大霞段1636-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198306,
+            "CoorY": 2664804,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12243",
+            "Site_Name": "彰化縣和美鎮大霞段1635-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198308,
+            "CoorY": 2664816,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12244",
+            "Site_Name": "彰化縣和美鎮大霞段1637-0000(部分)地號-西坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 198289,
+            "CoorY": 2664760,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12233",
+            "Site_Name": "彰化縣和美鎮大霞段1644-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198460,
+            "CoorY": 2664773,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12182",
+            "Site_Name": "彰化縣和美鎮大霞段1850-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199183,
+            "CoorY": 2664760,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12183",
+            "Site_Name": "彰化縣和美鎮大霞段1843-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199081,
+            "CoorY": 2664769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12174",
+            "Site_Name": "彰化縣和美鎮大霞段1769-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198938,
+            "CoorY": 2664938,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12067",
+            "Site_Name": "彰化縣和美鎮大榮段1518-0000地號(104公告)",
+            "Kind_No": "Farm",
+            "CoorX": 199879,
+            "CoorY": 2664092,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12068",
+            "Site_Name": "彰化縣和美鎮大榮段1558-0000地號(104年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 199799,
+            "CoorY": 2663896,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12070",
+            "Site_Name": "彰化縣彰化市平和段0323-0000(部分)地號(104年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 201173,
+            "CoorY": 2663585,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13740",
+            "Site_Name": "彰化縣鹿港鎮永安段1045-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195339,
+            "CoorY": 2662983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14376",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276897,
+            "CoorY": 2773586,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14372",
+            "Site_Name": "桃園市蘆竹區內興段541(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276968,
+            "CoorY": 2773757,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14373",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276961,
+            "CoorY": 2773679,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14342",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277011,
+            "CoorY": 2773297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14220",
+            "Site_Name": "桃園市蘆竹區內興段722(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277082,
+            "CoorY": 2773364,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10983",
+            "Site_Name": "大園鄉五塊厝段下埔小段844地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272120,
+            "CoorY": 2769565,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

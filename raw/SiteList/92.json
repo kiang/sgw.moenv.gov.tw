@@ -1,0 +1,189 @@
+{
+    "PageNo": 92,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11921",
+            "Site_Name": "彰化縣和美鎮新庄子段0221-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201725,
+            "CoorY": 2666595,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11923",
+            "Site_Name": "彰化縣和美鎮新庄子段0246-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202145,
+            "CoorY": 2666468,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12202",
+            "Site_Name": "彰化縣和美鎮大榮段0306-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199888,
+            "CoorY": 2664811,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12255",
+            "Site_Name": "彰化縣彰化市線東段0173-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201979,
+            "CoorY": 2664659,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12256",
+            "Site_Name": "彰化縣彰化市線東段0171-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201987,
+            "CoorY": 2664647,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12257",
+            "Site_Name": "彰化縣彰化市線東段0171-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201975,
+            "CoorY": 2664633,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11687",
+            "Site_Name": "彰化縣和美鎮大榮段1761-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198957,
+            "CoorY": 2663818,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11688",
+            "Site_Name": "彰化縣和美鎮大榮段1762-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198950,
+            "CoorY": 2663811,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13298",
+            "Site_Name": "彰化縣和美鎮大嘉段0901-0000地號(105年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200700,
+            "CoorY": 2665596,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13465",
+            "Site_Name": "彰化縣鹿港鎮鹿草段0728-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 194910,
+            "CoorY": 2666248,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13469",
+            "Site_Name": "彰化縣鹿港鎮鹿草段0729-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 194916,
+            "CoorY": 2666222,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11429",
+            "Site_Name": "彰化縣福興鄉福鹿段1541-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 191735,
+            "CoorY": 2659581,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10995",
+            "Site_Name": "彰化縣和美鎮大榮段0524-0000地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 199883,
+            "CoorY": 2664577,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10885",
+            "Site_Name": "彰化縣和美鎮嘉詔段1151-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201034,
+            "CoorY": 2665812,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10886",
+            "Site_Name": "彰化縣和美鎮嘉詔段1151-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 201086,
+            "CoorY": 2665792,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10887",
+            "Site_Name": "彰化縣和美鎮嘉詔段1151-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 201128,
+            "CoorY": 2665776,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00670",
+            "Site_Name": "西歐基河加油站",
+            "Kind_No": "Gas",
+            "CoorX": 302655,
+            "CoorY": 2775585,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10240",
+            "Site_Name": "台灣中油股份有限公司香山加油站(106年)",
+            "Kind_No": "Gas",
+            "CoorX": 242642,
+            "CoorY": 2742316,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10548",
+            "Site_Name": "彰化縣芳苑鄉草湖段0005-0789地號部分坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 185225,
+            "CoorY": 2648912,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13679",
+            "Site_Name": "彰化縣花壇鄉北口段0692-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202311,
+            "CoorY": 2660534,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

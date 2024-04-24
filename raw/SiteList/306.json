@@ -1,0 +1,189 @@
+{
+    "PageNo": 306,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "S10105",
+            "Site_Name": "大寮區磚仔磘段4939地號",
+            "Kind_No": "Farm",
+            "CoorX": 186273,
+            "CoorY": 2504512,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10106",
+            "Site_Name": "大寮區磚仔磘段4938地號",
+            "Kind_No": "Farm",
+            "CoorX": 186251,
+            "CoorY": 2504503,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10107",
+            "Site_Name": "大寮區磚仔磘段4937地號",
+            "Kind_No": "Farm",
+            "CoorX": 186229,
+            "CoorY": 2504492,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10211",
+            "Site_Name": "大寮區磚仔磘段4939-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 186298,
+            "CoorY": 2504477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10216",
+            "Site_Name": "大寮區磚仔磘段3997、3997-13地號",
+            "Kind_No": "Farm",
+            "CoorX": 186125,
+            "CoorY": 2504256,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10223",
+            "Site_Name": "大寮區磚仔磘段3365地號",
+            "Kind_No": "Farm",
+            "CoorX": 186266,
+            "CoorY": 2504408,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10224",
+            "Site_Name": "大寮區磚仔磘段3371地號",
+            "Kind_No": "Farm",
+            "CoorX": 186133,
+            "CoorY": 2504378,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10225",
+            "Site_Name": "大寮區磚仔磘段3372地號",
+            "Kind_No": "Farm",
+            "CoorX": 186111,
+            "CoorY": 2504373,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10226",
+            "Site_Name": "大寮區磚仔磘段3373地號",
+            "Kind_No": "Farm",
+            "CoorX": 186090,
+            "CoorY": 2504368,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10227",
+            "Site_Name": "大寮區磚仔磘段4929地號",
+            "Kind_No": "Farm",
+            "CoorX": 186052,
+            "CoorY": 2504419,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10228",
+            "Site_Name": "大寮區磚仔磘段4930地號",
+            "Kind_No": "Farm",
+            "CoorX": 186108,
+            "CoorY": 2504447,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10229",
+            "Site_Name": "大寮區磚仔磘段4931地號",
+            "Kind_No": "Farm",
+            "CoorX": 186117,
+            "CoorY": 2504454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10230",
+            "Site_Name": "大寮區磚仔磘段4934地號",
+            "Kind_No": "Farm",
+            "CoorX": 186153,
+            "CoorY": 2504470,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10231",
+            "Site_Name": "大寮區磚仔磘段4935地號",
+            "Kind_No": "Farm",
+            "CoorX": 186176,
+            "CoorY": 2504476,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10232",
+            "Site_Name": "大寮區磚仔磘段4936地號",
+            "Kind_No": "Farm",
+            "CoorX": 186205,
+            "CoorY": 2504484,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10201",
+            "Site_Name": "蘆竹鄉八股段1071地號",
+            "Kind_No": "Farm",
+            "CoorX": 275854,
+            "CoorY": 2771516,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10033",
+            "Site_Name": "新屋鄉石磊子段水流小段412地號",
+            "Kind_No": "Farm",
+            "CoorX": 259069,
+            "CoorY": 2765106,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10034",
+            "Site_Name": "新屋鄉石磊子段水流小段426地號",
+            "Kind_No": "Farm",
+            "CoorX": 258909,
+            "CoorY": 2765080,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10035",
+            "Site_Name": "新屋鄉石磊子段水流小段427地號",
+            "Kind_No": "Farm",
+            "CoorX": 258892,
+            "CoorY": 2765072,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10036",
+            "Site_Name": "新屋鄉石磊子段水流小段428地號",
+            "Kind_No": "Farm",
+            "CoorX": 258868,
+            "CoorY": 2765059,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

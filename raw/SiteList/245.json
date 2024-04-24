@@ -1,0 +1,189 @@
+{
+    "PageNo": 245,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F10077",
+            "Site_Name": "淳品實業股份有限公司台北港化油品儲運中心",
+            "Kind_No": "Factory",
+            "CoorX": 290050,
+            "CoorY": 2783233,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11005",
+            "Site_Name": "彰化縣彰化市莿桐段0074-0000地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200113,
+            "CoorY": 2662891,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10106",
+            "Site_Name": "高楠加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179857,
+            "CoorY": 2508044,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T10032",
+            "Site_Name": "屏東縣枋山鄉加祿段883、884地號",
+            "Kind_No": "Gas",
+            "CoorX": 210413,
+            "CoorY": 2470603,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12417",
+            "Site_Name": "彰化縣和美鎮大雅段0836-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197442,
+            "CoorY": 2666663,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11453",
+            "Site_Name": "臺中市大里區詹厝園段248(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215735,
+            "CoorY": 2664565,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00228",
+            "Site_Name": "桃園縣中壢市內壢段540地號",
+            "Kind_No": "Farm",
+            "CoorX": 275253,
+            "CoorY": 2766450,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11432",
+            "Site_Name": "臺中市大里區詹厝園段205-4(部分)地號(重測後臺中市大里區夏田西段678(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216182,
+            "CoorY": 2664560,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11433",
+            "Site_Name": "臺中市大里區詹厝園段205-5(部分)地號(重測後臺中市大里區夏田西段834(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216184,
+            "CoorY": 2664554,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11382",
+            "Site_Name": "臺中市大里區詹厝園段30-3(部分)地號(重測後臺中市大里區夏田東段872(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216808,
+            "CoorY": 2664595,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11383",
+            "Site_Name": "臺中市大里區詹厝園段30-19(部分)地號(重測後臺中市大里區夏田東段840(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216815,
+            "CoorY": 2664590,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11384",
+            "Site_Name": "臺中市大里區詹厝園段國有地無地號-1",
+            "Kind_No": "Farm",
+            "CoorX": 216821,
+            "CoorY": 2664592,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11416",
+            "Site_Name": "臺中市大里區詹厝園段32(部分)地號(重測後臺中市大里區夏田西段774(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216615,
+            "CoorY": 2664635,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00002",
+            "Site_Name": "高雄市楠梓區高楠段328地號",
+            "Kind_No": "Other",
+            "CoorX": 180415,
+            "CoorY": 2513150,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00003",
+            "Site_Name": "高雄市楠梓區高楠段322地號",
+            "Kind_No": "Other",
+            "CoorX": 180455,
+            "CoorY": 2513055,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00006",
+            "Site_Name": "高雄市楠梓區後勁段月眉小段735地號",
+            "Kind_No": "Other",
+            "CoorX": 180380,
+            "CoorY": 2513086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10159",
+            "Site_Name": "台亞名興加油站",
+            "Kind_No": "Gas",
+            "CoorX": 260356,
+            "CoorY": 2769748,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00229",
+            "Site_Name": "桃園縣中壢市內壢段541地號",
+            "Kind_No": "Farm",
+            "CoorX": 275208,
+            "CoorY": 2766472,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00193",
+            "Site_Name": "桃園縣蘆竹鄉新興段719-7地號 (現為文中段593地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276536,
+            "CoorY": 2765261,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10231",
+            "Site_Name": "大園鄉五塊厝段大埔小段512地號",
+            "Kind_No": "Farm",
+            "CoorX": 273705,
+            "CoorY": 2768670,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 73,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H13796",
+            "Site_Name": "桃園市蘆竹區中興段1288地號桃園市蘆竹區中興段1289地號桃園市蘆竹區中興段1290地號",
+            "Kind_No": "Farm",
+            "CoorX": 275257,
+            "CoorY": 2766608,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13797",
+            "Site_Name": "桃園市蘆竹區中興段1290地號桃園市蘆竹區中興段1292地號",
+            "Kind_No": "Farm",
+            "CoorX": 275256,
+            "CoorY": 2766623,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14136",
+            "Site_Name": "桃園市八德區中華段1869(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 282022,
+            "CoorY": 2761449,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14137",
+            "Site_Name": "桃園市八德區中華段1345(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 282129,
+            "CoorY": 2761643,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14138",
+            "Site_Name": "桃園市八德區中華段1347(部分)、1346(部分)、1348(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 282138,
+            "CoorY": 2761669,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14139",
+            "Site_Name": "桃園市八德區中華段1882、1883-3(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 282164,
+            "CoorY": 2761373,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14140",
+            "Site_Name": "桃園市八德區中華段1872-20(部分)、1970地號",
+            "Kind_No": "Farm",
+            "CoorX": 282166,
+            "CoorY": 2761358,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14300",
+            "Site_Name": "龍祥段 85 地號",
+            "Kind_No": "Farm",
+            "CoorX": 277266,
+            "CoorY": 2763991,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14399",
+            "Site_Name": "桃園市中壢區普仁段347(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274817,
+            "CoorY": 2760422,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14396",
+            "Site_Name": "桃園市中壢區普仁段347(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274687,
+            "CoorY": 2760486,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14397",
+            "Site_Name": "桃園市中壢區普仁段347(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274761,
+            "CoorY": 2760454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14297",
+            "Site_Name": "桃園區龍祥段 83(部分)地號、龍壽段 427(部分) 地號",
+            "Kind_No": "Farm",
+            "CoorX": 277284,
+            "CoorY": 2764027,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14294",
+            "Site_Name": "桃園區龍祥段81(部分)、82(部分)、83(部分)地號、龍壽段425(部分)、427(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277304,
+            "CoorY": 2763979,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14290",
+            "Site_Name": "桃園區龍壽段 429(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277269,
+            "CoorY": 2764008,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14291",
+            "Site_Name": "桃園區龍壽段 426(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277284,
+            "CoorY": 2764036,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14281",
+            "Site_Name": "桃園市桃園區龍壽段430地號",
+            "Kind_No": "Farm",
+            "CoorX": 277276,
+            "CoorY": 2764037,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14278",
+            "Site_Name": "桃園區龍壽段 431(部分)、432(部分)、435(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277182,
+            "CoorY": 2764037,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14285",
+            "Site_Name": "桃園區龍壽段 382(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277273,
+            "CoorY": 2764052,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14514",
+            "Site_Name": "桃園市中壢區普仁段343-1(部分)地號107-PZ-44",
+            "Kind_No": "Farm",
+            "CoorX": 274722,
+            "CoorY": 2760320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00682",
+            "Site_Name": "台灣中油股份有限公司原建國北路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 304153,
+            "CoorY": 2773112,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

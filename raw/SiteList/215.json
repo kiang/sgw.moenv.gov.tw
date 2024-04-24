@@ -1,0 +1,189 @@
+{
+    "PageNo": 215,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10674",
+            "Site_Name": "蘆竹鄉新庄子段930地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274141,
+            "CoorY": 2769397,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11066",
+            "Site_Name": "蘆竹區新庄子段1023地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274002,
+            "CoorY": 2769215,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11067",
+            "Site_Name": "蘆竹區新庄子段1024地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274002,
+            "CoorY": 2769215,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11069",
+            "Site_Name": "蘆竹鄉新庄子段1075地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274221,
+            "CoorY": 2769009,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11078",
+            "Site_Name": "蘆竹鄉新庄子段1640-11地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274904,
+            "CoorY": 2768806,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12287",
+            "Site_Name": "大園鄉圳股頭段後館小段213地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12288",
+            "Site_Name": "大園鄉圳股頭段後館小段213-4地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12289",
+            "Site_Name": "大園鄉圳股頭段後館小段213-5地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12290",
+            "Site_Name": "大園鄉圳股頭段後館小段213-6地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12291",
+            "Site_Name": "大園鄉圳股頭段後館小段213-7地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12292",
+            "Site_Name": "大園鄉圳股頭段後館小段213-8地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12293",
+            "Site_Name": "大園鄉圳股頭段後館小段213-9地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270641,
+            "CoorY": 2773913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11889",
+            "Site_Name": "彰化縣和美鎮大霞段0008-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199870,
+            "CoorY": 2666317,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11954",
+            "Site_Name": "彰化縣和美鎮新盛段0365-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202113,
+            "CoorY": 2666350,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11955",
+            "Site_Name": "彰化縣和美鎮新盛段0364-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202100,
+            "CoorY": 2666343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11988",
+            "Site_Name": "彰化縣和美鎮新盛段0393-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202192,
+            "CoorY": 2666306,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11981",
+            "Site_Name": "彰化縣和美鎮新盛段0363-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202092,
+            "CoorY": 2666360,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11982",
+            "Site_Name": "彰化縣和美鎮新盛段0367-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202109,
+            "CoorY": 2666294,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11985",
+            "Site_Name": "彰化縣和美鎮新盛段0391-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202155,
+            "CoorY": 2666351,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11986",
+            "Site_Name": "彰化縣和美鎮新盛段0391-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202138,
+            "CoorY": 2666342,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

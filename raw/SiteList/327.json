@@ -1,0 +1,189 @@
+{
+    "PageNo": 327,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H00091",
+            "Site_Name": "桃園縣蘆竹鄉中興段55地號(重劃後新地號  蘆竹鄉大興段101地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276365,
+            "CoorY": 2767454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00119",
+            "Site_Name": "桃園縣蘆竹鄉中興段148-3地號(桃園縣蘆竹鄉中興段148-5地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275480,
+            "CoorY": 2767027,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00120",
+            "Site_Name": "桃園縣蘆竹鄉中興段149-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 275524,
+            "CoorY": 2767149,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00121",
+            "Site_Name": "桃園縣蘆竹鄉中興段149-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 275529,
+            "CoorY": 2767065,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00112",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-15地號",
+            "Kind_No": "Farm",
+            "CoorX": 275380,
+            "CoorY": 2766966,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00113",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-27地號",
+            "Kind_No": "Farm",
+            "CoorX": 275456,
+            "CoorY": 2767021,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00114",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-28地號",
+            "Kind_No": "Farm",
+            "CoorX": 275396,
+            "CoorY": 2766974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00115",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-29地號(桃園縣蘆竹鄉中興段131-31地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275431,
+            "CoorY": 2766990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00116",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-30地號",
+            "Kind_No": "Farm",
+            "CoorX": 275428,
+            "CoorY": 2767004,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00107",
+            "Site_Name": "桃園縣蘆竹鄉中興段116-2地號(現為德林段244地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275186,
+            "CoorY": 2766771,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00136",
+            "Site_Name": "桃園縣蘆竹鄉中興段162-1",
+            "Kind_No": "Farm",
+            "CoorX": 275190,
+            "CoorY": 2767404,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00137",
+            "Site_Name": "桃園縣蘆竹鄉中興段163地號",
+            "Kind_No": "Farm",
+            "CoorX": 275225,
+            "CoorY": 2767512,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10068",
+            "Site_Name": "美得興化工股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 172051,
+            "CoorY": 2527087,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10030",
+            "Site_Name": "三多鋼鐵工業股份有限公司岡山廠",
+            "Kind_No": "Factory",
+            "CoorX": 178946,
+            "CoorY": 2523323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10264",
+            "Site_Name": "彰化縣彰化市西門口段0582地號-D坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 201313,
+            "CoorY": 2662717,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10265",
+            "Site_Name": "彰化縣彰化市西門口段0582地號-E坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 201286,
+            "CoorY": 2662706,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10266",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0120-0008地號-C坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 202101,
+            "CoorY": 2664809,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10209",
+            "Site_Name": "彰化縣彰化市西門口段0335地號",
+            "Kind_No": "Farm",
+            "CoorX": 200620,
+            "CoorY": 2663456,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10210",
+            "Site_Name": "彰化縣彰化市西門口段0582地號-C坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 201314,
+            "CoorY": 2662727,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10211",
+            "Site_Name": "彰化縣彰化市西門口段0339-0012地號-B坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 200776,
+            "CoorY": 2663361,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

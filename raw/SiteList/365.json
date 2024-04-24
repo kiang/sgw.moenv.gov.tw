@@ -1,0 +1,189 @@
+{
+    "PageNo": 365,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D00005",
+            "Site_Name": "台南市興農段651地號",
+            "Kind_No": "Farm",
+            "CoorX": 167269,
+            "CoorY": 2536509,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00002",
+            "Site_Name": "台南市興農段639地號",
+            "Kind_No": "Farm",
+            "CoorX": 167312,
+            "CoorY": 2536584,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00003",
+            "Site_Name": "台南市興農段647地號",
+            "Kind_No": "Farm",
+            "CoorX": 167237,
+            "CoorY": 2536512,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00013",
+            "Site_Name": "台南市興農段737地號",
+            "Kind_No": "Farm",
+            "CoorX": 167032,
+            "CoorY": 2536339,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00014",
+            "Site_Name": "台南市興農段727地號",
+            "Kind_No": "Farm",
+            "CoorX": 167164,
+            "CoorY": 2536466,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00015",
+            "Site_Name": "台南市興農段728地號",
+            "Kind_No": "Farm",
+            "CoorX": 167123,
+            "CoorY": 2536474,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00010",
+            "Site_Name": "臺中縣大里區詹厝園段144地號",
+            "Kind_No": "Farm",
+            "CoorX": 216968,
+            "CoorY": 2664853,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00011",
+            "Site_Name": "臺中縣大里區詹厝園段145地號",
+            "Kind_No": "Farm",
+            "CoorX": 216955,
+            "CoorY": 2664879,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00012",
+            "Site_Name": "臺中縣大里區詹厝園段13地號",
+            "Kind_No": "Farm",
+            "CoorX": 216985,
+            "CoorY": 2664904,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00006",
+            "Site_Name": "臺中縣大里區詹厝園段14-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 217150,
+            "CoorY": 2664920,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00007",
+            "Site_Name": "臺中縣大里區詹厝園段15地號",
+            "Kind_No": "Farm",
+            "CoorX": 217185,
+            "CoorY": 2664892,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00008",
+            "Site_Name": "臺中縣大里區詹厝園段25地號",
+            "Kind_No": "Farm",
+            "CoorX": 216969,
+            "CoorY": 2664787,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00002",
+            "Site_Name": "臺中縣大里區詹厝園段5-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 217224,
+            "CoorY": 2665117,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00003",
+            "Site_Name": "臺中縣大里區詹厝園段14-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 217110,
+            "CoorY": 2664989,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00001",
+            "Site_Name": "雲林縣虎尾鎮北平段830地號",
+            "Kind_No": "Farm",
+            "CoorX": 190923,
+            "CoorY": 2623690,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00002",
+            "Site_Name": "雲林縣虎尾鎮北平段853地號",
+            "Kind_No": "Farm",
+            "CoorX": 191108,
+            "CoorY": 2623578,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00003",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段680地號",
+            "Kind_No": "Farm",
+            "CoorX": 190681,
+            "CoorY": 2623375,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00004",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段513地號",
+            "Kind_No": "Farm",
+            "CoorX": 190762,
+            "CoorY": 2623431,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00005",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段508-1~509地號",
+            "Kind_No": "Farm",
+            "CoorX": 190607,
+            "CoorY": 2623559,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P00008",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段514地號",
+            "Kind_No": "Farm",
+            "CoorX": 190822,
+            "CoorY": 2623418,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

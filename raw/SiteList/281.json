@@ -1,0 +1,189 @@
+{
+    "PageNo": 281,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B10465",
+            "Site_Name": "臺中市大里段705(部分1)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215581,
+            "CoorY": 2665359,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10466",
+            "Site_Name": "臺中市大里段705-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215599,
+            "CoorY": 2665346,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10467",
+            "Site_Name": "臺中市大里段705-6(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215587,
+            "CoorY": 2665366,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10468",
+            "Site_Name": "臺中市大里段705-9(部分1)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215621,
+            "CoorY": 2665343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10147",
+            "Site_Name": "臺中市大里區詹厝園段171(部分)-3",
+            "Kind_No": "Farm",
+            "CoorX": 216330,
+            "CoorY": 2664897,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10148",
+            "Site_Name": "臺中市大里區詹厝園段185-3(部分)-3",
+            "Kind_No": "Farm",
+            "CoorX": 216312,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10149",
+            "Site_Name": "臺中市大里區詹厝園段171-9(部分)-4",
+            "Kind_No": "Farm",
+            "CoorX": 216361,
+            "CoorY": 2664909,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10181",
+            "Site_Name": "台中市霧峰區吳厝段43-86地號",
+            "Kind_No": "Farm",
+            "CoorX": 215917,
+            "CoorY": 2664324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10198",
+            "Site_Name": "台中市大里區中興段529地號",
+            "Kind_No": "Farm",
+            "CoorX": 216998,
+            "CoorY": 2665300,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10199",
+            "Site_Name": "台中市大里區中興段530地號",
+            "Kind_No": "Farm",
+            "CoorX": 217010,
+            "CoorY": 2665286,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10211",
+            "Site_Name": "台中市霧峰區吳厝段43-132地號",
+            "Kind_No": "Farm",
+            "CoorX": 215885,
+            "CoorY": 2664297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10212",
+            "Site_Name": "台中市霧峰區吳厝段43-157地號",
+            "Kind_No": "Farm",
+            "CoorX": 215907,
+            "CoorY": 2664294,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10201",
+            "Site_Name": "台中市大里區中興段743地號",
+            "Kind_No": "Farm",
+            "CoorX": 216555,
+            "CoorY": 2664983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10206",
+            "Site_Name": "台中市大里區大突寮段306地號",
+            "Kind_No": "Farm",
+            "CoorX": 217516,
+            "CoorY": 2664884,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10207",
+            "Site_Name": "台中市大里區大突寮段304-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217566,
+            "CoorY": 2664875,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10208",
+            "Site_Name": "台中市大里區大突寮段348地號",
+            "Kind_No": "Farm",
+            "CoorX": 217517,
+            "CoorY": 2664850,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10209",
+            "Site_Name": "台中市大里區大突寮段(國有地-無地號)",
+            "Kind_No": "Farm",
+            "CoorX": 217516,
+            "CoorY": 2664884,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10247",
+            "Site_Name": "大里區詹厝園段98(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216520,
+            "CoorY": 2664513,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10262",
+            "Site_Name": "臺中市大里區詹厝園段176地號",
+            "Kind_No": "Farm",
+            "CoorX": 215914,
+            "CoorY": 2665124,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10273",
+            "Site_Name": "大里區詹厝園段176-22(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215666,
+            "CoorY": 2665046,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

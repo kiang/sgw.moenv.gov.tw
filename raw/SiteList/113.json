@@ -1,0 +1,189 @@
+{
+    "PageNo": 113,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12663",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段216地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273285,
+            "CoorY": 2771815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12664",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段217-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273285,
+            "CoorY": 2771815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12665",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段218地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273234,
+            "CoorY": 2771763,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12666",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段218-3地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273215,
+            "CoorY": 2771742,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12667",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段218-4地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273215,
+            "CoorY": 2771742,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12659",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段211-3地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273173,
+            "CoorY": 2771842,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12435",
+            "Site_Name": "大園鄉埔心段埔心小段1665地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271707,
+            "CoorY": 2770974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12436",
+            "Site_Name": "大園鄉埔心段埔心小段1665-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271707,
+            "CoorY": 2770974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12463",
+            "Site_Name": "大園鄉埔心段埔心小段1779地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271885,
+            "CoorY": 2770148,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12464",
+            "Site_Name": "大園鄉埔心段埔心小段1781地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271890,
+            "CoorY": 2770192,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11129",
+            "Site_Name": "大園區埔心段埔心小段1828地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271890,
+            "CoorY": 2769940,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10935",
+            "Site_Name": "大園鄉五塊厝段下埔小段445地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272996,
+            "CoorY": 2769033,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14488",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段28-42(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276951,
+            "CoorY": 2774438,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10221",
+            "Site_Name": "興達加油站 ",
+            "Kind_No": "Gas",
+            "CoorX": 170457,
+            "CoorY": 2530530,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10309",
+            "Site_Name": "瀛新企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 179740,
+            "CoorY": 2521225,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13962",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段258地號、482地號、258-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 276784,
+            "CoorY": 2776041,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13985",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段210地號",
+            "Kind_No": "Farm",
+            "CoorX": 276470,
+            "CoorY": 2776304,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13801",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段249地號",
+            "Kind_No": "Farm",
+            "CoorX": 276663,
+            "CoorY": 2776160,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13808",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段135、246地號",
+            "Kind_No": "Farm",
+            "CoorX": 276573,
+            "CoorY": 2776235,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13810",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段135、243地號",
+            "Kind_No": "Farm",
+            "CoorX": 276517,
+            "CoorY": 2776265,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

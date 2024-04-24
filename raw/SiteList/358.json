@@ -1,0 +1,189 @@
+{
+    "PageNo": 358,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "R00030",
+            "Site_Name": "台南縣仁德鄉大甲段174地號",
+            "Kind_No": "Farm",
+            "CoorX": 169978,
+            "CoorY": 2535307,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00031",
+            "Site_Name": "台南縣仁德鄉大甲段58地號",
+            "Kind_No": "Farm",
+            "CoorX": 170301,
+            "CoorY": 2535570,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00032",
+            "Site_Name": "台南縣仁德鄉車路墘段939地號",
+            "Kind_No": "Farm",
+            "CoorX": 170334,
+            "CoorY": 2536322,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00022",
+            "Site_Name": "台南市安南區二等九號道路1k+800至2k+815段土壤污染控制場址",
+            "Kind_No": "Factory",
+            "CoorX": 160195,
+            "CoorY": 2547916,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00025",
+            "Site_Name": "台南縣麻豆鎮安業段476-12地號",
+            "Kind_No": "Farm",
+            "CoorX": 172891,
+            "CoorY": 2561581,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00026",
+            "Site_Name": "台南縣麻豆鎮安業段352-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 172816,
+            "CoorY": 2561709,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10081",
+            "Site_Name": "臺中縣大甲區順帆段525",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10082",
+            "Site_Name": "臺中縣大甲區順帆段537",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10083",
+            "Site_Name": "臺中縣大甲區順帆段546",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10084",
+            "Site_Name": "臺中縣大甲區順帆段579",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10085",
+            "Site_Name": "臺中縣大甲區順帆段588",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00027",
+            "Site_Name": "臺中縣大甲區頂後厝子段269地號",
+            "Kind_No": "Farm",
+            "CoorX": 213747,
+            "CoorY": 2700323,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00016",
+            "Site_Name": "臺中縣大甲區福安段353地號",
+            "Kind_No": "Farm",
+            "CoorX": 213546,
+            "CoorY": 2701526,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00017",
+            "Site_Name": "臺中縣大甲區福安段527地號",
+            "Kind_No": "Farm",
+            "CoorX": 213632,
+            "CoorY": 2701388,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00018",
+            "Site_Name": "臺中縣大甲區福安段995地號",
+            "Kind_No": "Farm",
+            "CoorX": 213723,
+            "CoorY": 2700546,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00005",
+            "Site_Name": "臺中縣大里區詹厝園段14-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 217213,
+            "CoorY": 2664977,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00009",
+            "Site_Name": "臺中縣大里區詹厝園段141地號",
+            "Kind_No": "Farm",
+            "CoorX": 216922,
+            "CoorY": 2664810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00014",
+            "Site_Name": "台南縣仁德鄉車路墘段234-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 170459,
+            "CoorY": 2536594,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "U00001",
+            "Site_Name": "台灣水泥股份有限公司花蓮廠(花蓮縣花蓮市民心段007地號內部分土地)",
+            "Kind_No": "Factory",
+            "CoorX": 314800,
+            "CoorY": 2656353,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00003",
+            "Site_Name": "臺北市北投區八仙段一小段九三之五地號",
+            "Kind_No": "Farm",
+            "CoorX": 301257,
+            "CoorY": 2778078,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

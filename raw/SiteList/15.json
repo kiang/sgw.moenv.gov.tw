@@ -1,0 +1,189 @@
+{
+    "PageNo": 15,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B12249",
+            "Site_Name": "史丹利七和國際股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 213365,
+            "CoorY": 2679150,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "I00238",
+            "Site_Name": "民烽有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 194076,
+            "CoorY": 2601210,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N18125",
+            "Site_Name": "銳縉電鍍工廠",
+            "Kind_No": "Factory",
+            "CoorX": 197439,
+            "CoorY": 2664401,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E10681",
+            "Site_Name": "高雄市岡山區灣裡西段659、660、669、670、671、672等6筆地號",
+            "Kind_No": "Factory",
+            "CoorX": 175751,
+            "CoorY": 2523148,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10652",
+            "Site_Name": "臺南市新化區那拔段2311-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 182349,
+            "CoorY": 2551596,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "K10267",
+            "Site_Name": "福誼企業股份有限公司造橋廠",
+            "Kind_No": "Factory",
+            "CoorX": 233710,
+            "CoorY": 2728378,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "X00063",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部澎湖營業處馬公汽車加油站",
+            "Kind_No": "Gas",
+            "CoorX": 308041,
+            "CoorY": 2606976,
+            "AreaCode": 3,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10356",
+            "Site_Name": "穎德硬鉻有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292158,
+            "CoorY": 2769356,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N17895",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0695-0000、0696-0000、0698-0000(部分)及0699-0000(部分)地號",
+            "Kind_No": "Factory",
+            "CoorX": 196184,
+            "CoorY": 2665008,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10349",
+            "Site_Name": "泰興硬鉻股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 297291,
+            "CoorY": 2772153,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10316",
+            "Site_Name": "國營臺灣鐵路股份有限公司臺北機務段 ",
+            "Kind_No": "Other",
+            "CoorX": 290994,
+            "CoorY": 2763613,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "V00164",
+            "Site_Name": "綠島漁港加油站",
+            "Kind_No": "Gas",
+            "CoorX": 298838,
+            "CoorY": 2506787,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H13350",
+            "Site_Name": "佶鼎科技股份有限公司觀音廠",
+            "Kind_No": "Factory",
+            "CoorX": 261761,
+            "CoorY": 2772323,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "X00060",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部澎湖營業處馬公行銷服務中心湖西供油",
+            "Kind_No": "Tank",
+            "CoorX": 316924,
+            "CoorY": 2608175,
+            "AreaCode": 3,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H14261",
+            "Site_Name": "龍定旺科技股份有限公司觀音廠",
+            "Kind_No": "Factory",
+            "CoorX": 261787,
+            "CoorY": 2772337,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H14087",
+            "Site_Name": "合江工業廠股份有限公司觀音廠",
+            "Kind_No": "Factory",
+            "CoorX": 261899,
+            "CoorY": 2772160,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H14202",
+            "Site_Name": "美亞鋼管廠股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 268742,
+            "CoorY": 2757224,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10055",
+            "Site_Name": "原台灣金屬鑛業股份有限公司及其所屬三條廢煙道地區(部分)",
+            "Kind_No": "Factory",
+            "CoorX": 337179,
+            "CoorY": 2779333,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "K10242",
+            "Site_Name": "台灣保來得股份有限公司第一、二、三廠",
+            "Kind_No": "Factory",
+            "CoorX": 240613,
+            "CoorY": 2734305,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E10453",
+            "Site_Name": "高雄市前鎮區興邦段340及341部分地號",
+            "Kind_No": "Factory",
+            "CoorX": 177487,
+            "CoorY": 2499339,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        }
+    ]
+}

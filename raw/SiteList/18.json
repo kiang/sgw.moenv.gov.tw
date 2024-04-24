@@ -1,0 +1,189 @@
+{
+    "PageNo": 18,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "E10237",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠楠梓區油廠段41、58、60、61、62、73、78、110及112地號",
+            "Kind_No": "Factory",
+            "CoorX": 179881,
+            "CoorY": 2512258,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "S10092",
+            "Site_Name": "綠大實業股份有限公司",
+            "Kind_No": "Other",
+            "CoorX": 174819,
+            "CoorY": 2523607,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "L10287",
+            "Site_Name": "臺中市潭子區工區段0631-0000地號(潭子國小)",
+            "Kind_No": "Other",
+            "CoorX": 219963,
+            "CoorY": 2678703,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "L10291",
+            "Site_Name": "臺中市潭子區華興段0535-0000地號(潭子運動公園)",
+            "Kind_No": "Other",
+            "CoorX": 219659,
+            "CoorY": 2678246,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "B10046",
+            "Site_Name": "臺中市潭子區工區段0262-0000、0265-0000地號(潭秀國中)",
+            "Kind_No": "Other",
+            "CoorX": 219572,
+            "CoorY": 2678906,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "Q10258",
+            "Site_Name": "秀和興業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 194751,
+            "CoorY": 2601980,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "R10188",
+            "Site_Name": "惠光股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 171388,
+            "CoorY": 2564108,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "R10189",
+            "Site_Name": "新力美科技股份有限公司新化廠",
+            "Kind_No": "Factory",
+            "CoorX": 182499,
+            "CoorY": 2551706,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10512",
+            "Site_Name": "金順利工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 204860,
+            "CoorY": 2639834,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N10513",
+            "Site_Name": "冠保企業社",
+            "Kind_No": "Factory",
+            "CoorX": 199348,
+            "CoorY": 2662885,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "T10040",
+            "Site_Name": "屏東縣九如鄉九清段1340地號(部分)",
+            "Kind_No": "Other",
+            "CoorX": 196627,
+            "CoorY": 2515814,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "S00003",
+            "Site_Name": "大旗楠加油站股份有限公司",
+            "Kind_No": "Gas",
+            "CoorX": 184726,
+            "CoorY": 2517846,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "S10065",
+            "Site_Name": "彌陀加油站股份有限公司彌陀加油站",
+            "Kind_No": "Gas",
+            "CoorX": 172555,
+            "CoorY": 2521273,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "Q00005",
+            "Site_Name": "嘉義縣水上鄉北回段1046、1048、1049、1056、1057、1064共6筆地號",
+            "Kind_No": "Other",
+            "CoorX": 190202,
+            "CoorY": 2594474,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "S10066",
+            "Site_Name": "高雄市台灣塑膠工業股份有限公司仁武廠土壤、地下水污染整治場址",
+            "Kind_No": "Factory",
+            "CoorX": 181832,
+            "CoorY": 2511806,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E10093",
+            "Site_Name": "高雄市楠梓區後勁段月眉小段837地號污染整治場址",
+            "Kind_No": "Factory",
+            "CoorX": 180190,
+            "CoorY": 2512578,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "T10030",
+            "Site_Name": "屏東縣佳冬鄉昌北段1188地號",
+            "Kind_No": "Gas",
+            "CoorX": 203762,
+            "CoorY": 2483375,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "F10022",
+            "Site_Name": "臺北縣樹林市東山段539地號",
+            "Kind_No": "Factory",
+            "CoorX": 291168,
+            "CoorY": 2763127,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E00024",
+            "Site_Name": "高雄市大順加油站",
+            "Kind_No": "Gas",
+            "CoorX": 178634,
+            "CoorY": 2506474,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "R00004",
+            "Site_Name": "臺南市嘉仁加油站股份有限公司所屬嘉仁加油站",
+            "Kind_No": "Gas",
+            "CoorX": 172463,
+            "CoorY": 2541615,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        }
+    ]
+}

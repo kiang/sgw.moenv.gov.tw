@@ -1,0 +1,189 @@
+{
+    "PageNo": 7,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B11892",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-7)",
+            "Kind_No": "Other",
+            "CoorX": 215746,
+            "CoorY": 2687549,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11893",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-8)",
+            "Kind_No": "Other",
+            "CoorX": 215795,
+            "CoorY": 2687536,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11894",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-9)",
+            "Kind_No": "Other",
+            "CoorX": 215831,
+            "CoorY": 2687518,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11895",
+            "Site_Name": "臺中市后里區金城段河川地R5-1(部分-10)",
+            "Kind_No": "Other",
+            "CoorX": 215815,
+            "CoorY": 2687516,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10475",
+            "Site_Name": "高雄市仁武區竹園段1352地號",
+            "Kind_No": "Factory",
+            "CoorX": 182323,
+            "CoorY": 2511068,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10581",
+            "Site_Name": "後壁區嘉安段0564-0001地號",
+            "Kind_No": "Other",
+            "CoorX": 186408,
+            "CoorY": 2588239,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10115",
+            "Site_Name": "精鈺金屬工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 251348,
+            "CoorY": 2751212,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B11826",
+            "Site_Name": "臺中市龍井區龍井加油站",
+            "Kind_No": "Gas",
+            "CoorX": 199693,
+            "CoorY": 2677922,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "G10369",
+            "Site_Name": "南方澳造船路空地",
+            "Kind_No": "Factory",
+            "CoorX": 338214,
+            "CoorY": 2714900,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10308",
+            "Site_Name": "勝泰鋼鐵股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 318144,
+            "CoorY": 2774178,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10315",
+            "Site_Name": "新莊區民安段442北側地號",
+            "Kind_No": "Other",
+            "CoorX": 293505,
+            "CoorY": 2768472,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10311",
+            "Site_Name": "新莊區建國段552地號",
+            "Kind_No": "Farm",
+            "CoorX": 293471,
+            "CoorY": 2768572,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10312",
+            "Site_Name": "新莊區民安段431地號",
+            "Kind_No": "Farm",
+            "CoorX": 293512,
+            "CoorY": 2768470,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10313",
+            "Site_Name": "新莊區建國段552-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 293489,
+            "CoorY": 2768572,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10314",
+            "Site_Name": "新莊區建國段549地號",
+            "Kind_No": "Farm",
+            "CoorX": 293494,
+            "CoorY": 2768596,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10304",
+            "Site_Name": "新北市新莊區民安段325地號",
+            "Kind_No": "Farm",
+            "CoorX": 293461,
+            "CoorY": 2768507,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13530",
+            "Site_Name": "彰化縣鹿港鎮鹿雅段0124-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196189,
+            "CoorY": 2666636,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10455",
+            "Site_Name": "高雄市楠梓區後勁段一小段9-3、14、15及19地號",
+            "Kind_No": "Gas",
+            "CoorX": 179812,
+            "CoorY": 2513691,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10344",
+            "Site_Name": "臺南市麻豆區安業段0472-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 173008,
+            "CoorY": 2561618,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10283",
+            "Site_Name": "宇鴻科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 276696,
+            "CoorY": 2773553,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

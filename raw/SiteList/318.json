@@ -1,0 +1,189 @@
+{
+    "PageNo": 318,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N10516",
+            "Site_Name": "彰化縣彰化市南興段0940-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 201304,
+            "CoorY": 2661417,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10522",
+            "Site_Name": "彰化縣秀水鄉合興段0851-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199214,
+            "CoorY": 2655733,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10088",
+            "Site_Name": "統一精工股份有限公司統一精工六甲加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179734,
+            "CoorY": 2572209,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10008",
+            "Site_Name": "員山加油站",
+            "Kind_No": "Gas",
+            "CoorX": 254064,
+            "CoorY": 2742106,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00025",
+            "Site_Name": "高雄市自立加油站",
+            "Kind_No": "Gas",
+            "CoorX": 177672,
+            "CoorY": 2505137,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10010",
+            "Site_Name": "原國泰化工廠股份有限公司高雄廠場址",
+            "Kind_No": "Factory",
+            "CoorX": 179090,
+            "CoorY": 2499798,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10011",
+            "Site_Name": "大洋塑膠工業股份有限公司場址",
+            "Kind_No": "Factory",
+            "CoorX": 179240,
+            "CoorY": 2499850,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10059",
+            "Site_Name": "臺北縣土城市員和段391、530、532、532-4地號-原台橡電子材料股份有限公司(部分廠址)",
+            "Kind_No": "Factory",
+            "CoorX": 294698,
+            "CoorY": 2763566,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10013",
+            "Site_Name": "高雄市前鎮區興邦段62-5地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 179300,
+            "CoorY": 2499700,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10038",
+            "Site_Name": "永光加油站",
+            "Kind_No": "Gas",
+            "CoorX": 204010,
+            "CoorY": 2613801,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10031",
+            "Site_Name": "苑裡鎮新復東段633地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215164,
+            "CoorY": 2700374,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10033",
+            "Site_Name": "苑裡鎮新復東段634地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215166,
+            "CoorY": 2700350,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10034",
+            "Site_Name": "苑裡鎮新復東段635地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215132,
+            "CoorY": 2700365,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10035",
+            "Site_Name": "苑裡鎮新復東段636地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215164,
+            "CoorY": 2700374,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10036",
+            "Site_Name": "苑裡鎮新復東段659地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215083,
+            "CoorY": 2700278,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10037",
+            "Site_Name": "苑裡鎮新復東段660地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215164,
+            "CoorY": 2700374,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10038",
+            "Site_Name": "苑裡鎮新復東段661地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215164,
+            "CoorY": 2700374,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00022",
+            "Site_Name": "台南縣全國新營加油站",
+            "Kind_No": "Gas",
+            "CoorX": 181770,
+            "CoorY": 2579659,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10005",
+            "Site_Name": "鴻源科技股份有限公司高雄分公司場址",
+            "Kind_No": "Factory",
+            "CoorX": 177476,
+            "CoorY": 2499455,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10092",
+            "Site_Name": "台南縣仁德鄉大甲段894地號",
+            "Kind_No": "Discard",
+            "CoorX": 168667,
+            "CoorY": 2535396,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

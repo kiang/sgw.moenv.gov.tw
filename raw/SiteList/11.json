@@ -1,0 +1,189 @@
+{
+    "PageNo": 11,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "E10112",
+            "Site_Name": "高雄市楠梓區高楠段410等23筆地號",
+            "Kind_No": "Other",
+            "CoorX": 180842,
+            "CoorY": 2512583,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10163",
+            "Site_Name": "臺南市永康區鹽中段1430地號",
+            "Kind_No": "Factory",
+            "CoorX": 171496,
+            "CoorY": 2548533,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10047",
+            "Site_Name": "新屋鄉台15線53公里500公尺處",
+            "Kind_No": "Other",
+            "CoorX": 253469,
+            "CoorY": 2765143,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K00007",
+            "Site_Name": "苗栗縣頭份市永貞段887地號土地",
+            "Kind_No": "Other",
+            "CoorX": 238274,
+            "CoorY": 2730331,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10051",
+            "Site_Name": "苗栗縣頭份市蘆竹湳段蘆竹湳小段645-14地號土地",
+            "Kind_No": "Other",
+            "CoorX": 238146,
+            "CoorY": 2729924,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10052",
+            "Site_Name": "苗栗縣頭份市永貞段1182地號土地",
+            "Kind_No": "Other",
+            "CoorX": 238032,
+            "CoorY": 2730282,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10269",
+            "Site_Name": "田寮區牛稠埔段非法棄置場址",
+            "Kind_No": "Discard",
+            "CoorX": 187229,
+            "CoorY": 2526247,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10194",
+            "Site_Name": "本市歸仁區崙頂段1078-0000、1077-0000及1076-0000等3筆地號土地為地下水污染控制場址",
+            "Kind_No": "Discard",
+            "CoorX": 177969,
+            "CoorY": 2538010,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "M10071",
+            "Site_Name": "南投縣南投市新廍段1458地號",
+            "Kind_No": "Gas",
+            "CoorX": 218699,
+            "CoorY": 2646793,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10053",
+            "Site_Name": "苗栗縣頭份市永貞段489地號土地",
+            "Kind_No": "Other",
+            "CoorX": 238307,
+            "CoorY": 2730544,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "L10064",
+            "Site_Name": "擇億實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 221082,
+            "CoorY": 2665362,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B10502",
+            "Site_Name": "正佑股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 221130,
+            "CoorY": 2665377,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B10503",
+            "Site_Name": "保勁工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 221029,
+            "CoorY": 2665296,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10187",
+            "Site_Name": "本市歸仁區崙頂段1081-0000地號土壤及地下水污染控制場址",
+            "Kind_No": "Discard",
+            "CoorX": 177998,
+            "CoorY": 2537920,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "L10273",
+            "Site_Name": "台亞關連加油站",
+            "Kind_No": "Gas",
+            "CoorX": 200652,
+            "CoorY": 2680395,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10239",
+            "Site_Name": "萬寶至馬達股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 178257,
+            "CoorY": 2513547,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "T10006",
+            "Site_Name": "屏東縣高樹鄉新日段1948地號",
+            "Kind_No": "Discard",
+            "CoorX": 203755,
+            "CoorY": 2520485,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10080",
+            "Site_Name": "伍桐股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 184650,
+            "CoorY": 2491520,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10172",
+            "Site_Name": "臺南市永康區鹽東段0817地號、鹽東段0809地號及蔦松南段1056地號",
+            "Kind_No": "Other",
+            "CoorX": 172848,
+            "CoorY": 2549092,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10086",
+            "Site_Name": "竹南鎮龍鳳東段1050地號土地",
+            "Kind_No": "Other",
+            "CoorX": 237749,
+            "CoorY": 2731981,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

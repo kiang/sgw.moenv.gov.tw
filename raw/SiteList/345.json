@@ -1,0 +1,189 @@
+{
+    "PageNo": 345,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "A00014",
+            "Site_Name": "臺北市北投區豐年段一小段四五五(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299739,
+            "CoorY": 2779857,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00015",
+            "Site_Name": "臺北市北投區豐年段一小段四五七地號",
+            "Kind_No": "Farm",
+            "CoorX": 299696,
+            "CoorY": 2779851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00016",
+            "Site_Name": "臺北市北投區豐年段一小段四五八地號",
+            "Kind_No": "Farm",
+            "CoorX": 299657,
+            "CoorY": 2779842,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00017",
+            "Site_Name": "臺北市北投區豐年段一小段四五九地號",
+            "Kind_No": "Farm",
+            "CoorX": 299675,
+            "CoorY": 2779815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00018",
+            "Site_Name": "臺北市北投區豐年段一小段四五九之一地號",
+            "Kind_No": "Farm",
+            "CoorX": 299710,
+            "CoorY": 2779803,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00019",
+            "Site_Name": "臺北市北投區豐年段一小段四五九之二地號",
+            "Kind_No": "Farm",
+            "CoorX": 299615,
+            "CoorY": 2779843,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00020",
+            "Site_Name": "臺北市北投區豐年段一小段四五九之三地號",
+            "Kind_No": "Farm",
+            "CoorX": 299617,
+            "CoorY": 2779830,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00021",
+            "Site_Name": "臺北市北投區豐年段一小段四六○地號",
+            "Kind_No": "Farm",
+            "CoorX": 299639,
+            "CoorY": 2779804,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00022",
+            "Site_Name": "臺北市北投區豐年段一小段四六一(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299627,
+            "CoorY": 2779724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00014",
+            "Site_Name": "山隆通運股份有限公司樹林加油站",
+            "Kind_No": "Gas",
+            "CoorX": 292425,
+            "CoorY": 2763834,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00107",
+            "Site_Name": "臺中縣大里區大突寮段238-16(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217911,
+            "CoorY": 2665214,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00108",
+            "Site_Name": "臺中縣大里區大突寮段238-18(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217164,
+            "CoorY": 2665459,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00109",
+            "Site_Name": "臺中縣大里區大突寮段238-28(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218051,
+            "CoorY": 2665273,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00111",
+            "Site_Name": "臺中縣大里區大突寮段247-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216851,
+            "CoorY": 2665205,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00112",
+            "Site_Name": "臺中縣大里區大突寮段247-28(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216895,
+            "CoorY": 2665183,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00113",
+            "Site_Name": "臺中縣大里區大突寮段247-29地號",
+            "Kind_No": "Farm",
+            "CoorX": 216911,
+            "CoorY": 2665224,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00115",
+            "Site_Name": "臺中縣大里區大突寮段247-55(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216849,
+            "CoorY": 2665169,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00116",
+            "Site_Name": "臺中縣大里區大突寮段247-62(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217710,
+            "CoorY": 2664978,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00137",
+            "Site_Name": "臺中縣大里區大突寮段348(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217497,
+            "CoorY": 2664853,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00138",
+            "Site_Name": "臺中縣大里區大突寮段348-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217525,
+            "CoorY": 2664857,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

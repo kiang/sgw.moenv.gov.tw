@@ -1,0 +1,189 @@
+{
+    "PageNo": 250,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H00158",
+            "Site_Name": "桃園縣蘆竹鄉德林段784地號(原為中興段90-6地號)(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 276797,
+            "CoorY": 2766680,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00178",
+            "Site_Name": "桃園縣蘆竹鄉福興段14-2地號(現為德林段1063地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276682,
+            "CoorY": 2765945,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00179",
+            "Site_Name": "桃園縣蘆竹鄉福興段18地號(德林段1062地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276692,
+            "CoorY": 2765974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00144",
+            "Site_Name": "桃園縣蘆竹鄉中興段69-14(現為德林段553地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276538,
+            "CoorY": 2766915,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10121",
+            "Site_Name": "彰化縣彰化市大埔段0520-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 202374,
+            "CoorY": 2662102,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10139",
+            "Site_Name": "台鈴工業股份有限公司(平鎮廠)",
+            "Kind_No": "Factory",
+            "CoorX": 270106,
+            "CoorY": 2758073,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10041",
+            "Site_Name": "竹東鎮明星段0597地號(統一精工竹東加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 254279,
+            "CoorY": 2740709,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12314",
+            "Site_Name": "彰化縣和美鎮大霞段0604-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199581,
+            "CoorY": 2665278,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10101",
+            "Site_Name": "七星化學製藥股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292094,
+            "CoorY": 2761670,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00242",
+            "Site_Name": "桃園縣中壢市內壢段596地號",
+            "Kind_No": "Farm",
+            "CoorX": 275109,
+            "CoorY": 2766121,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10510",
+            "Site_Name": "員林交流道加油站站",
+            "Kind_No": "Gas",
+            "CoorX": 200246,
+            "CoorY": 2649903,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00145",
+            "Site_Name": "桃園縣蘆竹鄉中興段69-16地號(德林段550地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275715,
+            "CoorY": 2767121,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00147",
+            "Site_Name": "桃園縣蘆竹鄉中興段70-1地號(德林段554地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275706,
+            "CoorY": 2767059,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00182",
+            "Site_Name": "桃園縣蘆竹鄉福興段24-3地號(現為新福段245地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276678,
+            "CoorY": 2765824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00156",
+            "Site_Name": "桃園縣蘆竹鄉中興段88地號(德林段770地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275576,
+            "CoorY": 2766735,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00157",
+            "Site_Name": "桃園縣蘆竹鄉中興段89地號(德林段787地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275596,
+            "CoorY": 2766758,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10447",
+            "Site_Name": "廣質股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 183641,
+            "CoorY": 2645601,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "U10153",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部東部營業處(北埔油庫)",
+            "Kind_No": "Gas",
+            "CoorX": 310181,
+            "CoorY": 2659619,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00248",
+            "Site_Name": "桃園縣中壢市內壢段608地號",
+            "Kind_No": "Farm",
+            "CoorX": 275114,
+            "CoorY": 2765961,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00249",
+            "Site_Name": "桃園縣中壢市內壢段609地號",
+            "Kind_No": "Farm",
+            "CoorX": 275114,
+            "CoorY": 2765941,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

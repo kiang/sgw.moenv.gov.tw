@@ -1,0 +1,189 @@
+{
+    "PageNo": 410,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D00018",
+            "Site_Name": "台南市一心加油站",
+            "Kind_No": "Gas",
+            "CoorX": 171408,
+            "CoorY": 2544175,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "K10021",
+            "Site_Name": "苗栗縣竹南鎮鹽館前段大厝小段154地號土地",
+            "Kind_No": "Other",
+            "CoorX": 237694,
+            "CoorY": 2730034,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "M10056",
+            "Site_Name": "南投縣南投市林子段南崗小段172、173、173-4、185-3、421地號",
+            "Kind_No": "Factory",
+            "CoorX": 216022,
+            "CoorY": 2647175,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "B11827",
+            "Site_Name": "臺中市大甲區幼獅段1317地號地下水受污染使用限制地區",
+            "Kind_No": "Other",
+            "CoorX": 214587,
+            "CoorY": 2699222,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "B11792",
+            "Site_Name": "臺中市西屯區協和段33地號地下水受污染使用限制地區",
+            "Kind_No": "Other",
+            "CoorX": 209861,
+            "CoorY": 2674175,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "H16303",
+            "Site_Name": "桃園市中壢區內壢段3734、3734-1地號等2筆地號(華昶金屬工業股份有限公司(地下水))",
+            "Kind_No": "Factory",
+            "CoorX": 274723,
+            "CoorY": 2762957,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "O10104",
+            "Site_Name": "仁愛段920地號(香山F010監測井)",
+            "Kind_No": "Other",
+            "CoorX": 243290,
+            "CoorY": 2742826,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "O10221",
+            "Site_Name": "W103-01牛埔東路五六八巷及埔前路巷口",
+            "Kind_No": "Other",
+            "CoorX": 243306,
+            "CoorY": 2742984,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "O10222",
+            "Site_Name": "W104-01埔前路231巷巷口轉角",
+            "Kind_No": "Other",
+            "CoorX": 243482,
+            "CoorY": 2743051,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "O10095",
+            "Site_Name": "W9912牛埔南路378號對面",
+            "Kind_No": "Other",
+            "CoorX": 243175,
+            "CoorY": 2742923,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "H13336",
+            "Site_Name": "幼獅工業區預警網3號井週遭(幼獅段37地號)",
+            "Kind_No": "Other",
+            "CoorX": 267004,
+            "CoorY": 2758121,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "H14446",
+            "Site_Name": "明毅金屬工業廠",
+            "Kind_No": "Factory",
+            "CoorX": 266933,
+            "CoorY": 2766301,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "H16336",
+            "Site_Name": "桃園市中壢區中工段113地號",
+            "Kind_No": "Factory",
+            "CoorX": 275246,
+            "CoorY": 2764995,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "D10299",
+            "Site_Name": "臺南市永康區鹽行段1426-0000地號、臺南市永康區鹽行段1427-0003地號",
+            "Kind_No": "Other",
+            "CoorX": 172745,
+            "CoorY": 2549374,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "O10103",
+            "Site_Name": "新竹市東光段661-0地號 ",
+            "Kind_No": "Other",
+            "CoorX": 248293,
+            "CoorY": 2743966,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "K10241",
+            "Site_Name": "苗栗縣竹南鎮廣源段1575地號",
+            "Kind_No": "Other",
+            "CoorX": 240605,
+            "CoorY": 2734405,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "K10188",
+            "Site_Name": "苗栗縣竹南鎮大同段430地號",
+            "Kind_No": "Other",
+            "CoorX": 240669,
+            "CoorY": 2734274,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "K10213",
+            "Site_Name": "苗栗縣竹南鎮公義段308地號",
+            "Kind_No": "Other",
+            "CoorX": 238180,
+            "CoorY": 2731884,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "K10214",
+            "Site_Name": "苗栗縣竹南鎮公義段304地號",
+            "Kind_No": "Other",
+            "CoorX": 238041,
+            "CoorY": 2731866,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "Q10680",
+            "Site_Name": "臺灣塑膠工業股份有限公司新港廠 ",
+            "Kind_No": "Tank",
+            "CoorX": 186833,
+            "CoorY": 2601755,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        }
+    ]
+}

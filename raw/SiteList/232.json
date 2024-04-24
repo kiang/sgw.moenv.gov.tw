@@ -1,0 +1,189 @@
+{
+    "PageNo": 232,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12284",
+            "Site_Name": "大園鄉圳股頭段後館小段128-20地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270469,
+            "CoorY": 2773777,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12285",
+            "Site_Name": "大園鄉圳股頭段後館小段128-22地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270425,
+            "CoorY": 2773784,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12286",
+            "Site_Name": "大園鄉圳股頭段後館小段167地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270556,
+            "CoorY": 2773824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12304",
+            "Site_Name": "大園鄉圳股頭段後館小段472地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270288,
+            "CoorY": 2774080,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12305",
+            "Site_Name": "大園鄉圳股頭段後館小段473地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270288,
+            "CoorY": 2774080,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12306",
+            "Site_Name": "大園鄉圳股頭段後館小段474地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270301,
+            "CoorY": 2774068,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12307",
+            "Site_Name": "大園鄉圳股頭段後館小段475地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270293,
+            "CoorY": 2774049,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12308",
+            "Site_Name": "大園鄉圳股頭段後館小段476地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270293,
+            "CoorY": 2774049,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12281",
+            "Site_Name": "大園鄉圳股頭段後館小段122-5地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270465,
+            "CoorY": 2773784,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12294",
+            "Site_Name": "大園鄉圳股頭段後館小段216地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270604,
+            "CoorY": 2773960,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12295",
+            "Site_Name": "大園鄉圳股頭段後館小段225地號",
+            "Kind_No": "Farm",
+            "CoorX": 270606,
+            "CoorY": 2773927,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12296",
+            "Site_Name": "大園鄉圳股頭段後館小段226地號",
+            "Kind_No": "Farm",
+            "CoorX": 270606,
+            "CoorY": 2773927,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12297",
+            "Site_Name": "大園鄉圳股頭段後館小段237-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270556,
+            "CoorY": 2773824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12298",
+            "Site_Name": "大園鄉圳股頭段後館小段238地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270556,
+            "CoorY": 2773824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12299",
+            "Site_Name": "大園鄉圳股頭段後館小段454地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270160,
+            "CoorY": 2773925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12300",
+            "Site_Name": "大園鄉圳股頭段後館小段455地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270160,
+            "CoorY": 2773925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12301",
+            "Site_Name": "大園鄉圳股頭段後館小段469地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270244,
+            "CoorY": 2774130,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12302",
+            "Site_Name": "大園鄉圳股頭段後館小段470地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270244,
+            "CoorY": 2774130,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12311",
+            "Site_Name": "大園鄉圳股頭段後館小段487(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 270307,
+            "CoorY": 2774074,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12362",
+            "Site_Name": "大園鄉埔心段埔心小段1136地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272131,
+            "CoorY": 2771209,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

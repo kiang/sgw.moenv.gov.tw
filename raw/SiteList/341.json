@@ -1,0 +1,189 @@
+{
+    "PageNo": 341,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H00110",
+            "Site_Name": "桃園縣蘆竹鄉中興段131-8地號(現為德林段59地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275447,
+            "CoorY": 2767086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00118",
+            "Site_Name": "桃園縣蘆竹鄉中興段148-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275466,
+            "CoorY": 2767067,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00128",
+            "Site_Name": "桃園縣蘆竹鄉中興段154地號(現為新中段657地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275179,
+            "CoorY": 2767214,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00129",
+            "Site_Name": "桃園縣蘆竹鄉中興段154-2地號(現為新中段655地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275260,
+            "CoorY": 2767263,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00130",
+            "Site_Name": "桃園縣蘆竹鄉中興段155地號(現為新中段650地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275141,
+            "CoorY": 2767248,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00131",
+            "Site_Name": "桃園縣蘆竹鄉中興段155-2地號(現為新中段652地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275290,
+            "CoorY": 2767302,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00194",
+            "Site_Name": "桃園縣觀音鄉大潭段136-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 255490,
+            "CoorY": 2769459,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00030",
+            "Site_Name": "高雄縣湖內鄉圍子內段4149地號",
+            "Kind_No": "Farm",
+            "CoorX": 168257,
+            "CoorY": 2534226,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00031",
+            "Site_Name": "高雄縣湖內鄉圍子內段4142地號",
+            "Kind_No": "Farm",
+            "CoorX": 168252,
+            "CoorY": 2534140,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00032",
+            "Site_Name": "高雄縣湖內鄉圍子內段4141地號",
+            "Kind_No": "Farm",
+            "CoorX": 168266,
+            "CoorY": 2534120,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00033",
+            "Site_Name": "高雄縣湖內鄉海埔段2309地號",
+            "Kind_No": "Farm",
+            "CoorX": 170916,
+            "CoorY": 2534222,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00034",
+            "Site_Name": "高雄縣路竹鄉復興段890地號",
+            "Kind_No": "Farm",
+            "CoorX": 175376,
+            "CoorY": 2527541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00035",
+            "Site_Name": "高雄縣大寮鄉後庄段7-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 187878,
+            "CoorY": 2504560,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00163",
+            "Site_Name": "臺中縣大里區詹厝園段18地號",
+            "Kind_No": "Farm",
+            "CoorX": 217280,
+            "CoorY": 2664952,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00165",
+            "Site_Name": "臺中縣大里區詹厝園段27(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216910,
+            "CoorY": 2664739,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00167",
+            "Site_Name": "臺中縣大里區大突寮段347-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 216499,
+            "CoorY": 2665021,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00168",
+            "Site_Name": "臺中縣大里區大突寮段247-3(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216802,
+            "CoorY": 2665185,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00170",
+            "Site_Name": "臺中縣大里區大突寮段248-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216785,
+            "CoorY": 2665244,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00171",
+            "Site_Name": "臺中縣大里區詹厝園段14(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216342,
+            "CoorY": 2665321,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00172",
+            "Site_Name": "臺中縣大里區詹厝園段14-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 216381,
+            "CoorY": 2665126,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

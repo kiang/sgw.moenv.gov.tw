@@ -1,0 +1,189 @@
+{
+    "PageNo": 344,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L00093",
+            "Site_Name": "臺中縣豐原區新東陽段33地號",
+            "Kind_No": "Farm",
+            "CoorX": 222728,
+            "CoorY": 2683076,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00094",
+            "Site_Name": "臺中縣豐原區新東陽段51地號",
+            "Kind_No": "Farm",
+            "CoorX": 222702,
+            "CoorY": 2683079,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00095",
+            "Site_Name": "臺中縣后里區墩北段779地號",
+            "Kind_No": "Farm",
+            "CoorX": 219621,
+            "CoorY": 2689599,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00096",
+            "Site_Name": "臺中縣后里區墩北段781地號",
+            "Kind_No": "Farm",
+            "CoorX": 220414,
+            "CoorY": 2689408,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00097",
+            "Site_Name": "臺中縣后里區墩北段783地號",
+            "Kind_No": "Farm",
+            "CoorX": 220410,
+            "CoorY": 2689461,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00098",
+            "Site_Name": "臺中縣后里區墩北段784地號",
+            "Kind_No": "Farm",
+            "CoorX": 220383,
+            "CoorY": 2689474,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00099",
+            "Site_Name": "臺中縣后里區墩北段785地號",
+            "Kind_No": "Farm",
+            "CoorX": 220385,
+            "CoorY": 2689452,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00100",
+            "Site_Name": "臺中縣后里區墩北段786地號",
+            "Kind_No": "Farm",
+            "CoorX": 220380,
+            "CoorY": 2689426,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00015",
+            "Site_Name": "臺中縣大甲區福安段350地號",
+            "Kind_No": "Farm",
+            "CoorX": 213561,
+            "CoorY": 2701518,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00013",
+            "Site_Name": "臺中縣大甲區福安段341地號",
+            "Kind_No": "Farm",
+            "CoorX": 213583,
+            "CoorY": 2701504,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00019",
+            "Site_Name": "臺中縣大甲區福安段996地號",
+            "Kind_No": "Farm",
+            "CoorX": 213709,
+            "CoorY": 2700554,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00005",
+            "Site_Name": "臺北市北投區豐年段一小段二○二(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299664,
+            "CoorY": 2780017,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00006",
+            "Site_Name": "臺北市北投區豐年段一小段三○二(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299512,
+            "CoorY": 2779782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00007",
+            "Site_Name": "臺北市北投區豐年段一小段三○三(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299518,
+            "CoorY": 2779865,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00008",
+            "Site_Name": "臺北市北投區八仙段一小段三一三地號",
+            "Kind_No": "Farm",
+            "CoorX": 299669,
+            "CoorY": 2779961,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00009",
+            "Site_Name": "臺北市北投區豐年段一小段四五○之五地號",
+            "Kind_No": "Farm",
+            "CoorX": 299745,
+            "CoorY": 2779944,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00010",
+            "Site_Name": "臺北市北投區豐年段一小段四五二之七地號",
+            "Kind_No": "Farm",
+            "CoorX": 299725,
+            "CoorY": 2779920,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00011",
+            "Site_Name": "臺北市北投區豐年段一小段四五二之八地號",
+            "Kind_No": "Farm",
+            "CoorX": 299705,
+            "CoorY": 2779931,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00012",
+            "Site_Name": "台北市北投區豐年段一小段四五二之九地號",
+            "Kind_No": "Farm",
+            "CoorX": 299686,
+            "CoorY": 2779934,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00013",
+            "Site_Name": "臺北市北投區豐年段一小段四五四(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 299914,
+            "CoorY": 2779838,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

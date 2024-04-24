@@ -1,0 +1,189 @@
+{
+    "PageNo": 409,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B10049",
+            "Site_Name": "漢翔航空工業股份有限公司台中一廠區",
+            "Kind_No": "Factory",
+            "CoorX": 214341,
+            "CoorY": 2675768,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E10401",
+            "Site_Name": "台亞岡山交流道加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179770,
+            "CoorY": 2520794,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "M10122",
+            "Site_Name": "南投市林子段南崗小段270地號",
+            "Kind_No": "Factory",
+            "CoorX": 216662,
+            "CoorY": 2646706,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "V00028",
+            "Site_Name": "綠島火力發電廠",
+            "Kind_No": "Factory",
+            "CoorX": 298734,
+            "CoorY": 2506926,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E00015",
+            "Site_Name": "台灣中油股份有限公司苓雅寮儲運所(特貿二南)場址",
+            "Kind_No": "Factory",
+            "CoorX": 177859,
+            "CoorY": 2501388,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10185",
+            "Site_Name": "統一精工南科二站",
+            "Kind_No": "Gas",
+            "CoorX": 177692,
+            "CoorY": 2557655,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "K10017",
+            "Site_Name": "萬象製革廠股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 226911,
+            "CoorY": 2701078,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10143",
+            "Site_Name": "臺南市仁德區保甲段1055-0000地號",
+            "Kind_No": "Discard",
+            "CoorX": 168438,
+            "CoorY": 2535797,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R00049",
+            "Site_Name": "永信加油站股份有限公司永信加油站",
+            "Kind_No": "Gas",
+            "CoorX": 175300,
+            "CoorY": 2568508,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "K10028",
+            "Site_Name": "華夏海灣塑膠股份有限公司頭份廠",
+            "Kind_No": "Factory",
+            "CoorX": 238848,
+            "CoorY": 2730799,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "F00015",
+            "Site_Name": "台亞石油股份有限公司新莊加油站",
+            "Kind_No": "Gas",
+            "CoorX": 296376,
+            "CoorY": 2770455,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "S10067",
+            "Site_Name": "佑盟工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 173060,
+            "CoorY": 2523776,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "N00967",
+            "Site_Name": "彰化縣線西鄉富貴段0099-0000地號",
+            "Kind_No": "Tank",
+            "CoorX": 192202,
+            "CoorY": 2669592,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "T10044",
+            "Site_Name": "屏東縣麟洛鄉麟信段407地號",
+            "Kind_No": "Factory",
+            "CoorX": 200859,
+            "CoorY": 2505941,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10022",
+            "Site_Name": "台灣中油股份有限公司所有新營長榮路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179093,
+            "CoorY": 2579766,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "H10048",
+            "Site_Name": "東林加油站",
+            "Kind_No": "Gas",
+            "CoorX": 277369,
+            "CoorY": 2769311,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R00006",
+            "Site_Name": "嘉南加油站",
+            "Kind_No": "Gas",
+            "CoorX": 179676,
+            "CoorY": 2572920,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "R10136",
+            "Site_Name": "敬惠工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 171765,
+            "CoorY": 2556854,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "E00001",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠P-37油槽區",
+            "Kind_No": "Tank",
+            "CoorX": 180226,
+            "CoorY": 2512171,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "S10027",
+            "Site_Name": "全國加油站股份有限公司仁武加油站",
+            "Kind_No": "Gas",
+            "CoorX": 183029,
+            "CoorY": 2510857,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        }
+    ]
+}

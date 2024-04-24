@@ -1,0 +1,189 @@
+{
+    "PageNo": 161,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H13446",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段31-17地號",
+            "Kind_No": "Farm",
+            "CoorX": 276941,
+            "CoorY": 2774619,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13463",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段33-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 276941,
+            "CoorY": 2774619,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10090",
+            "Site_Name": "台朔重工股份有限公司仁武廠",
+            "Kind_No": "Factory",
+            "CoorX": 182013,
+            "CoorY": 2511423,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10317",
+            "Site_Name": "南亞塑膠工業股份有限公司仁武廠",
+            "Kind_No": "Factory",
+            "CoorX": 181515,
+            "CoorY": 2511792,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11814",
+            "Site_Name": "大甲區幼獅段1361-54地號(進鈦金屬工業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 215774,
+            "CoorY": 2699587,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10122",
+            "Site_Name": "蘇澳鎮南正段31-1地號",
+            "Kind_No": "Other",
+            "CoorX": 336741,
+            "CoorY": 2721353,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11789",
+            "Site_Name": "臺中市大甲區孟春段128(部分)地號(威輪工業(股)公司下游農地)",
+            "Kind_No": "Farm",
+            "CoorX": 214851,
+            "CoorY": 2697665,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11790",
+            "Site_Name": "臺中市大甲區孟春段129(部分)地號(威輪工業(股)公司下游農地)",
+            "Kind_No": "Farm",
+            "CoorX": 214935,
+            "CoorY": 2697546,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11791",
+            "Site_Name": "臺中市大甲區孟春段131(部分)地號(威輪工業(股)公司下游農地)",
+            "Kind_No": "Farm",
+            "CoorX": 214974,
+            "CoorY": 2697562,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12815",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1250地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272771,
+            "CoorY": 2771859,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12816",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1250-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272771,
+            "CoorY": 2771859,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12818",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1253地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272715,
+            "CoorY": 2771917,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12801",
+            "Site_Name": "大園鄉大牛稠段倒厝子小段1191地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272894,
+            "CoorY": 2772209,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12735",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段782地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273329,
+            "CoorY": 2772057,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12736",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段783地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273329,
+            "CoorY": 2772057,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12726",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段758地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273431,
+            "CoorY": 2772129,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12727",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段759地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273431,
+            "CoorY": 2772129,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12728",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段761地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273396,
+            "CoorY": 2772177,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12729",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段762地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273390,
+            "CoorY": 2772185,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12708",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段727-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273789,
+            "CoorY": 2772400,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

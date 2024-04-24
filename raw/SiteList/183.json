@@ -1,0 +1,189 @@
+{
+    "PageNo": 183,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N12360",
+            "Site_Name": "彰化縣和美鎮大霞段1063-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199334,
+            "CoorY": 2665845,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12361",
+            "Site_Name": "彰化縣和美鎮大霞段1082-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199507,
+            "CoorY": 2665939,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12362",
+            "Site_Name": "彰化縣和美鎮大霞段1083-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199487,
+            "CoorY": 2665943,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12363",
+            "Site_Name": "彰化縣和美鎮大霞段1085-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199444,
+            "CoorY": 2665951,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12364",
+            "Site_Name": "彰化縣和美鎮大霞段1131-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199276,
+            "CoorY": 2666199,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12365",
+            "Site_Name": "彰化縣和美鎮大霞段1137-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199419,
+            "CoorY": 2666167,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13296",
+            "Site_Name": "彰化縣和美鎮大霞段1085-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 199444,
+            "CoorY": 2665951,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10087",
+            "Site_Name": "高雄市金獅加油站",
+            "Kind_No": "Gas",
+            "CoorX": 180337,
+            "CoorY": 2507109,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10273",
+            "Site_Name": "原台鳳股份有限公司高雄製罐廠",
+            "Kind_No": "Factory",
+            "CoorX": 177459,
+            "CoorY": 2504598,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10223",
+            "Site_Name": "忠孝段672地號(105年新公告)",
+            "Kind_No": "Farm",
+            "CoorX": 243054,
+            "CoorY": 2743199,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10224",
+            "Site_Name": "香雅段163地號",
+            "Kind_No": "Farm",
+            "CoorX": 242745,
+            "CoorY": 2745044,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12091",
+            "Site_Name": "豪美有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 206113,
+            "CoorY": 2666351,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10061",
+            "Site_Name": "臺中市烏日區同安厝段334(部分)地號(坵塊1部分)(重測後臺中市烏日區溪尾北段202地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212067,
+            "CoorY": 2661049,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10062",
+            "Site_Name": "臺中市烏日區同安厝段334-1地號(重測後臺中市溪尾北段205地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212040,
+            "CoorY": 2661043,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10069",
+            "Site_Name": "臺中市烏日區同安厝段335(部分)地號(坵塊1部分)(重測後臺中市烏日區溪尾北段203(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212074,
+            "CoorY": 2661038,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10070",
+            "Site_Name": "臺中市烏日區同安厝段332(部分)地號 (重測後臺中市烏日區溪尾北段199地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212116,
+            "CoorY": 2661061,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10071",
+            "Site_Name": "臺中市烏日區同安厝段333地號 (重測後臺中市烏日區溪尾北段201地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212096,
+            "CoorY": 2661053,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10072",
+            "Site_Name": "臺中市烏日區同安厝段336地號 (重測後臺中市烏日區溪尾北段200地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212099,
+            "CoorY": 2661040,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10073",
+            "Site_Name": "臺中市烏日區同安厝段337(部分)地號 (重測後臺中市烏日區溪尾北段198地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212125,
+            "CoorY": 2661046,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10074",
+            "Site_Name": "臺中市烏日區同安厝段334(部分)地號(坵塊2部分)(重測後臺中市烏日區溪尾北段202(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212078,
+            "CoorY": 2661054,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

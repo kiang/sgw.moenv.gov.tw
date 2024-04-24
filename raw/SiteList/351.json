@@ -1,0 +1,189 @@
+{
+    "PageNo": 351,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L00053",
+            "Site_Name": "臺中縣烏日區北里段450地號",
+            "Kind_No": "Farm",
+            "CoorX": 214816,
+            "CoorY": 2660618,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00054",
+            "Site_Name": "臺中縣大里區國中段396地號",
+            "Kind_No": "Farm",
+            "CoorX": 217674,
+            "CoorY": 2665291,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00070",
+            "Site_Name": "臺中縣大里區大突寮段279-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 217343,
+            "CoorY": 2665084,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00035",
+            "Site_Name": "臺中縣大里區大突寮段255地號",
+            "Kind_No": "Farm",
+            "CoorX": 217530,
+            "CoorY": 2665116,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00057",
+            "Site_Name": "臺中縣大里區國中段400地號",
+            "Kind_No": "Farm",
+            "CoorX": 217621,
+            "CoorY": 2665305,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00025",
+            "Site_Name": "臺中縣大甲區福安段1256地號",
+            "Kind_No": "Farm",
+            "CoorX": 213689,
+            "CoorY": 2700567,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00026",
+            "Site_Name": "臺中縣大甲區福安段1274地號",
+            "Kind_No": "Farm",
+            "CoorX": 213677,
+            "CoorY": 2700489,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00023",
+            "Site_Name": "臺中縣大甲鎮區福安段1036地號",
+            "Kind_No": "Farm",
+            "CoorX": 213656,
+            "CoorY": 2700502,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00021",
+            "Site_Name": "臺中縣大甲區福安段1004地號",
+            "Kind_No": "Farm",
+            "CoorX": 213664,
+            "CoorY": 2700578,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00014",
+            "Site_Name": "臺中縣大甲區福安段332地號",
+            "Kind_No": "Farm",
+            "CoorX": 213614,
+            "CoorY": 2701504,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00007",
+            "Site_Name": "高雄縣大寮鄉磚子磘段3997地號",
+            "Kind_No": "Farm",
+            "CoorX": 186131,
+            "CoorY": 2504258,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00008",
+            "Site_Name": "高雄縣大寮鄉磚子嗂段3998地號",
+            "Kind_No": "Farm",
+            "CoorX": 186140,
+            "CoorY": 2504232,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00019",
+            "Site_Name": "高雄縣湖內鄉海埔段2303地號",
+            "Kind_No": "Farm",
+            "CoorX": 170945,
+            "CoorY": 2534135,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00020",
+            "Site_Name": "高雄縣湖內鄉海埔段2303-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 170976,
+            "CoorY": 2534154,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00021",
+            "Site_Name": "高雄縣湖內鄉海埔段2301地號",
+            "Kind_No": "Farm",
+            "CoorX": 170958,
+            "CoorY": 2534114,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00022",
+            "Site_Name": "高雄縣湖內鄉海埔段2301-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 170991,
+            "CoorY": 2534134,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00023",
+            "Site_Name": "高雄縣湖內鄉圍子內段4221地號",
+            "Kind_No": "Farm",
+            "CoorX": 167738,
+            "CoorY": 2534555,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00024",
+            "Site_Name": "高雄縣湖內鄉圍子內段4222地號",
+            "Kind_No": "Farm",
+            "CoorX": 167722,
+            "CoorY": 2534563,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00025",
+            "Site_Name": "高雄縣湖內鄉海埔段2304-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 170936,
+            "CoorY": 2534151,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S00026",
+            "Site_Name": "高雄縣湖內鄉海埔段2304-9地號",
+            "Kind_No": "Farm",
+            "CoorX": 170966,
+            "CoorY": 2534167,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

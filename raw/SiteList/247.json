@@ -1,0 +1,189 @@
+{
+    "PageNo": 247,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10799",
+            "Site_Name": "蘆竹鄉新庄子段1753地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275154,
+            "CoorY": 2768693,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14208",
+            "Site_Name": "桃園市蘆竹區德林段742(部分)地號(原蘆竹區福興段4地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276221,
+            "CoorY": 2766373,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00207",
+            "Site_Name": "桃園縣蘆竹鄉中興段1285地號",
+            "Kind_No": "Farm",
+            "CoorX": 275315,
+            "CoorY": 2766532,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10093",
+            "Site_Name": "桃園縣八德市中華段924地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 282228,
+            "CoorY": 2762319,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10089",
+            "Site_Name": "桃園縣八德市中華段921地號(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 282243,
+            "CoorY": 2762279,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10183",
+            "Site_Name": "蘆竹鄉新庄子段1011地號",
+            "Kind_No": "Farm",
+            "CoorX": 274082,
+            "CoorY": 2769296,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00007",
+            "Site_Name": "桃園縣蘆竹鄉中興段1299地號(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 275224,
+            "CoorY": 2766700,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10006",
+            "Site_Name": "興亞鋼鐵股份有限公司場址",
+            "Kind_No": "Factory",
+            "CoorX": 177121,
+            "CoorY": 2504447,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10009",
+            "Site_Name": "原興亞鋼鐵股份有限公司場址",
+            "Kind_No": "Factory",
+            "CoorX": 177131,
+            "CoorY": 2504474,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10072",
+            "Site_Name": "原金山泰安股份有限公司三重廠(部分廠址)",
+            "Kind_No": "Factory",
+            "CoorX": 297491,
+            "CoorY": 2771387,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00089",
+            "Site_Name": "桃園縣蘆竹鄉中興段36-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 275972,
+            "CoorY": 2767638,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10174",
+            "Site_Name": "蘆竹鄉新庄子段667地號",
+            "Kind_No": "Farm",
+            "CoorX": 274381,
+            "CoorY": 2769704,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10091",
+            "Site_Name": "桃園縣八德市中華段926地號",
+            "Kind_No": "Farm",
+            "CoorX": 282196,
+            "CoorY": 2762324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00261",
+            "Site_Name": "桃園縣蘆竹鄉內興段360地號(原桃園縣蘆竹鄉南崁內厝段內厝小段21-6地號)",
+            "Kind_No": "Farm",
+            "CoorX": 277882,
+            "CoorY": 2773973,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10249",
+            "Site_Name": "荃溢工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 313299,
+            "CoorY": 2772613,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10216",
+            "Site_Name": "原智恩電子股份有限公司第二廠",
+            "Kind_No": "Factory",
+            "CoorX": 292358,
+            "CoorY": 2767635,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10045",
+            "Site_Name": "北港鎮溝皂里溝皂段1463地號",
+            "Kind_No": "Farm",
+            "CoorX": 178274,
+            "CoorY": 2612193,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10288",
+            "Site_Name": "北港鎮溝皂段1464-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 178248,
+            "CoorY": 2612193,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00191",
+            "Site_Name": "桃園縣蘆竹鄉新興段712-4地號(文中段579地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276535,
+            "CoorY": 2765344,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00212",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段680-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 273457,
+            "CoorY": 2770078,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 31,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10475",
+            "Site_Name": "台南市鹽水區忠義段642地號",
+            "Kind_No": "Farm",
+            "CoorX": 176969,
+            "CoorY": 2581441,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10476",
+            "Site_Name": "台南市鹽水區忠義段643地號",
+            "Kind_No": "Farm",
+            "CoorX": 176940,
+            "CoorY": 2581437,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10477",
+            "Site_Name": "台南市鹽水區忠義段644地號",
+            "Kind_No": "Farm",
+            "CoorX": 176940,
+            "CoorY": 2581437,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10373",
+            "Site_Name": "台南市鹽水區忠義段645地號",
+            "Kind_No": "Farm",
+            "CoorX": 176915,
+            "CoorY": 2581435,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10007",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區後勁段月眉小段758-1、758-5、758-6地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 179400,
+            "CoorY": 2512300,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10195",
+            "Site_Name": "原川毅工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 299893,
+            "CoorY": 2774640,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18164",
+            "Site_Name": "彰化縣花壇鄉溪南段1247-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203132,
+            "CoorY": 2659377,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14049",
+            "Site_Name": "彰化縣花壇鄉溪南段1248-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203144,
+            "CoorY": 2659357,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14021",
+            "Site_Name": "彰化縣花壇鄉溪南段1257-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203130,
+            "CoorY": 2659299,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11016",
+            "Site_Name": "彰化縣彰化市莿桐段0586-0000(部分)地號(103年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200711,
+            "CoorY": 2662404,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10013",
+            "Site_Name": "新竹縣寶山鄉新竹科學工業園區二、三路地下水污染場址",
+            "Kind_No": "Other",
+            "CoorX": 251078,
+            "CoorY": 2740641,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O10171",
+            "Site_Name": "新竹市園區二、三路地下水污染場址",
+            "Kind_No": "Other",
+            "CoorX": 251027,
+            "CoorY": 2740677,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14031",
+            "Site_Name": "彰化縣花壇鄉花壇段0508-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201917,
+            "CoorY": 2657854,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14358",
+            "Site_Name": "彰化縣鹿港鎮鹿鳳段0674-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197813,
+            "CoorY": 2664504,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14359",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0854-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 196232,
+            "CoorY": 2665587,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14714",
+            "Site_Name": "彰化縣花壇鄉口庄段0161-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201088,
+            "CoorY": 2660612,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14378",
+            "Site_Name": "彰化縣彰化市南郭段南郭小段0574-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202539,
+            "CoorY": 2662990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14491",
+            "Site_Name": "彰化縣大村鄉慶安段1539-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 204824,
+            "CoorY": 2654793,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14492",
+            "Site_Name": "彰化縣大村鄉慶安段1539-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 204829,
+            "CoorY": 2654752,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14493",
+            "Site_Name": "彰化縣大村鄉慶安段1539-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 204822,
+            "CoorY": 2654707,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

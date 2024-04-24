@@ -1,0 +1,189 @@
+{
+    "PageNo": 5,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13990",
+            "Site_Name": "順詠五金企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 195782,
+            "CoorY": 2662954,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13135",
+            "Site_Name": "彰化縣和美鎮大霞段1692-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198575,
+            "CoorY": 2664747,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10617",
+            "Site_Name": "高雄市苓雅區苓港段13及14地號",
+            "Kind_No": "Factory",
+            "CoorX": 177405,
+            "CoorY": 2501506,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12094",
+            "Site_Name": "金田機械股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 221470,
+            "CoorY": 2665456,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "I00236",
+            "Site_Name": "新明利五金加工廠",
+            "Kind_No": "Factory",
+            "CoorX": 193884,
+            "CoorY": 2600663,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10353",
+            "Site_Name": "慶利金屬有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293771,
+            "CoorY": 2762817,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H14441",
+            "Site_Name": "桃園市楊梅區長紅段1359、1364地號",
+            "Kind_No": "Other",
+            "CoorX": 261083,
+            "CoorY": 2755933,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H15312",
+            "Site_Name": "原億碩實業有限公司大園廠",
+            "Kind_No": "Factory",
+            "CoorX": 268824,
+            "CoorY": 2774587,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10578",
+            "Site_Name": "臺南市善化區灣裡段1115-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 176688,
+            "CoorY": 2561548,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10336",
+            "Site_Name": "臺南市安定區安定段2087-0000、2088-0000、2089-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 171782,
+            "CoorY": 2556867,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "Q10876",
+            "Site_Name": "臺灣化學纖維股份有限公司-新港分公司紡紗廠",
+            "Kind_No": "Factory",
+            "CoorX": 186711,
+            "CoorY": 2601806,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "Q10877",
+            "Site_Name": "臺灣塑膠工業股份有限公司-新港分公司POM廠",
+            "Kind_No": "Factory",
+            "CoorX": 186826,
+            "CoorY": 2601781,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H14328",
+            "Site_Name": "桃園市楊梅區幼獅段1071、1072、1073、1074、1081、1082及1083等7筆地號之土地",
+            "Kind_No": "Factory",
+            "CoorX": 267628,
+            "CoorY": 2757420,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "M10143",
+            "Site_Name": "南投縣南投市大崗段106、107號",
+            "Kind_No": "Factory",
+            "CoorX": 215453,
+            "CoorY": 2647492,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "A00675",
+            "Site_Name": "東南汽車客運股份有限公司內湖站停車場",
+            "Kind_No": "Tank",
+            "CoorX": 308601,
+            "CoorY": 2773040,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12059",
+            "Site_Name": "祐綸實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 222019,
+            "CoorY": 2688343,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H14307",
+            "Site_Name": "桃園市平鎮區六和段128及130地號",
+            "Kind_No": "Discard",
+            "CoorX": 268133,
+            "CoorY": 2760967,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13981",
+            "Site_Name": "欣立達實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 201622,
+            "CoorY": 2660898,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10552",
+            "Site_Name": "台灣中油股份有限公司煉製事業部大林煉油廠C區第九、十、十一蒸餾工場",
+            "Kind_No": "Factory",
+            "CoorX": 182493,
+            "CoorY": 2492754,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13305",
+            "Site_Name": "永吉優有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202686,
+            "CoorY": 2665630,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

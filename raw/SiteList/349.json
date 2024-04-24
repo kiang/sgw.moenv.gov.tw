@@ -1,0 +1,189 @@
+{
+    "PageNo": 349,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B00011",
+            "Site_Name": "台中市南屯區寶山段1158地號",
+            "Kind_No": "Farm",
+            "CoorX": 210658,
+            "CoorY": 2672751,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00012",
+            "Site_Name": "台中市南屯區寶山段1164地號",
+            "Kind_No": "Farm",
+            "CoorX": 210604,
+            "CoorY": 2672729,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00013",
+            "Site_Name": "台中市南屯區寶山段1182地號",
+            "Kind_No": "Farm",
+            "CoorX": 210584,
+            "CoorY": 2672607,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00014",
+            "Site_Name": "台中市南屯區寶山段1189地號",
+            "Kind_No": "Farm",
+            "CoorX": 210564,
+            "CoorY": 2672568,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00015",
+            "Site_Name": "台中市南屯區寶山段1203地號",
+            "Kind_No": "Farm",
+            "CoorX": 210446,
+            "CoorY": 2672393,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00016",
+            "Site_Name": "台中市北屯區松茂段684地號",
+            "Kind_No": "Farm",
+            "CoorX": 219273,
+            "CoorY": 2675989,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00001",
+            "Site_Name": "台中市北屯區松茂段685地號",
+            "Kind_No": "Farm",
+            "CoorX": 219292,
+            "CoorY": 2675963,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B00002",
+            "Site_Name": "台中市南屯區寶山段1017地號",
+            "Kind_No": "Farm",
+            "CoorX": 210589,
+            "CoorY": 2672511,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00072",
+            "Site_Name": "臺中縣大甲區永信段103地號",
+            "Kind_No": "Farm",
+            "CoorX": 212417,
+            "CoorY": 2693860,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00073",
+            "Site_Name": "臺中縣大甲區永信段108地號",
+            "Kind_No": "Farm",
+            "CoorX": 212554,
+            "CoorY": 2693923,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00074",
+            "Site_Name": "臺中縣大甲區永信段111地號",
+            "Kind_No": "Farm",
+            "CoorX": 212464,
+            "CoorY": 2693959,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00075",
+            "Site_Name": "臺中縣大甲區永信段118地號",
+            "Kind_No": "Farm",
+            "CoorX": 212590,
+            "CoorY": 2693932,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00076",
+            "Site_Name": "臺中縣大甲區永信段121地號",
+            "Kind_No": "Farm",
+            "CoorX": 212568,
+            "CoorY": 2694000,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00077",
+            "Site_Name": "臺中縣大甲區永信段178地號",
+            "Kind_No": "Farm",
+            "CoorX": 212369,
+            "CoorY": 2694056,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00078",
+            "Site_Name": "臺中縣大甲區永信段73地號",
+            "Kind_No": "Farm",
+            "CoorX": 212466,
+            "CoorY": 2693745,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00079",
+            "Site_Name": "臺中縣大甲區永信段101地號",
+            "Kind_No": "Farm",
+            "CoorX": 212404,
+            "CoorY": 2693842,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00088",
+            "Site_Name": "臺中縣大甲區永信段125地號之部分土地",
+            "Kind_No": "Farm",
+            "CoorX": 212565,
+            "CoorY": 2694058,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00089",
+            "Site_Name": "臺中縣大甲區永信段126地號之部分土地",
+            "Kind_No": "Farm",
+            "CoorX": 212591,
+            "CoorY": 2694068,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00081",
+            "Site_Name": "臺中縣大甲區永信段116地號",
+            "Kind_No": "Farm",
+            "CoorX": 212452,
+            "CoorY": 2694061,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00082",
+            "Site_Name": "臺中縣大甲區永信段122地號",
+            "Kind_No": "Farm",
+            "CoorX": 212598,
+            "CoorY": 2694021,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

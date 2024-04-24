@@ -1,0 +1,189 @@
+{
+    "PageNo": 347,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "K00001",
+            "Site_Name": "苗栗縣竹南鎮成功段284地號",
+            "Kind_No": "Farm",
+            "CoorX": 236939,
+            "CoorY": 2730237,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K00002",
+            "Site_Name": "苗栗縣竹南鎮鹽館前段山子坪小段248地號",
+            "Kind_No": "Farm",
+            "CoorX": 237050,
+            "CoorY": 2730083,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K00003",
+            "Site_Name": "苗栗縣竹南鎮成功段285地號",
+            "Kind_No": "Farm",
+            "CoorX": 236929,
+            "CoorY": 2730256,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K00004",
+            "Site_Name": "苗栗縣公館鄉公館段1174地號",
+            "Kind_No": "Farm",
+            "CoorX": 232664,
+            "CoorY": 2709430,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00044",
+            "Site_Name": "臺中縣后里區墩北段67地號",
+            "Kind_No": "Farm",
+            "CoorX": 221692,
+            "CoorY": 2689275,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00045",
+            "Site_Name": "臺中縣后里區墩北段68地號",
+            "Kind_No": "Farm",
+            "CoorX": 221709,
+            "CoorY": 2689306,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00046",
+            "Site_Name": "臺中縣后里區墩北段69地號",
+            "Kind_No": "Farm",
+            "CoorX": 221712,
+            "CoorY": 2689320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00047",
+            "Site_Name": "臺中縣后里區墩北段70地號",
+            "Kind_No": "Farm",
+            "CoorX": 221700,
+            "CoorY": 2689320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00048",
+            "Site_Name": "臺中縣后里區墩北段71地號",
+            "Kind_No": "Farm",
+            "CoorX": 221672,
+            "CoorY": 2689299,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00049",
+            "Site_Name": "臺中縣后里區墩北段72地號",
+            "Kind_No": "Farm",
+            "CoorX": 221644,
+            "CoorY": 2689304,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00050",
+            "Site_Name": "臺中縣后里區墩北段338地號",
+            "Kind_No": "Farm",
+            "CoorX": 221247,
+            "CoorY": 2689462,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00051",
+            "Site_Name": "臺中縣后里區墩北段777地號",
+            "Kind_No": "Farm",
+            "CoorX": 221307,
+            "CoorY": 2689173,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G00001",
+            "Site_Name": "冬山鄉東興段777地號-宜蘭縣興佳股份公司污染",
+            "Kind_No": "Factory",
+            "CoorX": 332427,
+            "CoorY": 2725670,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00080",
+            "Site_Name": "臺中縣大甲區永信段102地號",
+            "Kind_No": "Farm",
+            "CoorX": 213328,
+            "CoorY": 2693621,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00087",
+            "Site_Name": "臺中縣大甲區永信段192地號",
+            "Kind_No": "Farm",
+            "CoorX": 213118,
+            "CoorY": 2693694,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00055",
+            "Site_Name": "臺中縣大里區國中段397地號",
+            "Kind_No": "Farm",
+            "CoorX": 217648,
+            "CoorY": 2665297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00056",
+            "Site_Name": "臺中縣大里區國中段399地號",
+            "Kind_No": "Farm",
+            "CoorX": 217608,
+            "CoorY": 2665299,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00058",
+            "Site_Name": "臺中縣大里區國中段428地號",
+            "Kind_No": "Farm",
+            "CoorX": 217576,
+            "CoorY": 2665290,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00059",
+            "Site_Name": "臺中縣大里區大突寮段205-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217655,
+            "CoorY": 2665287,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00031",
+            "Site_Name": "臺中縣大里區大突寮段253-3地號",
+            "Kind_No": "Farm",
+            "CoorX": 217546,
+            "CoorY": 2665267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

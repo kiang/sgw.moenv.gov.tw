@@ -1,0 +1,189 @@
+{
+    "PageNo": 401,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00078",
+            "Site_Name": "彰化縣彰化市西門口段0434-0011地號",
+            "Kind_No": "Farm",
+            "CoorX": 201722,
+            "CoorY": 2662802,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00079",
+            "Site_Name": "彰化縣彰化市西門口段0434-0014地號",
+            "Kind_No": "Farm",
+            "CoorX": 201723,
+            "CoorY": 2662817,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00080",
+            "Site_Name": "彰化縣彰化市西門口段0434-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 201606,
+            "CoorY": 2662815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00081",
+            "Site_Name": "彰化縣彰化市西門口段0434-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201647,
+            "CoorY": 2662840,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00082",
+            "Site_Name": "彰化縣彰化市西門口段0434-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 201601,
+            "CoorY": 2662769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00084",
+            "Site_Name": "彰化縣彰化市西門口段0511-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202023,
+            "CoorY": 2662189,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00085",
+            "Site_Name": "彰化縣彰化市西門口段0519-0014地號",
+            "Kind_No": "Farm",
+            "CoorX": 202193,
+            "CoorY": 2662291,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00086",
+            "Site_Name": "彰化縣彰化市西門口段0520地號",
+            "Kind_No": "Farm",
+            "CoorX": 202147,
+            "CoorY": 2662289,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00087",
+            "Site_Name": "彰化縣彰化市西門口段0521-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 202141,
+            "CoorY": 2662188,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00088",
+            "Site_Name": "彰化縣彰化市西門口段0521-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202128,
+            "CoorY": 2662183,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00089",
+            "Site_Name": "彰化縣彰化市西門口段0532-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201763,
+            "CoorY": 2661695,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00090",
+            "Site_Name": "彰化縣彰化市西門口段0533-0010地號",
+            "Kind_No": "Farm",
+            "CoorX": 201726,
+            "CoorY": 2661577,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00091",
+            "Site_Name": "彰化縣彰化市西門口段0533-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 201732,
+            "CoorY": 2661598,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00092",
+            "Site_Name": "彰化縣彰化市西門口段0565-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201688,
+            "CoorY": 2662440,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00093",
+            "Site_Name": "彰化縣彰化市西門口段0566-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201676,
+            "CoorY": 2662393,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00829",
+            "Site_Name": "彰化縣彰化市西門口段0234-0010地號",
+            "Kind_No": "Farm",
+            "CoorX": 200250,
+            "CoorY": 2664011,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00830",
+            "Site_Name": "彰化縣彰化市西門口段0336-0024地號",
+            "Kind_No": "Farm",
+            "CoorX": 201048,
+            "CoorY": 2663482,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00831",
+            "Site_Name": "彰化縣彰化市西門口段0336-0025地號",
+            "Kind_No": "Farm",
+            "CoorX": 201074,
+            "CoorY": 2663494,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00832",
+            "Site_Name": "彰化縣彰化市西門口段0336-0026地號",
+            "Kind_No": "Farm",
+            "CoorX": 201097,
+            "CoorY": 2663496,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00756",
+            "Site_Name": "彰化縣彰化市西門口段0224-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200468,
+            "CoorY": 2663991,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

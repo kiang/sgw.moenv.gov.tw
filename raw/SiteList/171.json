@@ -1,0 +1,189 @@
+{
+    "PageNo": 171,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H13494",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-85(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276740,
+            "CoorY": 2774625,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13474",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 276815,
+            "CoorY": 2774769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13475",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-8地號",
+            "Kind_No": "Farm",
+            "CoorX": 276735,
+            "CoorY": 2774656,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13498",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-89地號",
+            "Kind_No": "Farm",
+            "CoorX": 276805,
+            "CoorY": 2774684,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13504",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-121地號",
+            "Kind_No": "Farm",
+            "CoorX": 276805,
+            "CoorY": 2774684,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13505",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-126(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276707,
+            "CoorY": 2774781,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13506",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-130地號",
+            "Kind_No": "Farm",
+            "CoorX": 276815,
+            "CoorY": 2774769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13507",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-131(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276815,
+            "CoorY": 2774769,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13508",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-147地號",
+            "Kind_No": "Farm",
+            "CoorX": 276851,
+            "CoorY": 2774732,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13509",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-153地號",
+            "Kind_No": "Farm",
+            "CoorX": 276805,
+            "CoorY": 2774684,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13512",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段35-159地號",
+            "Kind_No": "Farm",
+            "CoorX": 276851,
+            "CoorY": 2774732,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13513",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 276525,
+            "CoorY": 2774683,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13514",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-8(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276507,
+            "CoorY": 2774730,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13515",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-9(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276495,
+            "CoorY": 2774729,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13516",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-10地號",
+            "Kind_No": "Farm",
+            "CoorX": 276511,
+            "CoorY": 2774691,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13517",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-11(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276495,
+            "CoorY": 2774729,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13518",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段45-14地號",
+            "Kind_No": "Farm",
+            "CoorX": 276525,
+            "CoorY": 2774683,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13519",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段47-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276554,
+            "CoorY": 2774647,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13419",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段28-29地號",
+            "Kind_No": "Farm",
+            "CoorX": 276793,
+            "CoorY": 2774634,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13420",
+            "Site_Name": "桃園市大園區竹圍段拔子林小段28-30地號",
+            "Kind_No": "Farm",
+            "CoorX": 276793,
+            "CoorY": 2774634,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

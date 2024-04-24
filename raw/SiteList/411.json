@@ -1,0 +1,90 @@
+{
+    "PageNo": 411,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10401",
+            "Site_Name": "新市區華美段0076-0000、0065-0000地號二筆",
+            "Kind_No": "Other",
+            "CoorX": 178307,
+            "CoorY": 2553153,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "D10168",
+            "Site_Name": "仁德區保安段0068-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 172225,
+            "CoorY": 2536121,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "F10002",
+            "Site_Name": "新北市淡水鎮林子段231、231-2地號",
+            "Kind_No": "Other",
+            "CoorX": 294136,
+            "CoorY": 2788215,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "L10030",
+            "Site_Name": "臺中市大里區光正段1531地號",
+            "Kind_No": "Factory",
+            "CoorX": 220926,
+            "CoorY": 2665182,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "L10031",
+            "Site_Name": "臺中市大里區仁城段174地號",
+            "Kind_No": "Factory",
+            "CoorX": 220690,
+            "CoorY": 2665145,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "L10029",
+            "Site_Name": "臺中市大里區光正段1327地號",
+            "Kind_No": "Factory",
+            "CoorX": 221049,
+            "CoorY": 2665380,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "B10231",
+            "Site_Name": "大里區光正路地下水污染案",
+            "Kind_No": "Other",
+            "CoorX": 221175,
+            "CoorY": 2665448,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "U10294",
+            "Site_Name": "花蓮縣新城鄉佳山段58號地號",
+            "Kind_No": "Other",
+            "CoorX": 310479,
+            "CoorY": 2659482,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        },
+        {
+            "SiteNo": "D10271",
+            "Site_Name": "安定區安定段2087等6筆地號(敬惠工業股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 171798,
+            "CoorY": 2556907,
+            "AreaCode": 0,
+            "Situation": "GWN"
+        }
+    ]
+}

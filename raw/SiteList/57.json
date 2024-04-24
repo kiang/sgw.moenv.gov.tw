@@ -1,0 +1,189 @@
+{
+    "PageNo": 57,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H14031",
+            "Site_Name": "南崁下段584-13(部分)、584-14(部分)、584-51(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 278503,
+            "CoorY": 2771245,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14032",
+            "Site_Name": "南崁下段584-14(部分)、584-17(部分)、584-46(部分)、584-50(全)地號",
+            "Kind_No": "Farm",
+            "CoorX": 278514,
+            "CoorY": 2771230,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14033",
+            "Site_Name": "南崁下段584-15(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 278402,
+            "CoorY": 2771185,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13898",
+            "Site_Name": "桃園市大園區照鏡段256-10(部分)地號(現華興段1099地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269967,
+            "CoorY": 2768585,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13907",
+            "Site_Name": "桃園市中壢區山嶺段144-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267769,
+            "CoorY": 2762327,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13911",
+            "Site_Name": "桃園市大園區照鏡段247-5(現華興段1102地號)、256-10地號(部分)(現華興段1099地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269973,
+            "CoorY": 2768586,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13913",
+            "Site_Name": "桃園市大園區照鏡段249-2(現華興段1121地號)、251(現華興段1122地號)、252地號(部分)(現華興段1115地號)",
+            "Kind_No": "Farm",
+            "CoorX": 270165,
+            "CoorY": 2768654,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13916",
+            "Site_Name": "桃園市中壢區山嶺段711(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267366,
+            "CoorY": 2761385,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13917",
+            "Site_Name": "桃園市中壢區山嶺段144-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267764,
+            "CoorY": 2762330,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13918",
+            "Site_Name": "桃園市中壢區三座屋段舊社小段17-8(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 271574,
+            "CoorY": 2763088,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13886",
+            "Site_Name": "桃園市中壢區山嶺段428(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267725,
+            "CoorY": 2761810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13887",
+            "Site_Name": "桃園市中壢區山嶺段427(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267730,
+            "CoorY": 2761778,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13888",
+            "Site_Name": "桃園市中壢區山嶺段427(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267696,
+            "CoorY": 2761783,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13889",
+            "Site_Name": "桃園市中壢區山嶺段711(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267419,
+            "CoorY": 2761407,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13890",
+            "Site_Name": "桃園市中壢區山嶺段711(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267412,
+            "CoorY": 2761397,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13891",
+            "Site_Name": "桃園市中壢區山嶺段711(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267346,
+            "CoorY": 2761459,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13892",
+            "Site_Name": "桃園市中壢區山嶺段711(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 267376,
+            "CoorY": 2761384,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13828",
+            "Site_Name": "桃園市中壢區內壢段595(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 275156,
+            "CoorY": 2766134,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13868",
+            "Site_Name": "桃園市中壢區興南段公坡小段337、338、338-1地號(部分)",
+            "Kind_No": "Farm",
+            "CoorX": 272353,
+            "CoorY": 2762333,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13876",
+            "Site_Name": "桃園市中壢區三座屋段舊社小段17-8(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 271561,
+            "CoorY": 2763119,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

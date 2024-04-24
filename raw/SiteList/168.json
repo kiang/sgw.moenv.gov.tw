@@ -1,0 +1,189 @@
+{
+    "PageNo": 168,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11251",
+            "Site_Name": "彰化縣彰化市西門口段0533-0002(部分)地號(104年公告) ",
+            "Kind_No": "Farm",
+            "CoorX": 201682,
+            "CoorY": 2661575,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11144",
+            "Site_Name": "彰化縣和美鎮大嘉段1312-0000地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 200258,
+            "CoorY": 2665617,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11054",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0226-0007(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 201753,
+            "CoorY": 2663901,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11059",
+            "Site_Name": "彰化縣彰化市線東段0702-0000地號(原西勢子段西勢子小段0299地號)",
+            "Kind_No": "Farm",
+            "CoorX": 201194,
+            "CoorY": 2664211,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11086",
+            "Site_Name": "彰化縣彰化市莿桐段1893-0000(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 200194,
+            "CoorY": 2661524,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11050",
+            "Site_Name": "彰化縣彰化市線東段0500-0000地號(原彰化縣彰化市西勢子段西勢子小段0171-0000地號)",
+            "Kind_No": "Farm",
+            "CoorX": 201663,
+            "CoorY": 2664214,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14189",
+            "Site_Name": "桃園市中壢區中工段260、261地號",
+            "Kind_No": "Factory",
+            "CoorX": 275094,
+            "CoorY": 2764290,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10295",
+            "Site_Name": "輝松實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292239,
+            "CoorY": 2762984,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10503",
+            "Site_Name": "臺南市山上區明北段0607-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 182057,
+            "CoorY": 2556708,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10504",
+            "Site_Name": "臺南市山上區明北段0607-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 182048,
+            "CoorY": 2556698,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11752",
+            "Site_Name": "臺中市神岡區厚生段703、704地號(神崗加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 216571,
+            "CoorY": 2683499,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10306",
+            "Site_Name": "台灣神戶電池股份有限公司淡水廠",
+            "Kind_No": "Factory",
+            "CoorX": 295153,
+            "CoorY": 2788653,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11773",
+            "Site_Name": "臺中市東區旱溪段0116-0245(部分)及0116-0281(部分)地號(順輝金屬有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 220342,
+            "CoorY": 2669948,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13303",
+            "Site_Name": "大園區埔心段埔心小段25-6(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273037,
+            "CoorY": 2771085,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12832",
+            "Site_Name": "大園鄉五塊厝段下埔小段908地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271955,
+            "CoorY": 2769451,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12833",
+            "Site_Name": "大園鄉五塊厝段下埔小段910地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271955,
+            "CoorY": 2769451,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10285",
+            "Site_Name": "第一區養護工程處保養廠 ",
+            "Kind_No": "Other",
+            "CoorX": 292547,
+            "CoorY": 2766462,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11143",
+            "Site_Name": "彰化縣和美鎮大嘉段1141-0000地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 200498,
+            "CoorY": 2665477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12388",
+            "Site_Name": "彰化縣和美鎮大嘉段1139-0000(部分)地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 200536,
+            "CoorY": 2665456,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10263",
+            "Site_Name": "東培工業股份有限公司(中壢廠)",
+            "Kind_No": "Factory",
+            "CoorX": 275090,
+            "CoorY": 2764411,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

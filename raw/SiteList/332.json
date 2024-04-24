@@ -1,0 +1,189 @@
+{
+    "PageNo": 332,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "I00002",
+            "Site_Name": "嘉義市遠東段472地號",
+            "Kind_No": "Farm",
+            "CoorX": 193708,
+            "CoorY": 2600978,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00003",
+            "Site_Name": "嘉義市同興段146地號",
+            "Kind_No": "Other",
+            "CoorX": 193147,
+            "CoorY": 2600832,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10116",
+            "Site_Name": "臺南縣麻豆埤頭段854地號",
+            "Kind_No": "Farm",
+            "CoorX": 171270,
+            "CoorY": 2566373,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10117",
+            "Site_Name": "臺南縣麻豆鎮埤頭段20-17地號",
+            "Kind_No": "Farm",
+            "CoorX": 171198,
+            "CoorY": 2567315,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10118",
+            "Site_Name": "臺南縣麻豆鎮北勢寮段3097地號",
+            "Kind_No": "Farm",
+            "CoorX": 171575,
+            "CoorY": 2566918,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10119",
+            "Site_Name": "台南縣麻豆鎮埤頭段395地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 171268,
+            "CoorY": 2565706,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10120",
+            "Site_Name": "台南縣麻豆鎮埤頭段395-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 171285,
+            "CoorY": 2565668,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10038",
+            "Site_Name": "富盛實業股份有限公司大發鋼品廠",
+            "Kind_No": "Factory",
+            "CoorX": 191639,
+            "CoorY": 2498790,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10036",
+            "Site_Name": "冬山鄉安平段407地號",
+            "Kind_No": "Farm",
+            "CoorX": 328839,
+            "CoorY": 2724498,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10037",
+            "Site_Name": "冬山鄉安平段441地號",
+            "Kind_No": "Farm",
+            "CoorX": 328338,
+            "CoorY": 2724672,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10034",
+            "Site_Name": "蘇澳鎮永春段324地號",
+            "Kind_No": "Farm",
+            "CoorX": 334989,
+            "CoorY": 2720124,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10035",
+            "Site_Name": "蘇澳鎮永春段378地號",
+            "Kind_No": "Farm",
+            "CoorX": 334922,
+            "CoorY": 2720153,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10046",
+            "Site_Name": "大寮鄉磚仔磘段3952地號",
+            "Kind_No": "Farm",
+            "CoorX": 186370,
+            "CoorY": 2503962,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "W00109",
+            "Site_Name": "金門酒廠實業股份有限公司金寧廠附屬加油站",
+            "Kind_No": "Gas",
+            "CoorX": 183470,
+            "CoorY": 2703360,
+            "AreaCode": 3,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10039",
+            "Site_Name": "高雄汽車客運股份有限公司高旗加油站",
+            "Kind_No": "Gas",
+            "CoorX": 185277,
+            "CoorY": 2504149,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T10046",
+            "Site_Name": "屏東縣長治鄉進興段686地號",
+            "Kind_No": "Farm",
+            "CoorX": 202273,
+            "CoorY": 2508512,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T00002",
+            "Site_Name": "山隆通運股份有限公司山隆東港加油站",
+            "Kind_No": "Gas",
+            "CoorX": 195550,
+            "CoorY": 2484582,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E00011",
+            "Site_Name": "台灣中油股份有限公司苓雅寮儲運所(30米道路)場址",
+            "Kind_No": "Factory",
+            "CoorX": 177402,
+            "CoorY": 2501438,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00178",
+            "Site_Name": "新竹市東區水源段1142地號",
+            "Kind_No": "Farm",
+            "CoorX": 249349,
+            "CoorY": 2744659,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00179",
+            "Site_Name": "新竹市東區水源段1162地號",
+            "Kind_No": "Farm",
+            "CoorX": 249369,
+            "CoorY": 2744786,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

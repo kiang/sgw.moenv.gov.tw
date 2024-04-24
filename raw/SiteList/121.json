@@ -1,0 +1,189 @@
+{
+    "PageNo": 121,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H14377",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276869,
+            "CoorY": 2773573,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14375",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276881,
+            "CoorY": 2773612,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14383",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276907,
+            "CoorY": 2773519,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14380",
+            "Site_Name": "桃園市蘆竹區內興段544(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276898,
+            "CoorY": 2773548,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13246",
+            "Site_Name": "桃園縣大園鄉埔心段三塊厝小段14-7(日據時代)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273717,
+            "CoorY": 2770721,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13327",
+            "Site_Name": "大園區埔心段三塊厝小段11-10(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273750,
+            "CoorY": 2770627,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13328",
+            "Site_Name": "大園區埔心段三塊厝小段11-20(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273715,
+            "CoorY": 2770625,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13329",
+            "Site_Name": "大園區埔心段三塊厝小段1(部分坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273638,
+            "CoorY": 2770783,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10472",
+            "Site_Name": "大園鄉埔心段三塊厝小段15(日據時代)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273599,
+            "CoorY": 2770727,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10469",
+            "Site_Name": "大園鄉埔心段三塊厝小段14-1(日據時代)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273711,
+            "CoorY": 2770635,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10466",
+            "Site_Name": "大園鄉埔心段三塊厝小段14地號(日據時代)",
+            "Kind_No": "Farm",
+            "CoorX": 273662,
+            "CoorY": 2770724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10463",
+            "Site_Name": "大園鄉埔心段三塊厝小段11-19(日據時代)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273725,
+            "CoorY": 2770620,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10858",
+            "Site_Name": "大園鄉埔心段三塊厝小段11-19地號(日據時代)(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273725,
+            "CoorY": 2770620,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10228",
+            "Site_Name": "大園鄉埔心段三塊厝小段517地號",
+            "Kind_No": "Farm",
+            "CoorX": 273433,
+            "CoorY": 2769973,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10278",
+            "Site_Name": "順倉股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 267734,
+            "CoorY": 2774356,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10324",
+            "Site_Name": "祥楠興業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 297192,
+            "CoorY": 2772373,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13910",
+            "Site_Name": "彰化縣鹿港鎮頂和段0365-0000(部分)地號(106年公告) ",
+            "Kind_No": "Farm",
+            "CoorX": 198008,
+            "CoorY": 2664833,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14181",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段139-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 276210,
+            "CoorY": 2776570,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14161",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段139-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 276206,
+            "CoorY": 2776524,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14162",
+            "Site_Name": "桃園市蘆竹區坑子口段頭前小段168-2、188-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 276217,
+            "CoorY": 2776649,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

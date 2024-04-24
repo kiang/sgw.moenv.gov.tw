@@ -1,0 +1,189 @@
+{
+    "PageNo": 20,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H16266",
+            "Site_Name": "桃園市桃園區大樹林段1886、1887地號等2筆地號",
+            "Kind_No": "Factory",
+            "CoorX": 282836,
+            "CoorY": 2763157,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "S10069",
+            "Site_Name": "高雄市仁美地區共23筆地號",
+            "Kind_No": "Factory",
+            "CoorX": 186720,
+            "CoorY": 2504791,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "P10872",
+            "Site_Name": "雲林縣斗六市光明段202地號",
+            "Kind_No": "Other",
+            "CoorX": 208545,
+            "CoorY": 2623103,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "D10510",
+            "Site_Name": "臺南市仁德區保甲段1233-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 168590,
+            "CoorY": 2535370,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "F10069",
+            "Site_Name": "新北市樹林區光武段243等123筆地號及新北市樹林區大安段1等297筆地號土地",
+            "Kind_No": "Other",
+            "CoorX": 292564,
+            "CoorY": 2766103,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "Q10077",
+            "Site_Name": "頭橋工業區",
+            "Kind_No": "Other",
+            "CoorX": 192188,
+            "CoorY": 2602283,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "Q10079",
+            "Site_Name": "民雄工業區",
+            "Kind_No": "Other",
+            "CoorX": 193784,
+            "CoorY": 2602523,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H13651",
+            "Site_Name": "桃園市平鎮區鎮安段284、285地號部分區域地下水受污染限制使用地區",
+            "Kind_No": "Other",
+            "CoorX": 269969,
+            "CoorY": 2758001,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H13364",
+            "Site_Name": "中壢工業區中工段283地號部分區域地下水受污染使用限制地區",
+            "Kind_No": "Other",
+            "CoorX": 274461,
+            "CoorY": 2764378,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H13363",
+            "Site_Name": "中壢工業區中工段81地號部分區域地下水受污染使用限制地區",
+            "Kind_No": "Other",
+            "CoorX": 274394,
+            "CoorY": 2764586,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H13324",
+            "Site_Name": "桃園市平鎮區鎮安段317、318、319、320、321、322、323、324、325等9筆地號",
+            "Kind_No": "Factory",
+            "CoorX": 270106,
+            "CoorY": 2758073,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "P10672",
+            "Site_Name": "雲林縣斗六市光明段262地號",
+            "Kind_No": "Other",
+            "CoorX": 208538,
+            "CoorY": 2623101,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H10151",
+            "Site_Name": "桃園縣中壢市中工段1564地號",
+            "Kind_No": "Factory",
+            "CoorX": 274190,
+            "CoorY": 2762794,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "O10102",
+            "Site_Name": "新竹市東光段981地號地下水受污染限制使用地區",
+            "Kind_No": "Other",
+            "CoorX": 247896,
+            "CoorY": 2744070,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "K10022",
+            "Site_Name": "苗栗縣頭份市永貞段91-2地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 238397,
+            "CoorY": 2730551,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "K00005",
+            "Site_Name": "苗栗縣竹南鎮公館子段189-5、542、529、476、590地號",
+            "Kind_No": "Other",
+            "CoorX": 237070,
+            "CoorY": 2728215,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "R00051",
+            "Site_Name": "臺南市永康區鹽行段1496等2筆地號及永安段84等32筆地號",
+            "Kind_No": "Other",
+            "CoorX": 172858,
+            "CoorY": 2549278,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "T00003",
+            "Site_Name": "屏東縣新埤鄉萬隆段6、12至25、27、47、73、98至104、109、118、120至131、142、185、216至223地號及潮州鎮崙新段202、228、235地號、共計52筆地號",
+            "Kind_No": "Other",
+            "CoorX": 208183,
+            "CoorY": 2490826,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "N10665",
+            "Site_Name": "全興油封企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202440,
+            "CoorY": 2660406,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00693",
+            "Site_Name": "松山機場加油站",
+            "Kind_No": "Gas",
+            "CoorX": 305557,
+            "CoorY": 2772840,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

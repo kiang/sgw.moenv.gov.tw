@@ -1,0 +1,189 @@
+{
+    "PageNo": 112,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B11884",
+            "Site_Name": "臺中市南屯區埔興段635-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 211708,
+            "CoorY": 2667983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11885",
+            "Site_Name": "臺中市南屯區埔興段635-3(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211708,
+            "CoorY": 2667983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11586",
+            "Site_Name": "台中市大甲區福安段996地號",
+            "Kind_No": "Farm",
+            "CoorX": 213714,
+            "CoorY": 2700517,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11593",
+            "Site_Name": "台中市大甲區福安段1221(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 213550,
+            "CoorY": 2700514,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11595",
+            "Site_Name": "台中市大甲區福安段1222地號",
+            "Kind_No": "Farm",
+            "CoorX": 213580,
+            "CoorY": 2700491,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13663",
+            "Site_Name": "寶利得科技股份有限公司楊梅廠第一廠(106年新增)",
+            "Kind_No": "Factory",
+            "CoorX": 260969,
+            "CoorY": 2757442,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10410",
+            "Site_Name": "大園鄉五塊厝段下埔小段805地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272418,
+            "CoorY": 2768865,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12825",
+            "Site_Name": "大園鄉五塊厝段下埔小段869地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271916,
+            "CoorY": 2769623,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12680",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-3地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273030,
+            "CoorY": 2771603,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12681",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-4地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12682",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-8地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273030,
+            "CoorY": 2771603,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12683",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-12地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12684",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-25地號",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12685",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-26地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12686",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-27地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12687",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-31地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273019,
+            "CoorY": 2771477,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12707",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段727地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273782,
+            "CoorY": 2772408,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12699",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段234-140地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273042,
+            "CoorY": 2771581,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12661",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段214-5地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273285,
+            "CoorY": 2771815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12662",
+            "Site_Name": "大園鄉大牛稠段大牛稠小段214-8地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273243,
+            "CoorY": 2771837,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

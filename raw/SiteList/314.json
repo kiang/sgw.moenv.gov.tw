@@ -1,0 +1,189 @@
+{
+    "PageNo": 314,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B10127",
+            "Site_Name": "大里區詹厝園段187-2(部分)地號之2",
+            "Kind_No": "Farm",
+            "CoorX": 216191,
+            "CoorY": 2664800,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10128",
+            "Site_Name": "大里區詹厝園段189(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216157,
+            "CoorY": 2664784,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10129",
+            "Site_Name": "大里區詹厝園段190(部分)地號之2",
+            "Kind_No": "Farm",
+            "CoorX": 216139,
+            "CoorY": 2664826,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10133",
+            "Site_Name": "臺中市大里區詹厝園段171-1(部分)-2",
+            "Kind_No": "Farm",
+            "CoorX": 216435,
+            "CoorY": 2664915,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10134",
+            "Site_Name": "臺中市大里區詹厝園段170-5(部分)-3",
+            "Kind_No": "Farm",
+            "CoorX": 216431,
+            "CoorY": 2664932,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10084",
+            "Site_Name": "台大一加油站股份有限公司台大加油站",
+            "Kind_No": "Gas",
+            "CoorX": 177788,
+            "CoorY": 2578606,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10061",
+            "Site_Name": "臺南市南區興農段623地號",
+            "Kind_No": "Farm",
+            "CoorX": 167264,
+            "CoorY": 2536637,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10012",
+            "Site_Name": "湖口鄉三元段336、337、344、345地號等4筆土地",
+            "Kind_No": "Gas",
+            "CoorX": 256751,
+            "CoorY": 2752495,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10198",
+            "Site_Name": "興農段0208-0002",
+            "Kind_No": "Farm",
+            "CoorX": 167480,
+            "CoorY": 2537320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "S10100",
+            "Site_Name": "湖內鄉圍子內段833、833-4、833-6、834、 834-4、834-6、837-3、837-4、837-10、837、 838、839、858-5及949-3地號等14筆土地",
+            "Kind_No": "Other",
+            "CoorX": 169381,
+            "CoorY": 2534546,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00046",
+            "Site_Name": "桃園縣蘆竹鄉中興段843地號",
+            "Kind_No": "Farm",
+            "CoorX": 275223,
+            "CoorY": 2767310,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00050",
+            "Site_Name": "桃園縣蘆竹鄉中興段576地號",
+            "Kind_No": "Farm",
+            "CoorX": 275356,
+            "CoorY": 2767618,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00043",
+            "Site_Name": "桃園縣蘆竹鄉中興段844地號",
+            "Kind_No": "Farm",
+            "CoorX": 275218,
+            "CoorY": 2767329,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00075",
+            "Site_Name": "桃園縣蘆竹鄉中興段732地號",
+            "Kind_No": "Farm",
+            "CoorX": 275028,
+            "CoorY": 2767523,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00076",
+            "Site_Name": "桃園縣蘆竹鄉中興段732地號(原桃園縣蘆竹鄉中興段733地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275057,
+            "CoorY": 2767540,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00080",
+            "Site_Name": "桃園縣蘆竹鄉中興段1204地號(原桃園縣蘆竹鄉中興段1206地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275466,
+            "CoorY": 2766725,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00021",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段59-5地號(現為新中段270地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275623,
+            "CoorY": 2767943,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00009",
+            "Site_Name": "桃園縣平鎮市新光段690地號",
+            "Kind_No": "Farm",
+            "CoorX": 270432,
+            "CoorY": 2758246,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10027",
+            "Site_Name": "桃園縣蘆竹鄉福興段103-7地號(更改為文中段109地號)",
+            "Kind_No": "Farm",
+            "CoorX": 276835,
+            "CoorY": 2765061,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10020",
+            "Site_Name": "新亞電器股份有限公司新莊廠",
+            "Kind_No": "Factory",
+            "CoorX": 293002,
+            "CoorY": 2769460,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

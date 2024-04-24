@@ -1,0 +1,189 @@
+{
+    "PageNo": 317,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N10072",
+            "Site_Name": "彰化縣彰化市西門口段0603地號",
+            "Kind_No": "Farm",
+            "CoorX": 200742,
+            "CoorY": 2663032,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10080",
+            "Site_Name": "彰化縣彰化市延和段0611地號",
+            "Kind_No": "Farm",
+            "CoorX": 203285,
+            "CoorY": 2661117,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10348",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0298-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201210,
+            "CoorY": 2664111,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10458",
+            "Site_Name": "彰化縣鹿港鎮頂和段0372地號",
+            "Kind_No": "Farm",
+            "CoorX": 197959,
+            "CoorY": 2664717,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10459",
+            "Site_Name": "彰化縣鹿港鎮頂和段0340-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197897,
+            "CoorY": 2664858,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10460",
+            "Site_Name": "彰化縣鹿港鎮頂和段0341地號",
+            "Kind_No": "Farm",
+            "CoorX": 197897,
+            "CoorY": 2664833,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10468",
+            "Site_Name": "彰化縣鹿港鎮鹿草段1113地號",
+            "Kind_No": "Farm",
+            "CoorX": 194654,
+            "CoorY": 2666353,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10469",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0826-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196260,
+            "CoorY": 2665416,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10470",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0803地號",
+            "Kind_No": "Farm",
+            "CoorX": 196219,
+            "CoorY": 2665389,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10496",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1088-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 195973,
+            "CoorY": 2665550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10500",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0896地號",
+            "Kind_No": "Farm",
+            "CoorX": 196153,
+            "CoorY": 2665521,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10501",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0896-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 196150,
+            "CoorY": 2665488,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10273",
+            "Site_Name": "彰化縣彰化市南興段0940-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 201319,
+            "CoorY": 2661438,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10274",
+            "Site_Name": "彰化縣彰化市南興段0940-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201327,
+            "CoorY": 2661404,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10275",
+            "Site_Name": "彰化縣彰化市南興段0940-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 201316,
+            "CoorY": 2661409,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10276",
+            "Site_Name": "彰化縣彰化市延和段0609地號-A坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 203401,
+            "CoorY": 2661204,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10541",
+            "Site_Name": "彰化縣彰化市南興段0940-0007地號",
+            "Kind_No": "Farm",
+            "CoorX": 201247,
+            "CoorY": 2661221,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10542",
+            "Site_Name": "彰化縣彰化市延和段0609地號-B坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 203402,
+            "CoorY": 2661192,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10514",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0298-0006地號",
+            "Kind_No": "Farm",
+            "CoorX": 201214,
+            "CoorY": 2664144,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10515",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0298-0007地號",
+            "Kind_No": "Farm",
+            "CoorX": 201219,
+            "CoorY": 2664099,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

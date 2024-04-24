@@ -1,0 +1,189 @@
+{
+    "PageNo": 14,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "E00020",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區4筆地號全部土地(本市楠梓區後勁段月眉小段736、736-1、737、841地號)",
+            "Kind_No": "Factory",
+            "CoorX": 179532,
+            "CoorY": 2513338,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E00010",
+            "Site_Name": "台灣中油股份有限公司煉製事業部高雄煉油廠工廠區(不含P-37油槽區)",
+            "Kind_No": "Factory",
+            "CoorX": 180223,
+            "CoorY": 2512361,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E00017",
+            "Site_Name": "台灣中油股份有限公司苓雅區苓港段1地號等24筆土地",
+            "Kind_No": "Factory",
+            "CoorX": 177737,
+            "CoorY": 2501317,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "S00029",
+            "Site_Name": "台灣氯乙烯工業股份有限公司林園廠",
+            "Kind_No": "Factory",
+            "CoorX": 189103,
+            "CoorY": 2489053,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E00004",
+            "Site_Name": "高雄市楠梓區高楠段327等13筆地號及油廠段10地號",
+            "Kind_No": "Other",
+            "CoorX": 180612,
+            "CoorY": 2512814,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H00168",
+            "Site_Name": "桃園縣蘆竹鄉福興段3地號",
+            "Kind_No": "Farm",
+            "CoorX": 276308,
+            "CoorY": 2766431,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H00165",
+            "Site_Name": "桃園縣蘆竹鄉福興段1地號",
+            "Kind_No": "Farm",
+            "CoorX": 276420,
+            "CoorY": 2766410,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "S00006",
+            "Site_Name": "國喬石油化學股份有限公司高雄廠",
+            "Kind_No": "Factory",
+            "CoorX": 182304,
+            "CoorY": 2513350,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16398",
+            "Site_Name": "新屋區蚵殼港段蚵殼港小段326-5、1287、1288地號",
+            "Kind_No": "Discard",
+            "CoorX": 249020,
+            "CoorY": 2759425,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "J10092",
+            "Site_Name": "新竹縣新豐鄉新豐段797、798、799地號",
+            "Kind_No": "Factory",
+            "CoorX": 248047,
+            "CoorY": 2756286,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10667",
+            "Site_Name": "億益企業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 170881,
+            "CoorY": 2548428,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10664",
+            "Site_Name": "進安有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 173749,
+            "CoorY": 2539920,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H16383",
+            "Site_Name": "台灣中油股份有限公司煉製事業部桃園煉油廠",
+            "Kind_No": "Factory",
+            "CoorX": 281501,
+            "CoorY": 2769936,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H16394",
+            "Site_Name": "桃園市中壢區山上段1697、1698、1698-1、1698-2、1699、1699-1、1722地號等7筆地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 266903,
+            "CoorY": 2766212,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "I00250",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部嘉義營業處嘉義供油中心",
+            "Kind_No": "Other",
+            "CoorX": 191629,
+            "CoorY": 2596136,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "E10701",
+            "Site_Name": "南鋼工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 185422,
+            "CoorY": 2504196,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "U10380",
+            "Site_Name": "交通部臺灣鐵路管理局花蓮機務段 ",
+            "Kind_No": "Other",
+            "CoorX": 311487,
+            "CoorY": 2655070,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "B12248",
+            "Site_Name": "陸昌化工股份有限公司幼獅廠",
+            "Kind_No": "Factory",
+            "CoorX": 215025,
+            "CoorY": 2698823,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "N18217",
+            "Site_Name": "好成工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 197495,
+            "CoorY": 2664479,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D10659",
+            "Site_Name": "宗發工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 183540,
+            "CoorY": 2578559,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        }
+    ]
+}

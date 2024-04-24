@@ -1,0 +1,189 @@
+{
+    "PageNo": 3,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "F10401",
+            "Site_Name": "百為實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 291976,
+            "CoorY": 2767723,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10395",
+            "Site_Name": "特異有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293557,
+            "CoorY": 2768361,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16370",
+            "Site_Name": "連盟興業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 281535,
+            "CoorY": 2760896,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10393",
+            "Site_Name": "富鎮工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292900,
+            "CoorY": 2767180,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10265",
+            "Site_Name": "伍棋玻璃廠有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 236492,
+            "CoorY": 2733007,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10117",
+            "Site_Name": "新竹縣新豐鄉松柏段0936、0937、0938、0939及0940地號",
+            "Kind_No": "Factory",
+            "CoorX": 247767,
+            "CoorY": 2752824,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "T10332",
+            "Site_Name": "屏東縣枋寮鄉屏南段60-1、61、61-1、62-1、89-1、90、91-1、94-2地號",
+            "Kind_No": "Factory",
+            "CoorX": 207083,
+            "CoorY": 2479237,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10655",
+            "Site_Name": "希世比能源科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 180387,
+            "CoorY": 2567458,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10394",
+            "Site_Name": "慶邦工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 294380,
+            "CoorY": 2769067,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10391",
+            "Site_Name": "鼎祐電子工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293846,
+            "CoorY": 2767977,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16354",
+            "Site_Name": "虹冠實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 268614,
+            "CoorY": 2774273,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10676",
+            "Site_Name": "國蜂鋼鐵企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 181180,
+            "CoorY": 2496672,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18126",
+            "Site_Name": "寬勝有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 204240,
+            "CoorY": 2658086,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18127",
+            "Site_Name": "詠富興業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 199880,
+            "CoorY": 2660743,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H15297",
+            "Site_Name": "桃園市中壢區內壢段3734、3734-1等2筆地號",
+            "Kind_No": "Factory",
+            "CoorX": 274723,
+            "CoorY": 2762957,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10271",
+            "Site_Name": "康普材料科技股份有限公司頭份廠",
+            "Kind_No": "Factory",
+            "CoorX": 239229,
+            "CoorY": 2729638,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "C10084",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部基隆營業處-石門供油中心(八堵庫區)",
+            "Kind_No": "Tank",
+            "CoorX": 323052,
+            "CoorY": 2777837,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12126",
+            "Site_Name": "臺中市大甲區幼獅段0875-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 214305,
+            "CoorY": 2700331,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10181",
+            "Site_Name": "柑園加油站",
+            "Kind_No": "Gas",
+            "CoorX": 289541,
+            "CoorY": 2761660,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16267",
+            "Site_Name": "澤源有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 280693,
+            "CoorY": 2768914,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

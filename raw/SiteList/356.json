@@ -1,0 +1,189 @@
+{
+    "PageNo": 356,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00546",
+            "Site_Name": "彰化縣和美鎮嘉詔段0585地號",
+            "Kind_No": "Farm",
+            "CoorX": 202014,
+            "CoorY": 2665429,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00490",
+            "Site_Name": "彰化縣和美鎮新發段1207地號",
+            "Kind_No": "Farm",
+            "CoorX": 202046,
+            "CoorY": 2665566,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00491",
+            "Site_Name": "彰化縣和美鎮新發段1210-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202024,
+            "CoorY": 2665543,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00493",
+            "Site_Name": "彰化縣和美鎮新發段1224地號",
+            "Kind_No": "Farm",
+            "CoorX": 201968,
+            "CoorY": 2665609,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00479",
+            "Site_Name": "彰化縣和美鎮和東段1374地號",
+            "Kind_No": "Farm",
+            "CoorX": 199833,
+            "CoorY": 2666650,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00480",
+            "Site_Name": "彰化縣和美鎮和東段1376地號",
+            "Kind_No": "Farm",
+            "CoorX": 199869,
+            "CoorY": 2666714,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00481",
+            "Site_Name": "彰化縣和美鎮柑子井段0473地號",
+            "Kind_No": "Farm",
+            "CoorX": 200008,
+            "CoorY": 2666624,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00482",
+            "Site_Name": "彰化縣和美鎮新發段1167地號",
+            "Kind_No": "Farm",
+            "CoorX": 202251,
+            "CoorY": 2665542,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00483",
+            "Site_Name": "彰化縣和美鎮新發段1170地號",
+            "Kind_No": "Farm",
+            "CoorX": 202215,
+            "CoorY": 2665532,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00485",
+            "Site_Name": "彰化縣和美鎮新發段1188地號",
+            "Kind_No": "Farm",
+            "CoorX": 202151,
+            "CoorY": 2665571,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00486",
+            "Site_Name": "彰化縣和美鎮新發段1192地號",
+            "Kind_No": "Farm",
+            "CoorX": 202103,
+            "CoorY": 2665538,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00518",
+            "Site_Name": "彰化縣和美鎮嘉安段1155地號",
+            "Kind_No": "Farm",
+            "CoorX": 201514,
+            "CoorY": 2665705,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00519",
+            "Site_Name": "彰化縣和美鎮嘉安段1156地號",
+            "Kind_No": "Farm",
+            "CoorX": 201515,
+            "CoorY": 2665682,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00520",
+            "Site_Name": "彰化縣和美鎮嘉安段1159地號",
+            "Kind_No": "Farm",
+            "CoorX": 201416,
+            "CoorY": 2665650,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00622",
+            "Site_Name": "彰化縣和美鎮嘉慶段0583-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201268,
+            "CoorY": 2664868,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00658",
+            "Site_Name": "彰化縣和美鎮嘉慶段0687地號",
+            "Kind_No": "Farm",
+            "CoorX": 200796,
+            "CoorY": 2664653,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00833",
+            "Site_Name": "彰化縣彰化市南興段0729地號",
+            "Kind_No": "Farm",
+            "CoorX": 202198,
+            "CoorY": 2661541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00773",
+            "Site_Name": "彰化縣彰化市南興段0748地號",
+            "Kind_No": "Farm",
+            "CoorX": 202044,
+            "CoorY": 2661518,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00774",
+            "Site_Name": "彰化縣彰化市南興段0749地號",
+            "Kind_No": "Farm",
+            "CoorX": 202084,
+            "CoorY": 2661540,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00837",
+            "Site_Name": "彰化縣彰化市西勢子小段西勢子段0036-0218地號",
+            "Kind_No": "Farm",
+            "CoorX": 202743,
+            "CoorY": 2664113,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

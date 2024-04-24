@@ -1,0 +1,189 @@
+{
+    "PageNo": 276,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10864",
+            "Site_Name": "蘆竹鄉新庄子段634地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274798,
+            "CoorY": 2769197,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10775",
+            "Site_Name": "蘆竹鄉新庄子段1666地號",
+            "Kind_No": "Farm",
+            "CoorX": 274816,
+            "CoorY": 2768929,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10776",
+            "Site_Name": "蘆竹區新庄子段1667地號",
+            "Kind_No": "Farm",
+            "CoorX": 274801,
+            "CoorY": 2768950,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10777",
+            "Site_Name": "蘆竹鄉新庄子段1668地號",
+            "Kind_No": "Farm",
+            "CoorX": 274801,
+            "CoorY": 2768950,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10770",
+            "Site_Name": "蘆竹鄉新庄子段1654地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274959,
+            "CoorY": 2768745,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10762",
+            "Site_Name": "蘆竹鄉新庄子段1596地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274780,
+            "CoorY": 2768778,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "X00002",
+            "Site_Name": "統一精工股份有限公司澎湖加油站",
+            "Kind_No": "Gas",
+            "CoorX": 309764,
+            "CoorY": 2607196,
+            "AreaCode": 3,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10653",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段510~511地號",
+            "Kind_No": "Farm",
+            "CoorX": 190676,
+            "CoorY": 2623454,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10669",
+            "Site_Name": "雲林縣虎尾鎮竹圍子段513地號(102年新公告)",
+            "Kind_No": "Farm",
+            "CoorX": 190615,
+            "CoorY": 2623568,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10501",
+            "Site_Name": "渼盛工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 221083,
+            "CoorY": 2665458,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10668",
+            "Site_Name": "彰化縣和美鎮嘉慶段0449地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 201560,
+            "CoorY": 2664940,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10048",
+            "Site_Name": "上準加油站",
+            "Kind_No": "Gas",
+            "CoorX": 180828,
+            "CoorY": 2565880,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11452",
+            "Site_Name": "臺中市大里區詹厝園段256-40(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215394,
+            "CoorY": 2664767,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00195",
+            "Site_Name": "下埤段329地號及部份326地號",
+            "Kind_No": "Farm",
+            "CoorX": 190808,
+            "CoorY": 2598707,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10111",
+            "Site_Name": "臺南市南區鹽埕段3109-0000地號",
+            "Kind_No": "Discard",
+            "CoorX": 166244,
+            "CoorY": 2540338,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10112",
+            "Site_Name": "臺南市南區鹽埕段3109-0103地號",
+            "Kind_No": "Discard",
+            "CoorX": 166191,
+            "CoorY": 2540205,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10043",
+            "Site_Name": "雲林縣北港鎮溝皂里溝皂段1391地號",
+            "Kind_No": "Farm",
+            "CoorX": 178112,
+            "CoorY": 2612227,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10763",
+            "Site_Name": "蘆竹鄉新庄子段1606地號(部份區域)",
+            "Kind_No": "Farm",
+            "CoorX": 274661,
+            "CoorY": 2768877,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10764",
+            "Site_Name": "蘆竹鄉新庄子段1607地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274661,
+            "CoorY": 2768877,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10765",
+            "Site_Name": "蘆竹鄉新庄子段1608地號",
+            "Kind_No": "Farm",
+            "CoorX": 274602,
+            "CoorY": 2768865,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

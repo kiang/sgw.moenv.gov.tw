@@ -1,0 +1,189 @@
+{
+    "PageNo": 206,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H11155",
+            "Site_Name": "大園鄉五塊厝段下埔小段1501地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272749,
+            "CoorY": 2767752,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11194",
+            "Site_Name": "平鎮市山子頂段168-11地號",
+            "Kind_No": "Farm",
+            "CoorX": 272278,
+            "CoorY": 2754267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11196",
+            "Site_Name": "平鎮市山子頂段168-21地號",
+            "Kind_No": "Farm",
+            "CoorX": 272335,
+            "CoorY": 2754408,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11197",
+            "Site_Name": "平鎮市山子頂段168-24地號",
+            "Kind_No": "Farm",
+            "CoorX": 272278,
+            "CoorY": 2754267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11198",
+            "Site_Name": "平鎮市山子頂段168-25地號",
+            "Kind_No": "Farm",
+            "CoorX": 272278,
+            "CoorY": 2754267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11199",
+            "Site_Name": "平鎮市山子頂段168-26地號",
+            "Kind_No": "Farm",
+            "CoorX": 272278,
+            "CoorY": 2754267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11200",
+            "Site_Name": "平鎮市山子頂段168-27地號",
+            "Kind_No": "Farm",
+            "CoorX": 272278,
+            "CoorY": 2754267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11096",
+            "Site_Name": "大園鄉五塊厝段下埔小段1492-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272779,
+            "CoorY": 2767754,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11075",
+            "Site_Name": "蘆竹鄉新庄子段1433-1地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274249,
+            "CoorY": 2768791,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11027",
+            "Site_Name": "大園鄉五塊厝段下埔小段1495地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272854,
+            "CoorY": 2767632,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11033",
+            "Site_Name": "大園鄉五塊厝段下埔小段1541地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272944,
+            "CoorY": 2767244,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11036",
+            "Site_Name": "大園鄉五塊厝段下埔小段1550地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272807,
+            "CoorY": 2767137,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10442",
+            "Site_Name": "平鎮市山子頂段89-4地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272414,
+            "CoorY": 2754633,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10299",
+            "Site_Name": "桃園縣平鎮市平鎮段700地號(現為鎮興段907地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269732,
+            "CoorY": 2756493,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10300",
+            "Site_Name": "桃園市平鎮區平鎮段700-1地號(現為鎮興段906地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269732,
+            "CoorY": 2756493,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10301",
+            "Site_Name": "桃園縣平鎮市平鎮段700-2地號(現為鎮興段905地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269673,
+            "CoorY": 2756465,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10302",
+            "Site_Name": "桃園市平鎮區平鎮段702-1地號(現為鎮興段916地號)",
+            "Kind_No": "Farm",
+            "CoorX": 269673,
+            "CoorY": 2756465,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10317",
+            "Site_Name": "平鎮區山子頂段168-10地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272376,
+            "CoorY": 2754401,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10318",
+            "Site_Name": "平鎮市山子頂段168-9地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272376,
+            "CoorY": 2754401,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10758",
+            "Site_Name": "蘆竹鄉新庄子段1552地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274543,
+            "CoorY": 2768916,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

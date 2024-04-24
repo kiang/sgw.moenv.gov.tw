@@ -1,0 +1,189 @@
+{
+    "PageNo": 402,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00757",
+            "Site_Name": "彰化縣彰化市磚磘段0531-0000地號  ",
+            "Kind_No": "Farm",
+            "CoorX": 200490,
+            "CoorY": 2664062,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00758",
+            "Site_Name": "彰化縣彰化市西門口段0117-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 202080,
+            "CoorY": 2663571,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00759",
+            "Site_Name": "彰化縣彰化市西門口段0228-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 200418,
+            "CoorY": 2664048,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00750",
+            "Site_Name": "彰化縣彰化市西門口段0220-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 200281,
+            "CoorY": 2663803,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00751",
+            "Site_Name": "彰化縣彰化市西門口段0220-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 200288,
+            "CoorY": 2663828,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00752",
+            "Site_Name": "彰化縣彰化市西門口段0220-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200280,
+            "CoorY": 2663861,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00753",
+            "Site_Name": "彰化縣彰化市磚磘段0609-0000地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 200321,
+            "CoorY": 2663882,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00754",
+            "Site_Name": "彰化縣彰化市磚磘段0610-0000地號  ",
+            "Kind_No": "Farm",
+            "CoorX": 200350,
+            "CoorY": 2663924,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00746",
+            "Site_Name": "彰化縣彰化市西門口段0337-0006地號",
+            "Kind_No": "Farm",
+            "CoorX": 201298,
+            "CoorY": 2663370,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00747",
+            "Site_Name": "彰化縣彰化市西門口段0228-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200445,
+            "CoorY": 2664087,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00748",
+            "Site_Name": "彰化縣彰化市西門口段0220-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 200285,
+            "CoorY": 2663815,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00834",
+            "Site_Name": "彰化縣彰化市西門口段0336-0027地號",
+            "Kind_No": "Farm",
+            "CoorX": 201125,
+            "CoorY": 2663503,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "M00013",
+            "Site_Name": "南投縣南投市牛運堀段32-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 218095,
+            "CoorY": 2645729,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00021",
+            "Site_Name": "台南縣佳里鎮番子寮段308地號",
+            "Kind_No": "Farm",
+            "CoorX": 164995,
+            "CoorY": 2564372,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10020",
+            "Site_Name": "台南縣仁德鄉太乙段102、103、104、105、109、110、111及125地號(豪健電鍍廠污染案)",
+            "Kind_No": "Factory",
+            "CoorX": 178934,
+            "CoorY": 2548928,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00133",
+            "Site_Name": "新竹市香山區香雅段407地號",
+            "Kind_No": "Farm",
+            "CoorX": 242604,
+            "CoorY": 2743195,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00134",
+            "Site_Name": "新竹市香山區香雅段408地號",
+            "Kind_No": "Farm",
+            "CoorX": 242558,
+            "CoorY": 2743177,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00101",
+            "Site_Name": "新竹市香山區香雅段355地號",
+            "Kind_No": "Farm",
+            "CoorX": 242514,
+            "CoorY": 2743432,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00102",
+            "Site_Name": "新竹市香山區香雅段327地號",
+            "Kind_No": "Farm",
+            "CoorX": 242607,
+            "CoorY": 2743428,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00103",
+            "Site_Name": "新竹市香山區香雅段332地號",
+            "Kind_No": "Farm",
+            "CoorX": 242603,
+            "CoorY": 2743412,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

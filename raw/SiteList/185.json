@@ -1,0 +1,189 @@
+{
+    "PageNo": 185,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N10906",
+            "Site_Name": "彰化縣和美鎮嘉安段0047-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201725,
+            "CoorY": 2666540,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10907",
+            "Site_Name": "彰化縣和美鎮嘉安段0047-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 201745,
+            "CoorY": 2666541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10908",
+            "Site_Name": "彰化縣和美鎮嘉安段0050-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201740,
+            "CoorY": 2666492,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10909",
+            "Site_Name": "彰化縣和美鎮嘉安段0051-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201705,
+            "CoorY": 2666404,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10910",
+            "Site_Name": "彰化縣和美鎮嘉安段0053-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201663,
+            "CoorY": 2666315,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10911",
+            "Site_Name": "彰化縣和美鎮嘉安段0053-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 201625,
+            "CoorY": 2666343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10912",
+            "Site_Name": "彰化縣和美鎮嘉安段0384-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201461,
+            "CoorY": 2666444,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10913",
+            "Site_Name": "彰化縣和美鎮嘉安段0385-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201489,
+            "CoorY": 2666428,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11118",
+            "Site_Name": "彰化縣和美鎮嘉安段0053-0003地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 201759,
+            "CoorY": 2666317,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11130",
+            "Site_Name": "彰化縣和美鎮嘉安段0053-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 201718,
+            "CoorY": 2666322,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10644",
+            "Site_Name": "彰化縣秀水鄉下崙段0993-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199221,
+            "CoorY": 2654493,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10645",
+            "Site_Name": "彰化縣埔鹽鄉新東榮段0929(舊場址：彰化縣埔鹽鄉南港段南港小段0282-0125地號)",
+            "Kind_No": "Farm",
+            "CoorX": 199202,
+            "CoorY": 2654489,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13872",
+            "Site_Name": "彰化縣和美鎮嘉安段0053-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 201648,
+            "CoorY": 2666325,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10066",
+            "Site_Name": "台灣中油股份有限公司五股加油站",
+            "Kind_No": "Gas",
+            "CoorX": 294273,
+            "CoorY": 2774980,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10279",
+            "Site_Name": "正峰化學製藥股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 268097,
+            "CoorY": 2773799,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10211",
+            "Site_Name": "汐止區金龍段657(部分)及福德段190-1(部分)地號",
+            "Kind_No": "Other",
+            "CoorX": 314270,
+            "CoorY": 2773879,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10531",
+            "Site_Name": "東石鄉網寮段1094地號",
+            "Kind_No": "Discard",
+            "CoorX": 163768,
+            "CoorY": 2592053,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10287",
+            "Site_Name": "水美工程企業股份有限公司(觀音廠)",
+            "Kind_No": "Factory",
+            "CoorX": 260606,
+            "CoorY": 2772145,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00656",
+            "Site_Name": "大都會汽車客運股份有限公司內湖油站",
+            "Kind_No": "Gas",
+            "CoorX": 308307,
+            "CoorY": 2773356,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00621",
+            "Site_Name": "統一精工內湖一站加油站",
+            "Kind_No": "Gas",
+            "CoorX": 309478,
+            "CoorY": 2772504,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

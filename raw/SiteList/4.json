@@ -1,0 +1,189 @@
+{
+    "PageNo": 4,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N14475",
+            "Site_Name": "彰化縣埔心鄉瓦窯北段0125-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 205290,
+            "CoorY": 2650312,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "C10088",
+            "Site_Name": "八斗子漁船加油站",
+            "Kind_No": "Tank",
+            "CoorX": 330064,
+            "CoorY": 2782207,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16318",
+            "Site_Name": "復盛應用科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 282627,
+            "CoorY": 2763802,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12122",
+            "Site_Name": "臺中市清水區海濱段臨港小段0017-0000(部分)等1筆地號土地",
+            "Kind_No": "Other",
+            "CoorX": 202553,
+            "CoorY": 2688057,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12118",
+            "Site_Name": "台灣中油股份有限公司(油品行銷事業部台中營業處台中供油服務中心)",
+            "Kind_No": "Tank",
+            "CoorX": 203629,
+            "CoorY": 2688246,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10142",
+            "Site_Name": "旭德科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 253863,
+            "CoorY": 2752082,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10141",
+            "Site_Name": "台燿科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 251883,
+            "CoorY": 2748622,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N14013",
+            "Site_Name": "儀彰企業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 195667,
+            "CoorY": 2649544,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10375",
+            "Site_Name": "三龍電鍍科技股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292643,
+            "CoorY": 2761896,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10365",
+            "Site_Name": "新北市五股區中興段554地號",
+            "Kind_No": "Other",
+            "CoorX": 296737,
+            "CoorY": 2774217,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10355",
+            "Site_Name": "優技電子股份有限公司 ",
+            "Kind_No": "Factory",
+            "CoorX": 291364,
+            "CoorY": 2763264,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N14014",
+            "Site_Name": "三合和鍍金有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202848,
+            "CoorY": 2666063,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10350",
+            "Site_Name": "晃成企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 291874,
+            "CoorY": 2767963,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10357",
+            "Site_Name": "競國實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293392,
+            "CoorY": 2766460,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "S10040",
+            "Site_Name": "林園區中汕段181、184地號",
+            "Kind_No": "Other",
+            "CoorX": 189500,
+            "CoorY": 2487230,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "A00685",
+            "Site_Name": "內湖區潭美段二小段21地號",
+            "Kind_No": "Other",
+            "CoorX": 309617,
+            "CoorY": 2772850,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N14471",
+            "Site_Name": "彰化縣和美鎮大霞段2360(部分)及2361(部分)地號",
+            "Kind_No": "Factory",
+            "CoorX": 198063,
+            "CoorY": 2664140,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "O10271",
+            "Site_Name": "新竹市東明段439地號土壤及地下水污染控制場址",
+            "Kind_No": "Other",
+            "CoorX": 249167,
+            "CoorY": 2744183,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10644",
+            "Site_Name": "高雄市楠梓區高楠段450、450-1、450-3及432-1部分地號",
+            "Kind_No": "Other",
+            "CoorX": 180594,
+            "CoorY": 2512295,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12095",
+            "Site_Name": "仁山加油站股份有限公司仁山加油站",
+            "Kind_No": "Gas",
+            "CoorX": 215154,
+            "CoorY": 2669952,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

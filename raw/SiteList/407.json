@@ -1,0 +1,189 @@
+{
+    "PageNo": 407,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00001",
+            "Site_Name": "彰化縣西門加油站漏油案",
+            "Kind_No": "Gas",
+            "CoorX": 201836,
+            "CoorY": 2662682,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00099",
+            "Site_Name": "新竹市香山區樹下段1402地號",
+            "Kind_No": "Farm",
+            "CoorX": 242625,
+            "CoorY": 2743635,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00100",
+            "Site_Name": "新竹市香山區樹下段1409地號",
+            "Kind_No": "Farm",
+            "CoorX": 242688,
+            "CoorY": 2743564,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00066",
+            "Site_Name": "新竹市香山區樹下段1400地號",
+            "Kind_No": "Farm",
+            "CoorX": 242556,
+            "CoorY": 2743668,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00067",
+            "Site_Name": "新竹市香山區樹下段1413地號",
+            "Kind_No": "Farm",
+            "CoorX": 242605,
+            "CoorY": 2743610,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00068",
+            "Site_Name": "新竹市香山區樹下段1414地號",
+            "Kind_No": "Farm",
+            "CoorX": 242601,
+            "CoorY": 2743587,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00069",
+            "Site_Name": "新竹市香山區樹下段1406-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 242740,
+            "CoorY": 2743614,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00070",
+            "Site_Name": "新竹市香山區樹下段1407地號",
+            "Kind_No": "Farm",
+            "CoorX": 242713,
+            "CoorY": 2743590,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "O00071",
+            "Site_Name": "新竹市香山區樹下段1408地號",
+            "Kind_No": "Farm",
+            "CoorX": 242742,
+            "CoorY": 2743557,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00006",
+            "Site_Name": "台北縣泰山鄉泰山段三小段686地號",
+            "Kind_No": "Farm",
+            "CoorX": 292778,
+            "CoorY": 2769693,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00007",
+            "Site_Name": "台北縣泰山鄉泰山段三小段463地號",
+            "Kind_No": "Farm",
+            "CoorX": 293331,
+            "CoorY": 2770224,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00008",
+            "Site_Name": "台北縣泰山鄉泰山段三小段464-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 293318,
+            "CoorY": 2770229,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00009",
+            "Site_Name": "台北縣新莊市海山頭段三角子小段92-5號",
+            "Kind_No": "Farm",
+            "CoorX": 294126,
+            "CoorY": 2770099,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00001",
+            "Site_Name": "台北縣泰山鄉泰山段三小段462地號",
+            "Kind_No": "Farm",
+            "CoorX": 293347,
+            "CoorY": 2770217,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00002",
+            "Site_Name": "台北縣泰山鄉泰山段二小段740地號",
+            "Kind_No": "Farm",
+            "CoorX": 293952,
+            "CoorY": 2770365,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00003",
+            "Site_Name": "台北縣泰山鄉泰山段二小段586地號",
+            "Kind_No": "Farm",
+            "CoorX": 293616,
+            "CoorY": 2771214,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F00004",
+            "Site_Name": "台北縣泰山鄉泰山段二小段733地號",
+            "Kind_No": "Farm",
+            "CoorX": 294046,
+            "CoorY": 2770341,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10949",
+            "Site_Name": "鋒龍電鍍工廠股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 205947,
+            "CoorY": 2664717,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "H10125",
+            "Site_Name": "桃園市平鎮區東勢段東勢小段113-6、113-15、113-16、113-17、113-18、113-19、113-20、113-21、113-22、113-25地號(國慶化學股份有限公司)",
+            "Kind_No": "Factory",
+            "CoorX": 274657,
+            "CoorY": 2754817,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        },
+        {
+            "SiteNo": "D10341",
+            "Site_Name": "統懋半導體股份有限公司新市總廠",
+            "Kind_No": "Factory",
+            "CoorX": 178335,
+            "CoorY": 2552948,
+            "AreaCode": 0,
+            "Situation": "RemN"
+        }
+    ]
+}

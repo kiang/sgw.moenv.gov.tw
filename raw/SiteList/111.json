@@ -1,0 +1,189 @@
+{
+    "PageNo": 111,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B11864",
+            "Site_Name": "臺中市南屯區埔興段1513地號",
+            "Kind_No": "Farm",
+            "CoorX": 211535,
+            "CoorY": 2668020,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11865",
+            "Site_Name": "臺中市南屯區埔興段1466地號",
+            "Kind_No": "Farm",
+            "CoorX": 211671,
+            "CoorY": 2667964,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11866",
+            "Site_Name": "臺中市南屯區埔興段626(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211793,
+            "CoorY": 2668016,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11867",
+            "Site_Name": "臺中市南屯區埔興段634(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211793,
+            "CoorY": 2668016,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11868",
+            "Site_Name": "臺中市南屯區埔興段1552地號",
+            "Kind_No": "Farm",
+            "CoorX": 211659,
+            "CoorY": 2667840,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11869",
+            "Site_Name": "臺中市南屯區埔興段1553地號",
+            "Kind_No": "Farm",
+            "CoorX": 211618,
+            "CoorY": 2667849,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11870",
+            "Site_Name": "臺中市南屯區埔興段1553-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 211618,
+            "CoorY": 2667849,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11871",
+            "Site_Name": "臺中市南屯區埔興段1555地號",
+            "Kind_No": "Farm",
+            "CoorX": 211541,
+            "CoorY": 2667828,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11872",
+            "Site_Name": "臺中市南屯區埔興段1555-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 211541,
+            "CoorY": 2667828,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11873",
+            "Site_Name": "臺中市南屯區埔興段1578(部分)地號-1",
+            "Kind_No": "Farm",
+            "CoorX": 211543,
+            "CoorY": 2667744,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11874",
+            "Site_Name": "臺中市南屯區埔興段1578(部分)地號-2",
+            "Kind_No": "Farm",
+            "CoorX": 211590,
+            "CoorY": 2667737,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11875",
+            "Site_Name": "臺中市南屯區埔興段1588地號",
+            "Kind_No": "Farm",
+            "CoorX": 211585,
+            "CoorY": 2667669,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11876",
+            "Site_Name": "臺中市南屯區埔興段1588-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211585,
+            "CoorY": 2667669,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11877",
+            "Site_Name": "臺中市南屯區埔興段1566(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211647,
+            "CoorY": 2667777,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11878",
+            "Site_Name": "臺中市南屯區埔興段1579-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211513,
+            "CoorY": 2667747,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11879",
+            "Site_Name": "臺中市南屯區埔興段1586(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211513,
+            "CoorY": 2667747,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11880",
+            "Site_Name": "臺中市南屯區埔興段1579地號",
+            "Kind_No": "Farm",
+            "CoorX": 211582,
+            "CoorY": 2667787,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11881",
+            "Site_Name": "臺中市南屯區埔興段1577地號",
+            "Kind_No": "Farm",
+            "CoorX": 211610,
+            "CoorY": 2667785,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11882",
+            "Site_Name": "臺中市南屯區埔興段633地號",
+            "Kind_No": "Farm",
+            "CoorX": 211714,
+            "CoorY": 2668026,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11883",
+            "Site_Name": "臺中市南屯區埔興段635-1(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 211708,
+            "CoorY": 2667983,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

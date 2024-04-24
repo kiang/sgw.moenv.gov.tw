@@ -1,0 +1,189 @@
+{
+    "PageNo": 237,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H11017",
+            "Site_Name": "大園鄉五塊厝段下埔小段1472-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272989,
+            "CoorY": 2767692,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11018",
+            "Site_Name": "大園鄉五塊厝段下埔小段1474-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272999,
+            "CoorY": 2767724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11019",
+            "Site_Name": "大園鄉五塊厝段下埔小段1474地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272999,
+            "CoorY": 2767724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11020",
+            "Site_Name": "大園鄉五塊厝段下埔小段1475地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272999,
+            "CoorY": 2767724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11021",
+            "Site_Name": "大園鄉五塊厝段下埔小段1475-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272999,
+            "CoorY": 2767724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11022",
+            "Site_Name": "大園鄉五塊厝段下埔小段1476地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272953,
+            "CoorY": 2767721,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11023",
+            "Site_Name": "大園鄉五塊厝段下埔小段1479地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272900,
+            "CoorY": 2767800,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11024",
+            "Site_Name": "大園鄉五塊厝段下埔小段1493地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272860,
+            "CoorY": 2767726,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11025",
+            "Site_Name": "大園鄉五塊厝段下埔小段1493-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272861,
+            "CoorY": 2767726,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11026",
+            "Site_Name": "大園鄉五塊厝段下埔小段1493-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272861,
+            "CoorY": 2767726,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "I00161",
+            "Site_Name": "下埤段403地號-坵塊066",
+            "Kind_No": "Farm",
+            "CoorX": 190778,
+            "CoorY": 2598534,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10479",
+            "Site_Name": "三民區中都段四小段84地號",
+            "Kind_No": "Factory",
+            "CoorX": 177078,
+            "CoorY": 2504461,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10167",
+            "Site_Name": "汐止區同新段1013A及1014地號",
+            "Kind_No": "Gas",
+            "CoorX": 312678,
+            "CoorY": 2772026,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13689",
+            "Site_Name": "桃園市蘆竹區山鼻段124(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 279219,
+            "CoorY": 2774583,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10052",
+            "Site_Name": "臺南市南區同安段0630-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 166585,
+            "CoorY": 2535829,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10681",
+            "Site_Name": "彰化縣和美鎮大嘉段1237-0000地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200230,
+            "CoorY": 2665727,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10704",
+            "Site_Name": "彰化縣和美鎮大嘉段0994-0000(部分)地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200124,
+            "CoorY": 2665743,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10523",
+            "Site_Name": "彰化縣秀水鄉馬興段0529-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 199354,
+            "CoorY": 2662960,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11345",
+            "Site_Name": "彰化縣彰化市磚磘段0376-0000(部分)地號(103年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 200755,
+            "CoorY": 2664027,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11346",
+            "Site_Name": "彰化縣彰化市磚磘段0420-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 200854,
+            "CoorY": 2663939,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

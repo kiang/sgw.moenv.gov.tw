@@ -1,0 +1,189 @@
+{
+    "PageNo": 350,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L00083",
+            "Site_Name": "臺中縣大甲區永信段123地號",
+            "Kind_No": "Farm",
+            "CoorX": 212498,
+            "CoorY": 2694053,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00084",
+            "Site_Name": "臺中縣大甲區永信段131地號",
+            "Kind_No": "Farm",
+            "CoorX": 212586,
+            "CoorY": 2694100,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00085",
+            "Site_Name": "臺中縣大甲區永信段157地號",
+            "Kind_No": "Farm",
+            "CoorX": 212738,
+            "CoorY": 2694320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00086",
+            "Site_Name": "臺中縣大甲區永信段158地號",
+            "Kind_No": "Farm",
+            "CoorX": 212614,
+            "CoorY": 2694364,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00022",
+            "Site_Name": "臺中縣大甲區福安段1016地號",
+            "Kind_No": "Farm",
+            "CoorX": 213631,
+            "CoorY": 2700620,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00001",
+            "Site_Name": "台南縣國道322點5公里漏油案",
+            "Kind_No": "Other",
+            "CoorX": 173245,
+            "CoorY": 2546601,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00024",
+            "Site_Name": "臺中縣大甲區福安段1053地號",
+            "Kind_No": "Farm",
+            "CoorX": 213793,
+            "CoorY": 2700366,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00004",
+            "Site_Name": "臺中縣大里區詹厝園段14-5地號",
+            "Kind_No": "Farm",
+            "CoorX": 217124,
+            "CoorY": 2664963,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D00011",
+            "Site_Name": "台南市興農段625地號",
+            "Kind_No": "Farm",
+            "CoorX": 167250,
+            "CoorY": 2536614,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00040",
+            "Site_Name": "臺中縣大里區國中段431地號",
+            "Kind_No": "Farm",
+            "CoorX": 217534,
+            "CoorY": 2665313,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00041",
+            "Site_Name": "臺中縣大里區大突寮段259-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 217526,
+            "CoorY": 2665286,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00033",
+            "Site_Name": "臺中縣大里區大突寮段254地號",
+            "Kind_No": "Farm",
+            "CoorX": 217594,
+            "CoorY": 2665201,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00060",
+            "Site_Name": "臺中縣大里區大突寮段206-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217743,
+            "CoorY": 2665244,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00061",
+            "Site_Name": "臺中縣大里區大突寮段250地號",
+            "Kind_No": "Farm",
+            "CoorX": 217677,
+            "CoorY": 2665174,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00062",
+            "Site_Name": "臺中縣大里區大突寮段252-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 217654,
+            "CoorY": 2665197,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00063",
+            "Site_Name": "臺中縣大里區大突寮段252-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 217757,
+            "CoorY": 2665119,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00064",
+            "Site_Name": "臺中縣大里區大突寮段252-7地號",
+            "Kind_No": "Farm",
+            "CoorX": 217742,
+            "CoorY": 2665176,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00065",
+            "Site_Name": "臺中縣大里區大突寮段252-10地號",
+            "Kind_No": "Farm",
+            "CoorX": 217580,
+            "CoorY": 2665101,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00066",
+            "Site_Name": "臺中縣大里區大突寮段252-11地號",
+            "Kind_No": "Farm",
+            "CoorX": 217601,
+            "CoorY": 2665151,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L00052",
+            "Site_Name": "臺中縣烏日區北里段448地號",
+            "Kind_No": "Farm",
+            "CoorX": 213981,
+            "CoorY": 2660857,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

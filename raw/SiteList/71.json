@@ -1,0 +1,189 @@
+{
+    "PageNo": 71,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H14176",
+            "Site_Name": "桃園市蘆竹區中興段705地號",
+            "Kind_No": "Farm",
+            "CoorX": 275003,
+            "CoorY": 2767965,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13687",
+            "Site_Name": "桃園市蘆竹區內興段108(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 277837,
+            "CoorY": 2774138,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10332",
+            "Site_Name": "新北市中和區福祥段652地號",
+            "Kind_No": "Factory",
+            "CoorX": 300212,
+            "CoorY": 2766748,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14390",
+            "Site_Name": "桃園市中壢區普仁段54(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274636,
+            "CoorY": 2760561,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14391",
+            "Site_Name": "桃園市中壢區普仁段54(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274639,
+            "CoorY": 2760552,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14392",
+            "Site_Name": "桃園市中壢區普仁段54(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274655,
+            "CoorY": 2760568,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14393",
+            "Site_Name": "桃園市中壢區普仁段54(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274660,
+            "CoorY": 2760552,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14394",
+            "Site_Name": "桃園市中壢區普仁段55(部分)、56(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274643,
+            "CoorY": 2760537,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14395",
+            "Site_Name": "桃園市中壢區普仁段55(部分)、56(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274658,
+            "CoorY": 2760544,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14405",
+            "Site_Name": "桃園市中壢區普仁段64(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274617,
+            "CoorY": 2760502,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14406",
+            "Site_Name": "桃園市中壢區普仁段63(部分)、64(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274631,
+            "CoorY": 2760499,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14407",
+            "Site_Name": "桃園市中壢區普仁段63(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274631,
+            "CoorY": 2760498,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14408",
+            "Site_Name": "桃園市中壢區普仁段63(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274635,
+            "CoorY": 2760487,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14409",
+            "Site_Name": "桃園市中壢區普仁段63(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274650,
+            "CoorY": 2760488,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14410",
+            "Site_Name": "桃園市中壢區普仁段59(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274649,
+            "CoorY": 2760493,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14411",
+            "Site_Name": "桃園市中壢區普仁段59(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274665,
+            "CoorY": 2760486,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14412",
+            "Site_Name": "桃園市中壢區普仁段59(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274666,
+            "CoorY": 2760488,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14386",
+            "Site_Name": "桃園市中壢區普仁段53(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 274612,
+            "CoorY": 2760566,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13713",
+            "Site_Name": "彰化縣鹿港鎮永安段0542-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 194969,
+            "CoorY": 2663752,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13714",
+            "Site_Name": "彰化縣鹿港鎮永安段0543-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 194911,
+            "CoorY": 2663738,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

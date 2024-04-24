@@ -1,0 +1,189 @@
+{
+    "PageNo": 68,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13518",
+            "Site_Name": "彰化縣鹿港鎮鹿雅段0073-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196378,
+            "CoorY": 2666597,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13507",
+            "Site_Name": "彰化縣鹿港鎮振興段1983-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197049,
+            "CoorY": 2663620,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13503",
+            "Site_Name": "彰化縣鹿港鎮振興段1982-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197067,
+            "CoorY": 2663633,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13504",
+            "Site_Name": "彰化縣鹿港鎮振興段1487-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196801,
+            "CoorY": 2663700,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13476",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1649-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195291,
+            "CoorY": 2665368,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13452",
+            "Site_Name": "彰化縣鹿港鎮振興段1299-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197674,
+            "CoorY": 2663946,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13462",
+            "Site_Name": "彰化縣鹿港鎮振興段1332-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197645,
+            "CoorY": 2663931,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13466",
+            "Site_Name": "彰化縣鹿港鎮振興段1345-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197539,
+            "CoorY": 2663840,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13457",
+            "Site_Name": "彰化縣鹿港鎮振興段1300-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197744,
+            "CoorY": 2663853,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13459",
+            "Site_Name": "彰化縣鹿港鎮振興段1302-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 197664,
+            "CoorY": 2663923,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13443",
+            "Site_Name": "彰化縣鹿港鎮振興段1278-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197634,
+            "CoorY": 2664020,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13445",
+            "Site_Name": "彰化縣鹿港鎮鹿昇段0854-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195807,
+            "CoorY": 2664885,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13449",
+            "Site_Name": "彰化縣鹿港鎮鹿昇段0867-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195765,
+            "CoorY": 2664950,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13440",
+            "Site_Name": "彰化縣鹿港鎮振興段1277-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197623,
+            "CoorY": 2664031,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13413",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1255-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195733,
+            "CoorY": 2665345,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13414",
+            "Site_Name": "彰化縣鹿港鎮鹿昇段0649-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196283,
+            "CoorY": 2664800,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13417",
+            "Site_Name": "彰化縣鹿港鎮鹿昇段0653-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196283,
+            "CoorY": 2664788,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13409",
+            "Site_Name": "彰化縣鹿港鎮鹿昇段0648-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 196226,
+            "CoorY": 2664817,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13411",
+            "Site_Name": "彰化縣鹿港鎮振興段1052-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197206,
+            "CoorY": 2663974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13396",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1119-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 195837,
+            "CoorY": 2665260,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

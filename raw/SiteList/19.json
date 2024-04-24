@@ -1,0 +1,189 @@
+{
+    "PageNo": 19,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D00020",
+            "Site_Name": "臺南市統一精工小北加油站",
+            "Kind_No": "Gas",
+            "CoorX": 168452,
+            "CoorY": 2544905,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "Q00003",
+            "Site_Name": "嘉義縣水上鄉回歸村北回段1044、1060、1061及1062地號",
+            "Kind_No": "Other",
+            "CoorX": 190182,
+            "CoorY": 2594461,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "P00016",
+            "Site_Name": "統一精工虎尾加油站",
+            "Kind_No": "Gas",
+            "CoorX": 193007,
+            "CoorY": 2623848,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "T00005",
+            "Site_Name": "屏東縣萬丹鄉新安段1438及1439地號",
+            "Kind_No": "Discard",
+            "CoorX": 197525,
+            "CoorY": 2500967,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "K00006",
+            "Site_Name": "台灣氯乙烯工業股份有限公司頭份廠",
+            "Kind_No": "Factory",
+            "CoorX": 238842,
+            "CoorY": 2730268,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "R00023",
+            "Site_Name": "煜林企業股份有限公司及永康區鹽南段518地號",
+            "Kind_No": "Factory",
+            "CoorX": 171588,
+            "CoorY": 2548057,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "D00001",
+            "Site_Name": "臺南市中國石油化學工業開發股份有限公司安順廠及二等九號道路東側草叢區",
+            "Kind_No": "Factory",
+            "CoorX": 160057,
+            "CoorY": 2547942,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H00001",
+            "Site_Name": "台灣美國無線電公司(RCA)原桃園廠",
+            "Kind_No": "Factory",
+            "CoorX": 278085,
+            "CoorY": 2764256,
+            "AreaCode": 0,
+            "Situation": "RemY"
+        },
+        {
+            "SiteNo": "H16397",
+            "Site_Name": "桃園市桃園區大樹林段1825地號",
+            "Kind_No": "Factory",
+            "CoorX": 282787,
+            "CoorY": 2763817,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "K10275",
+            "Site_Name": " 苗栗縣頭份市永貞段1209地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 238076,
+            "CoorY": 2730125,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "B12258",
+            "Site_Name": "臺中市西屯區協和段129地號地下水受污染使用限制地區",
+            "Kind_No": "Other",
+            "CoorX": 209435,
+            "CoorY": 2674311,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "E10699",
+            "Site_Name": "前鎮區瑞南段一小段1001等11筆地號",
+            "Kind_No": "Other",
+            "CoorX": 179768,
+            "CoorY": 2499445,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "E10697",
+            "Site_Name": "高雄市大發工業區光華路及大業街交叉路口共3筆地號",
+            "Kind_No": "Other",
+            "CoorX": 191420,
+            "CoorY": 2498203,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "B12241",
+            "Site_Name": "臺中市東區頂橋子頭段24-3地號為地下水受污染使用限制地區",
+            "Kind_No": "Factory",
+            "CoorX": 218759,
+            "CoorY": 2669613,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "D10650",
+            "Site_Name": "臺南市仁德區保安段0068-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 172412,
+            "CoorY": 2535780,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "Q10880",
+            "Site_Name": "嘉義縣東石鄉港墘段港墘小段466地號",
+            "Kind_No": "Factory",
+            "CoorX": 169456,
+            "CoorY": 2595125,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H16317",
+            "Site_Name": "桃園市中壢區中工段260、261地號",
+            "Kind_No": "Factory",
+            "CoorX": 275096,
+            "CoorY": 2764328,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H16320",
+            "Site_Name": "桃園市大園區北港段17-3地號土地",
+            "Kind_No": "Factory",
+            "CoorX": 267734,
+            "CoorY": 2774356,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "H14385",
+            "Site_Name": "桃園市觀音區工業區段五小段80地號",
+            "Kind_No": "Factory",
+            "CoorX": 260992,
+            "CoorY": 2771221,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        },
+        {
+            "SiteNo": "F10352",
+            "Site_Name": "新北市三重區頂崁段1545地號",
+            "Kind_No": "Factory",
+            "CoorX": 297285,
+            "CoorY": 2772229,
+            "AreaCode": 0,
+            "Situation": "GWY"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 70,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11949",
+            "Site_Name": "彰化縣和美鎮新賢段0417-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203056,
+            "CoorY": 2665877,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11905",
+            "Site_Name": "彰化縣和美鎮和群段0835-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201363,
+            "CoorY": 2666809,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11862",
+            "Site_Name": "彰化縣和美鎮福馬段1139-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203051,
+            "CoorY": 2666449,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10670",
+            "Site_Name": "彰化縣和美鎮嘉慶段0493-0000地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 201521,
+            "CoorY": 2664832,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10129",
+            "Site_Name": "中崙加油站",
+            "Kind_No": "Gas",
+            "CoorX": 169255,
+            "CoorY": 2553200,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10997",
+            "Site_Name": "彰化縣和美鎮大榮段1065-0000地號(102年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 199725,
+            "CoorY": 2664193,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11824",
+            "Site_Name": "彰化縣和美鎮大雅段0729-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 197632,
+            "CoorY": 2666379,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13592",
+            "Site_Name": "彰化縣彰化市延和段0618-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203057,
+            "CoorY": 2661379,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13593",
+            "Site_Name": "彰化縣彰化市延和段0618-0001(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203072,
+            "CoorY": 2661364,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13594",
+            "Site_Name": "彰化縣彰化市延和段0618-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 202953,
+            "CoorY": 2661368,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14101",
+            "Site_Name": "桃園市蘆竹區中興段1221(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 275470,
+            "CoorY": 2766946,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13813",
+            "Site_Name": "桃園市蘆竹區中興段837地號",
+            "Kind_No": "Farm",
+            "CoorX": 275210,
+            "CoorY": 2767170,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14274",
+            "Site_Name": "大園區內海墘段 698-1 地號",
+            "Kind_No": "Farm",
+            "CoorX": 269339,
+            "CoorY": 2775512,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14284",
+            "Site_Name": "桃園市大園區內海墘段 698(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 269332,
+            "CoorY": 2775519,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14280",
+            "Site_Name": "大園區內海墘段 697(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 269328,
+            "CoorY": 2775531,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14296",
+            "Site_Name": "大園區內海墘段 696(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 269312,
+            "CoorY": 2775552,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14150",
+            "Site_Name": "桃園市蘆竹區中興段838地號",
+            "Kind_No": "Farm",
+            "CoorX": 275205,
+            "CoorY": 2767190,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14151",
+            "Site_Name": "桃園市蘆竹區中興段756地號",
+            "Kind_No": "Farm",
+            "CoorX": 274992,
+            "CoorY": 2767959,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14145",
+            "Site_Name": "桃園市蘆竹區德林段1065(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276696,
+            "CoorY": 2765921,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14130",
+            "Site_Name": "桃園市蘆竹區中興段748地號",
+            "Kind_No": "Farm",
+            "CoorX": 275031,
+            "CoorY": 2767812,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 251,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H00253",
+            "Site_Name": "桃園縣中壢市內壢段659地號(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 275008,
+            "CoorY": 2766118,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00234",
+            "Site_Name": "桃園縣中壢市內壢段582地號",
+            "Kind_No": "Farm",
+            "CoorX": 275204,
+            "CoorY": 2766169,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00222",
+            "Site_Name": "桃園縣中壢市內壢段510地號",
+            "Kind_No": "Farm",
+            "CoorX": 275139,
+            "CoorY": 2766562,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00223",
+            "Site_Name": "桃園縣中壢市內壢段512地號",
+            "Kind_No": "Farm",
+            "CoorX": 275130,
+            "CoorY": 2766577,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00244",
+            "Site_Name": "桃園縣中壢市內壢段599地號",
+            "Kind_No": "Farm",
+            "CoorX": 275109,
+            "CoorY": 2766082,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10261",
+            "Site_Name": "中和加滿加油站",
+            "Kind_No": "Gas",
+            "CoorX": 297410,
+            "CoorY": 2765331,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10568",
+            "Site_Name": "遠東加油站",
+            "Kind_No": "Gas",
+            "CoorX": 204759,
+            "CoorY": 2647798,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00638",
+            "Site_Name": "前長夏內湖加油站",
+            "Kind_No": "Gas",
+            "CoorX": 311261,
+            "CoorY": 2773052,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00615",
+            "Site_Name": "林森北路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 302854,
+            "CoorY": 2770970,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00056",
+            "Site_Name": "桃園縣蘆竹鄉中興段588地號",
+            "Kind_No": "Farm",
+            "CoorX": 275296,
+            "CoorY": 2767850,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00037",
+            "Site_Name": "桃園縣蘆竹鄉中興段741地號",
+            "Kind_No": "Farm",
+            "CoorX": 275021,
+            "CoorY": 2767683,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00081",
+            "Site_Name": "桃園縣蘆竹鄉中興段1207地號",
+            "Kind_No": "Farm",
+            "CoorX": 275462,
+            "CoorY": 2766750,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10020",
+            "Site_Name": "國泰塑膠工業股份有限公司竹南廠",
+            "Kind_No": "Factory",
+            "CoorX": 237882,
+            "CoorY": 2731369,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10255",
+            "Site_Name": "千越加油站實業股份有限公司千越東門加油站地下水污染控制場址 ",
+            "Kind_No": "Gas",
+            "CoorX": 170991,
+            "CoorY": 2542446,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00241",
+            "Site_Name": "桃園縣中壢市內壢段592地號(原為內壢段588-5地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275107,
+            "CoorY": 2766172,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00226",
+            "Site_Name": "桃園縣中壢市內壢段527地號(原中壢市內壢段531地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275258,
+            "CoorY": 2766471,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00227",
+            "Site_Name": "桃園縣中壢市內壢段538地號",
+            "Kind_No": "Farm",
+            "CoorX": 275265,
+            "CoorY": 2766428,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00246",
+            "Site_Name": "桃園縣中壢市內壢段601地號",
+            "Kind_No": "Farm",
+            "CoorX": 275091,
+            "CoorY": 2766025,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13332",
+            "Site_Name": "中壢區內壢段527-1地號(部分坵塊)(原為內壢段531地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275233,
+            "CoorY": 2766550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13333",
+            "Site_Name": "中壢區內壢段527-2地號(部分坵塊)(原為內壢段531地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275251,
+            "CoorY": 2766529,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

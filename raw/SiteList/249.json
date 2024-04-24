@@ -1,0 +1,189 @@
+{
+    "PageNo": 249,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10722",
+            "Site_Name": "蘆竹鄉新庄子段1069地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274275,
+            "CoorY": 2769075,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10723",
+            "Site_Name": "蘆竹鄉新庄子段1070地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274310,
+            "CoorY": 2769008,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10709",
+            "Site_Name": "蘆竹鄉新庄子段1069地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274273,
+            "CoorY": 2769071,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10768",
+            "Site_Name": "蘆竹鄉新庄子段1652地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274989,
+            "CoorY": 2768705,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10251",
+            "Site_Name": "大園鄉五塊厝段下埔小段1664地號",
+            "Kind_No": "Farm",
+            "CoorX": 272955,
+            "CoorY": 2766920,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00017",
+            "Site_Name": "桃園市蘆竹區大竹圍段187-9地號(現為竹中段33地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275264,
+            "CoorY": 2768757,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00084",
+            "Site_Name": "桃園縣蘆竹鄉中興段1239-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275303,
+            "CoorY": 2766753,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00069",
+            "Site_Name": "桃園縣蘆竹鄉中興段596地號",
+            "Kind_No": "Farm",
+            "CoorX": 275240,
+            "CoorY": 2767984,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00070",
+            "Site_Name": "桃園縣蘆竹鄉中興段597地號",
+            "Kind_No": "Farm",
+            "CoorX": 275230,
+            "CoorY": 2768002,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10213",
+            "Site_Name": "大園鄉埔心段三塊厝小段235地號",
+            "Kind_No": "Farm",
+            "CoorX": 273931,
+            "CoorY": 2770173,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10218",
+            "Site_Name": "大園鄉埔心段三塊厝小段295地號",
+            "Kind_No": "Farm",
+            "CoorX": 273849,
+            "CoorY": 2770145,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10235",
+            "Site_Name": "大園鄉五塊厝段下埔小段806地號",
+            "Kind_No": "Farm",
+            "CoorX": 272402,
+            "CoorY": 2768857,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10176",
+            "Site_Name": "蘆竹鄉新庄子段699地號",
+            "Kind_No": "Farm",
+            "CoorX": 274016,
+            "CoorY": 2770024,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10092",
+            "Site_Name": "桃園縣八德市中華段927地號",
+            "Kind_No": "Farm",
+            "CoorX": 282190,
+            "CoorY": 2762346,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00271",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1070地號",
+            "Kind_No": "Farm",
+            "CoorX": 273427,
+            "CoorY": 2769284,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00213",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1069地號",
+            "Kind_No": "Farm",
+            "CoorX": 273445,
+            "CoorY": 2769277,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00225",
+            "Site_Name": "桃園縣中壢市內壢段521地號",
+            "Kind_No": "Farm",
+            "CoorX": 275171,
+            "CoorY": 2766703,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00235",
+            "Site_Name": "桃園縣中壢市內壢段585地號",
+            "Kind_No": "Farm",
+            "CoorX": 275181,
+            "CoorY": 2766098,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00154",
+            "Site_Name": "桃園縣蘆竹鄉德林段773地號(原為中興段86-3地號)(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 276412,
+            "CoorY": 2766620,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00148",
+            "Site_Name": "桃園縣蘆竹鄉中興段70-4地號(德林段555地號)",
+            "Kind_No": "Farm",
+            "CoorX": 275686,
+            "CoorY": 2767092,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

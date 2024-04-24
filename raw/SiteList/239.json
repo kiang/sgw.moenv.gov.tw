@@ -1,0 +1,189 @@
+{
+    "PageNo": 239,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N11492",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1186-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196586,
+            "CoorY": 2666157,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11493",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1192-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196579,
+            "CoorY": 2666123,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11494",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1201-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 196559,
+            "CoorY": 2665989,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11495",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1201-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196562,
+            "CoorY": 2666004,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11498",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1216-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196473,
+            "CoorY": 2666000,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11499",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1217-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196453,
+            "CoorY": 2666006,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11500",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1232-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196380,
+            "CoorY": 2666043,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11486",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1097-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196801,
+            "CoorY": 2665930,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11487",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1098-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196802,
+            "CoorY": 2665943,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11513",
+            "Site_Name": "彰化縣鹿港鎮鹿犁段1323-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 196292,
+            "CoorY": 2665931,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11944",
+            "Site_Name": "彰化縣和美鎮新賢段0404-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203206,
+            "CoorY": 2665915,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N12037",
+            "Site_Name": "彰化縣埔心鄉二重段0387-0000地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 202614,
+            "CoorY": 2651184,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11746",
+            "Site_Name": "彰化縣埔心鄉二重段0388-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202612,
+            "CoorY": 2651175,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11747",
+            "Site_Name": "彰化縣埔心鄉二重段0386-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202632,
+            "CoorY": 2651179,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11744",
+            "Site_Name": "彰化縣埔心鄉二重段0376-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202728,
+            "CoorY": 2651164,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11733",
+            "Site_Name": "彰化縣埔心鄉二重段0375-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202785,
+            "CoorY": 2651202,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11741",
+            "Site_Name": "彰化縣埔心鄉油車段1289-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202896,
+            "CoorY": 2650887,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11742",
+            "Site_Name": "彰化縣埔心鄉二重段0441-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202697,
+            "CoorY": 2651079,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11716",
+            "Site_Name": "彰化縣彰化市磚磘段0487-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 200385,
+            "CoorY": 2663797,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11717",
+            "Site_Name": "彰化縣彰化市磚磘段0496-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200386,
+            "CoorY": 2663776,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

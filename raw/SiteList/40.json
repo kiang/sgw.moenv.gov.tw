@@ -1,0 +1,189 @@
+{
+    "PageNo": 40,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13655",
+            "Site_Name": "彰化縣花壇鄉華南段0199-0003地號",
+            "Kind_No": "Farm",
+            "CoorX": 204190,
+            "CoorY": 2657108,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13656",
+            "Site_Name": "彰化縣花壇鄉華南段0199-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 204196,
+            "CoorY": 2657108,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13657",
+            "Site_Name": "彰化縣花壇鄉華南段0199-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 204201,
+            "CoorY": 2657112,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13658",
+            "Site_Name": "彰化縣花壇鄉華南段0201-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 204164,
+            "CoorY": 2657202,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13659",
+            "Site_Name": "彰化縣花壇鄉華南段0202-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 204100,
+            "CoorY": 2657294,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13591",
+            "Site_Name": "彰化縣彰化市延和段0615-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202938,
+            "CoorY": 2661117,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13579",
+            "Site_Name": "彰化縣彰化市延和段0527-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203420,
+            "CoorY": 2661511,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13580",
+            "Site_Name": "彰化縣彰化市延和段0528-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203280,
+            "CoorY": 2661551,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13581",
+            "Site_Name": "彰化縣彰化市延和段0531-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203216,
+            "CoorY": 2661532,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13582",
+            "Site_Name": "彰化縣彰化市延和段0531-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 203185,
+            "CoorY": 2661532,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13583",
+            "Site_Name": "彰化縣彰化市延和段0531-0002(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203163,
+            "CoorY": 2661541,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13584",
+            "Site_Name": "彰化縣彰化市延和段0533-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203182,
+            "CoorY": 2661501,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13585",
+            "Site_Name": "彰化縣彰化市延和段0536-0008(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203266,
+            "CoorY": 2661374,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13586",
+            "Site_Name": "彰化縣彰化市延和段0541-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203540,
+            "CoorY": 2661402,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13587",
+            "Site_Name": "彰化縣彰化市延和段0591-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203626,
+            "CoorY": 2661362,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13588",
+            "Site_Name": "彰化縣彰化市延和段0597-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203392,
+            "CoorY": 2661274,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13589",
+            "Site_Name": "彰化縣彰化市延和段0598-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203392,
+            "CoorY": 2661285,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13620",
+            "Site_Name": "彰化縣花壇鄉長沙段0175-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203573,
+            "CoorY": 2658540,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13612",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0990-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198311,
+            "CoorY": 2660954,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13613",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0998-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198281,
+            "CoorY": 2661065,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 26,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10600",
+            "Site_Name": "新營區新卯舍段0970-0000地號",
+            "Kind_No": "Factory",
+            "CoorX": 182305,
+            "CoorY": 2579930,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14342",
+            "Site_Name": "昇展金屬工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 202724,
+            "CoorY": 2665662,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11418",
+            "Site_Name": "和美鎮嘉安段754-2、782、783地號",
+            "Kind_No": "Factory",
+            "CoorX": 201525,
+            "CoorY": 2666169,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "X00061",
+            "Site_Name": "台灣中油股份有限公司澎湖營業處外垵漁船加油站",
+            "Kind_No": "Gas",
+            "CoorX": 299325,
+            "CoorY": 2606800,
+            "AreaCode": 3,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10152",
+            "Site_Name": "大洋塑膠工業股份有限公司桃園廠",
+            "Kind_No": "Factory",
+            "CoorX": 278037,
+            "CoorY": 2778937,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18212",
+            "Site_Name": "彰化縣和美鎮大嘉段0995-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200121,
+            "CoorY": 2665728,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10262",
+            "Site_Name": "台灣中油股份有限公司探採事業部注儲工程處氮氣工廠",
+            "Kind_No": "Other",
+            "CoorX": 220406,
+            "CoorY": 2704613,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10085",
+            "Site_Name": "台灣中油股份有限公司油品行銷事業部基隆營業處-基隆供油服務中心",
+            "Kind_No": "Tank",
+            "CoorX": 324895,
+            "CoorY": 2781870,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "C10039",
+            "Site_Name": "泉益加油站",
+            "Kind_No": "Gas",
+            "CoorX": 323199,
+            "CoorY": 2779002,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10097",
+            "Site_Name": "中國化學製藥股份有限公司新豐工廠",
+            "Kind_No": "Factory",
+            "CoorX": 247802,
+            "CoorY": 2753042,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "T10276",
+            "Site_Name": "屏東縣內埔鄉新豐段39-6、39-7地號(原為謙有鋼鐵工業股份有限公司內埔廠)",
+            "Kind_No": "Factory",
+            "CoorX": 203725,
+            "CoorY": 2504992,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10055",
+            "Site_Name": "湖口鄉竹九段0368、0374、0375、0377、0378、0385、0386、0387及0389地號(台亞湖口南下加油站)",
+            "Kind_No": "Gas",
+            "CoorX": 250991,
+            "CoorY": 2750058,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10258",
+            "Site_Name": "楠梓區和平段二小段612、613、614、615、616及617地號(楠梓電子股份有限公司一廠)",
+            "Kind_No": "Factory",
+            "CoorX": 178671,
+            "CoorY": 2513932,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10354",
+            "Site_Name": "秦強達金屬工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 292423,
+            "CoorY": 2767700,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18156",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0781-0000地號(109年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 196043,
+            "CoorY": 2665077,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18157",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0782-0000地號(部分)(109年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 196033,
+            "CoorY": 2665097,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18158",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段0783-0000地號(109年公告)",
+            "Kind_No": "Farm",
+            "CoorX": 196041,
+            "CoorY": 2665112,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18160",
+            "Site_Name": "彰化縣花壇鄉華南段0123-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203944,
+            "CoorY": 2657293,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18053",
+            "Site_Name": "彰化縣彰化市線東段0802-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201616,
+            "CoorY": 2663930,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N18054",
+            "Site_Name": "彰化縣彰化市磚磘段0365-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 200889,
+            "CoorY": 2663906,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

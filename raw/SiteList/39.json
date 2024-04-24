@@ -1,0 +1,189 @@
+{
+    "PageNo": 39,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13649",
+            "Site_Name": "彰化縣花壇鄉華南段0167-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 204241,
+            "CoorY": 2657133,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13650",
+            "Site_Name": "彰化縣花壇鄉華南段0170-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 204220,
+            "CoorY": 2657086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13651",
+            "Site_Name": "彰化縣花壇鄉華南段0171-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 204295,
+            "CoorY": 2656927,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13662",
+            "Site_Name": "彰化縣花壇鄉南口段0470-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203539,
+            "CoorY": 2658437,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13663",
+            "Site_Name": "彰化縣花壇鄉南口段0472-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203553,
+            "CoorY": 2658443,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13664",
+            "Site_Name": "彰化縣花壇鄉南口段0474-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203559,
+            "CoorY": 2658432,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13665",
+            "Site_Name": "彰化縣花壇鄉南口段0474-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 203544,
+            "CoorY": 2658427,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13666",
+            "Site_Name": "彰化縣花壇鄉南口段0478-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203475,
+            "CoorY": 2658406,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13667",
+            "Site_Name": "彰化縣花壇鄉南口段0479-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203449,
+            "CoorY": 2658396,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13668",
+            "Site_Name": "彰化縣花壇鄉南口段0480-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 203411,
+            "CoorY": 2658380,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13669",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1051-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202952,
+            "CoorY": 2661044,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13670",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1053-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202886,
+            "CoorY": 2661053,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13671",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1054-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202889,
+            "CoorY": 2661005,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13672",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1054-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 202889,
+            "CoorY": 2660993,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13673",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1054-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 202891,
+            "CoorY": 2660961,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13674",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1054-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 202893,
+            "CoorY": 2660916,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13675",
+            "Site_Name": "彰化縣花壇鄉北白沙坑段1061-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 202979,
+            "CoorY": 2660817,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13647",
+            "Site_Name": "彰化縣花壇鄉華南段0162-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 204191,
+            "CoorY": 2657215,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13653",
+            "Site_Name": "彰化縣花壇鄉華南段0199-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 204179,
+            "CoorY": 2657108,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13654",
+            "Site_Name": "彰化縣花壇鄉華南段0199-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 204185,
+            "CoorY": 2657108,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

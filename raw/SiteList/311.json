@@ -1,0 +1,189 @@
+{
+    "PageNo": 311,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10140",
+            "Site_Name": "龜山鄉舊路坑段舊路坑小段38-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 287156,
+            "CoorY": 2768398,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10141",
+            "Site_Name": "龜山鄉舊路坑段舊路坑小段38-22地號(現為龜山鄉大埔段920地號)",
+            "Kind_No": "Farm",
+            "CoorX": 287148,
+            "CoorY": 2768407,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10142",
+            "Site_Name": "龜山鄉舊路坑段舊路坑小段38-23地號(現為龜山鄉大埔段921地號)",
+            "Kind_No": "Farm",
+            "CoorX": 287183,
+            "CoorY": 2768415,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10143",
+            "Site_Name": "龜山鄉舊路坑段舊路坑小段41-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 287153,
+            "CoorY": 2768372,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10026",
+            "Site_Name": "二苓11兒1-2兒童遊戲場",
+            "Kind_No": "Other",
+            "CoorX": 183133,
+            "CoorY": 2496179,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10025",
+            "Site_Name": "慧國工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 210356,
+            "CoorY": 2673651,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10267",
+            "Site_Name": "三陽龍企業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 269223,
+            "CoorY": 2774286,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10087",
+            "Site_Name": "苑裡鎮新復東段287地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215100,
+            "CoorY": 2700520,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10088",
+            "Site_Name": "苑裡鎮新復東段288地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215100,
+            "CoorY": 2700550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10089",
+            "Site_Name": "苑裡鎮新復東段290地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215057,
+            "CoorY": 2700550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10090",
+            "Site_Name": "苑裡鎮新復東段436地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215000,
+            "CoorY": 2700480,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10091",
+            "Site_Name": "苑裡鎮新復東段434地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 214972,
+            "CoorY": 2700480,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10092",
+            "Site_Name": "頭份鎮華夏段325地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 238593,
+            "CoorY": 2730824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10093",
+            "Site_Name": "頭份鎮華夏段326地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 238585,
+            "CoorY": 2730839,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10094",
+            "Site_Name": "苑裡鎮新復東段435地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 214983,
+            "CoorY": 2700480,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10095",
+            "Site_Name": "苑裡鎮新復東段437地號農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215000,
+            "CoorY": 2700460,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10096",
+            "Site_Name": "苑裡鎮新復東段289地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215070,
+            "CoorY": 2700550,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "K10099",
+            "Site_Name": "苑裡鎮新復東段291地號部份農地坵塊",
+            "Kind_No": "Farm",
+            "CoorX": 215864,
+            "CoorY": 2700332,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10022",
+            "Site_Name": "金旺加油站",
+            "Kind_No": "Gas",
+            "CoorX": 222823,
+            "CoorY": 2670311,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10079",
+            "Site_Name": "臺南市南區同安段1、10、12、12-4等4筆地號土壤污染控制場址(永寧橋)",
+            "Kind_No": "Discard",
+            "CoorX": 167301,
+            "CoorY": 2536178,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

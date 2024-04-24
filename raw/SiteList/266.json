@@ -1,0 +1,189 @@
+{
+    "PageNo": 266,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H11146",
+            "Site_Name": "大園鄉五塊厝段下埔小段893地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272226,
+            "CoorY": 2769051,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11147",
+            "Site_Name": "大園鄉五塊厝段下埔小段894地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272226,
+            "CoorY": 2769051,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11174",
+            "Site_Name": "大園鄉五塊厝段下埔小段557-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272702,
+            "CoorY": 2769279,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11175",
+            "Site_Name": "大園鄉五塊厝段下埔小段758-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272210,
+            "CoorY": 2769687,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11131",
+            "Site_Name": "大園鄉五塊厝段下埔小段830地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272242,
+            "CoorY": 2769295,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11132",
+            "Site_Name": "大園鄉五塊厝段下埔小段831地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272242,
+            "CoorY": 2769295,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11133",
+            "Site_Name": "大園鄉五塊厝段下埔小段832地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272242,
+            "CoorY": 2769295,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11121",
+            "Site_Name": "大園鄉五塊厝段下埔小段767地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272268,
+            "CoorY": 2769530,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11122",
+            "Site_Name": "大園鄉五塊厝段下埔小段772地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272307,
+            "CoorY": 2769430,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11123",
+            "Site_Name": "大園鄉五塊厝段下埔小段774地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272326,
+            "CoorY": 2769378,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11124",
+            "Site_Name": "大園鄉五塊厝段下埔小段775地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272326,
+            "CoorY": 2769378,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11125",
+            "Site_Name": "大園鄉五塊厝段下埔小段791地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272412,
+            "CoorY": 2769142,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11126",
+            "Site_Name": "大園鄉五塊厝段下埔小段818地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272320,
+            "CoorY": 2769086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11127",
+            "Site_Name": "大園鄉五塊厝段下埔小段819地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272320,
+            "CoorY": 2769086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11128",
+            "Site_Name": "大園鄉五塊厝段下埔小段820地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272320,
+            "CoorY": 2769086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11111",
+            "Site_Name": "大園鄉五塊厝段下埔小段981-3地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272452,
+            "CoorY": 2768778,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H11105",
+            "Site_Name": "大園鄉五塊厝段下埔小段769-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272288,
+            "CoorY": 2769476,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10970",
+            "Site_Name": "大園鄉五塊厝段下埔小段788地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272418,
+            "CoorY": 2769186,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10960",
+            "Site_Name": "大園鄉五塊厝段下埔小段667地號",
+            "Kind_No": "Farm",
+            "CoorX": 272567,
+            "CoorY": 2769332,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10947",
+            "Site_Name": "大園鄉五塊厝段下埔小段594地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272624,
+            "CoorY": 2769320,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

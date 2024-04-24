@@ -1,0 +1,189 @@
+{
+    "PageNo": 28,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10064",
+            "Site_Name": "臺南市南區興農段0649-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167264,
+            "CoorY": 2536442,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10062",
+            "Site_Name": "臺南市南區興農段0632-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 167342,
+            "CoorY": 2536621,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10197",
+            "Site_Name": "臺南市南區同安段0079-0004地號",
+            "Kind_No": "Other",
+            "CoorX": 166964,
+            "CoorY": 2536102,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10218",
+            "Site_Name": "臺南市南區同安段0079-0003地號",
+            "Kind_No": "Other",
+            "CoorX": 166984,
+            "CoorY": 2536102,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10219",
+            "Site_Name": "臺南市南區同安段0079-0005地號",
+            "Kind_No": "Other",
+            "CoorX": 167003,
+            "CoorY": 2536100,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10040",
+            "Site_Name": "臺南市南區同安段0084-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166940,
+            "CoorY": 2536005,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10041",
+            "Site_Name": "臺南市南區同安段0085-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166944,
+            "CoorY": 2536044,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10042",
+            "Site_Name": "臺南市南區同安段0086-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166947,
+            "CoorY": 2536065,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10043",
+            "Site_Name": "臺南市南區同安段0087-0003地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166953,
+            "CoorY": 2536162,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10054",
+            "Site_Name": "臺南市南區同安段0657-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166517,
+            "CoorY": 2535851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10051",
+            "Site_Name": "臺南市南區同安段0628-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166601,
+            "CoorY": 2535824,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10045",
+            "Site_Name": "臺南市南區同安段0118-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 166911,
+            "CoorY": 2536140,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "D10047",
+            "Site_Name": "臺南市南區同安段0124-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 166920,
+            "CoorY": 2536131,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10677",
+            "Site_Name": "高雄市楠梓區和平段二小段726地號",
+            "Kind_No": "Factory",
+            "CoorX": 177969,
+            "CoorY": 2513723,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10678",
+            "Site_Name": "高雄市楠梓區和平段二小段720、723、722(部分)、 737-2(部分)及738(部分)地號",
+            "Kind_No": "Factory",
+            "CoorX": 178140,
+            "CoorY": 2513640,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10359",
+            "Site_Name": "龍懋電子股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 291471,
+            "CoorY": 2767803,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13272",
+            "Site_Name": "勝暉化成股份有限公司中壢廠",
+            "Kind_No": "Factory",
+            "CoorX": 271585,
+            "CoorY": 2763300,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14033",
+            "Site_Name": "彰化縣和美鎮大霞段1637-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198327,
+            "CoorY": 2664764,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N16257",
+            "Site_Name": "彰化縣花壇鄉華南段0031-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 203978,
+            "CoorY": 2657642,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13969",
+            "Site_Name": "彰化縣線西鄉富貴段0099-0000地號(1050623修正公告)",
+            "Kind_No": "Tank",
+            "CoorX": 191906,
+            "CoorY": 2669799,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

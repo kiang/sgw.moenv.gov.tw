@@ -1,0 +1,189 @@
+{
+    "PageNo": 190,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N13488",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1726-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195432,
+            "CoorY": 2666577,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13423",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1259-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195753,
+            "CoorY": 2665414,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13437",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1273-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195559,
+            "CoorY": 2665448,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13435",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1269-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195540,
+            "CoorY": 2665371,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13433",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1260-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 195755,
+            "CoorY": 2665432,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13429",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1259-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 195757,
+            "CoorY": 2665424,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "M00003",
+            "Site_Name": "南投縣南投市牛運堀段32-6地號",
+            "Kind_No": "Farm",
+            "CoorX": 218116,
+            "CoorY": 2645782,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "M00004",
+            "Site_Name": "南投縣南投市牛運堀段37地號",
+            "Kind_No": "Farm",
+            "CoorX": 218013,
+            "CoorY": 2645683,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H13268",
+            "Site_Name": "原加得滿股份有限公司龍潭交流道加油站 併入中華石油股份有限公司  103年新增",
+            "Kind_No": "Gas",
+            "CoorX": 272261,
+            "CoorY": 2749736,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "G10051",
+            "Site_Name": "宜蘭市凱旋段1049地號(上德加油站)地下水污染改善案",
+            "Kind_No": "Gas",
+            "CoorX": 327453,
+            "CoorY": 2736101,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N14001",
+            "Site_Name": "彰化縣鹿港鎮鹿鳴段1510-0002地號",
+            "Kind_No": "Farm",
+            "CoorX": 195469,
+            "CoorY": 2665630,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10315",
+            "Site_Name": "全國加油站股份有限公司八德交流道加油站",
+            "Kind_No": "Gas",
+            "CoorX": 282146,
+            "CoorY": 2761167,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10293",
+            "Site_Name": "銢嘉龍潭示範加油站",
+            "Kind_No": "Gas",
+            "CoorX": 271223,
+            "CoorY": 2750835,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "M10062",
+            "Site_Name": "盈銓興業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 216502,
+            "CoorY": 2646621,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "P10732",
+            "Site_Name": "台灣色料廠有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 191226,
+            "CoorY": 2623624,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00960",
+            "Site_Name": "台亞石油股份有限公司台亞大肚橋站",
+            "Kind_No": "Gas",
+            "CoorX": 206635,
+            "CoorY": 2665951,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "F10120",
+            "Site_Name": "全國新五路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 294536,
+            "CoorY": 2772583,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "Q10156",
+            "Site_Name": "嘉義縣台糖惠生加油站 ",
+            "Kind_No": "Gas",
+            "CoorX": 168134,
+            "CoorY": 2595416,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00245",
+            "Site_Name": "桃園縣中壢市內壢段600地號(部分區域)",
+            "Kind_No": "Farm",
+            "CoorX": 275121,
+            "CoorY": 2766060,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N13880",
+            "Site_Name": "彰化縣花壇鄉長沙段0324-0001地號",
+            "Kind_No": "Farm",
+            "CoorX": 203759,
+            "CoorY": 2658335,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

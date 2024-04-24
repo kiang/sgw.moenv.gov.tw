@@ -1,0 +1,189 @@
+{
+    "PageNo": 268,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10441",
+            "Site_Name": "大園鄉埔心段三塊厝小段452地號",
+            "Kind_No": "Farm",
+            "CoorX": 273254,
+            "CoorY": 2770275,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10475",
+            "Site_Name": "大園鄉埔心段三塊厝小段2(日據時代)地號",
+            "Kind_No": "Farm",
+            "CoorX": 273569,
+            "CoorY": 2770723,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10487",
+            "Site_Name": "大園鄉埔心段三塊厝小段238地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273859,
+            "CoorY": 2770059,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10503",
+            "Site_Name": "大園鄉埔心段三塊厝小段298地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273825,
+            "CoorY": 2770088,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10512",
+            "Site_Name": "大園鄉埔心段三塊厝小段392地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273629,
+            "CoorY": 2769970,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10558",
+            "Site_Name": "大園鄉埔心段三塊厝小段397-3地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273507,
+            "CoorY": 2770002,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10559",
+            "Site_Name": "大園鄉埔心段三塊厝小段397-2地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273536,
+            "CoorY": 2770002,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10561",
+            "Site_Name": "大園鄉埔心段三塊厝小段397-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273520,
+            "CoorY": 2769965,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10562",
+            "Site_Name": "大園鄉埔心段三塊厝小段396地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273521,
+            "CoorY": 2769963,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10572",
+            "Site_Name": "大園鄉埔心段三塊厝小段453地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273254,
+            "CoorY": 2770275,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10570",
+            "Site_Name": "大園鄉埔心段三塊厝小段454地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273308,
+            "CoorY": 2770302,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10516",
+            "Site_Name": "大園鄉埔心段三塊厝小段397地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273535,
+            "CoorY": 2770002,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10514",
+            "Site_Name": "大園鄉埔心段三塊厝小段395地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 273580,
+            "CoorY": 2769993,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10596",
+            "Site_Name": "大園鄉埔心段埔心小段725地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272868,
+            "CoorY": 2770449,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10603",
+            "Site_Name": "大園鄉埔心段埔心小段730地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272941,
+            "CoorY": 2770343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10604",
+            "Site_Name": "大園鄉埔心段埔心小段732地號",
+            "Kind_No": "Farm",
+            "CoorX": 272941,
+            "CoorY": 2770343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10598",
+            "Site_Name": "大園鄉埔心段埔心小段726地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272868,
+            "CoorY": 2770449,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10599",
+            "Site_Name": "大園鄉埔心段埔心小段727地號",
+            "Kind_No": "Farm",
+            "CoorX": 272902,
+            "CoorY": 2770400,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10600",
+            "Site_Name": "大園鄉埔心段埔心小段728地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272902,
+            "CoorY": 2770400,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10601",
+            "Site_Name": "大園鄉埔心段埔心小段729地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272941,
+            "CoorY": 2770343,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 258,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H12349",
+            "Site_Name": "大園鄉埔心段埔心小段1120地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272259,
+            "CoorY": 2770938,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12350",
+            "Site_Name": "大園鄉埔心段埔心小段1121地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272229,
+            "CoorY": 2771005,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12351",
+            "Site_Name": "大園鄉埔心段埔心小段1121-1地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272229,
+            "CoorY": 2771005,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12352",
+            "Site_Name": "大園鄉埔心段埔心小段1125地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272212,
+            "CoorY": 2771034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12353",
+            "Site_Name": "大園鄉埔心段埔心小段1126地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272212,
+            "CoorY": 2771034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12354",
+            "Site_Name": "大園鄉埔心段埔心小段1127地號",
+            "Kind_No": "Farm",
+            "CoorX": 272212,
+            "CoorY": 2771034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12355",
+            "Site_Name": "大園鄉埔心段埔心小段1128地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272212,
+            "CoorY": 2771034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12356",
+            "Site_Name": "大園鄉埔心段埔心小段1129地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272201,
+            "CoorY": 2771060,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12357",
+            "Site_Name": "大園鄉埔心段埔心小段1130地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272201,
+            "CoorY": 2771060,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12344",
+            "Site_Name": "大園鄉埔心段埔心小段1115地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272301,
+            "CoorY": 2770851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12345",
+            "Site_Name": "大園鄉埔心段埔心小段1116地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272301,
+            "CoorY": 2770851,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12346",
+            "Site_Name": "大園鄉埔心段埔心小段1117地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 272291,
+            "CoorY": 2770877,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12485",
+            "Site_Name": "大園鄉埔心段埔心小段1825地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271867,
+            "CoorY": 2769995,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12486",
+            "Site_Name": "大園鄉埔心段埔心小段1826地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271872,
+            "CoorY": 2769974,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12487",
+            "Site_Name": "大園鄉埔心段埔心小段1828地號(部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 271890,
+            "CoorY": 2769940,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12592",
+            "Site_Name": "大園鄉埔心段海豐坡小段303地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271865,
+            "CoorY": 2772740,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12593",
+            "Site_Name": "大園鄉埔心段海豐坡小段304地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271865,
+            "CoorY": 2772740,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12594",
+            "Site_Name": "大園鄉埔心段海豐坡小段306地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271811,
+            "CoorY": 2772795,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12595",
+            "Site_Name": "大園鄉埔心段海豐坡小段307地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271811,
+            "CoorY": 2772795,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H12565",
+            "Site_Name": "大園鄉埔心段海豐坡小段266地號(部分坵塊) ",
+            "Kind_No": "Farm",
+            "CoorX": 271918,
+            "CoorY": 2772833,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

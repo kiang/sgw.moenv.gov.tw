@@ -1,0 +1,189 @@
+{
+    "PageNo": 292,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B10193",
+            "Site_Name": "台中市大里區中興段500地號",
+            "Kind_No": "Farm",
+            "CoorX": 217090,
+            "CoorY": 2665359,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10194",
+            "Site_Name": "臺中市大里區中興段501地號",
+            "Kind_No": "Farm",
+            "CoorX": 217101,
+            "CoorY": 2665346,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10200",
+            "Site_Name": "臺中市大里區中興段602地號",
+            "Kind_No": "Farm",
+            "CoorX": 216735,
+            "CoorY": 2665184,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10182",
+            "Site_Name": "台中市大里區中興段447地號",
+            "Kind_No": "Farm",
+            "CoorX": 217206,
+            "CoorY": 2665470,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10183",
+            "Site_Name": "台中市大里區中興段448地號",
+            "Kind_No": "Farm",
+            "CoorX": 217192,
+            "CoorY": 2665484,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10184",
+            "Site_Name": "台中市大里區中興段449地號",
+            "Kind_No": "Farm",
+            "CoorX": 217181,
+            "CoorY": 2665497,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10213",
+            "Site_Name": "台中市霧峰區吳厝段43-38地號",
+            "Kind_No": "Farm",
+            "CoorX": 215967,
+            "CoorY": 2664329,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10214",
+            "Site_Name": "台中市霧峰區吳厝段43-54地號",
+            "Kind_No": "Farm",
+            "CoorX": 215972,
+            "CoorY": 2664304,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10215",
+            "Site_Name": "台中市霧峰區吳厝段43-155地號",
+            "Kind_No": "Farm",
+            "CoorX": 216011,
+            "CoorY": 2664284,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10216",
+            "Site_Name": "台中市霧峰區吳厝段43-156地號",
+            "Kind_No": "Farm",
+            "CoorX": 215930,
+            "CoorY": 2664293,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10217",
+            "Site_Name": "台中市霧峰區吳厝段43-57地號",
+            "Kind_No": "Farm",
+            "CoorX": 215737,
+            "CoorY": 2664430,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10218",
+            "Site_Name": "台中市霧峰區吳厝段43-81地號",
+            "Kind_No": "Farm",
+            "CoorX": 215596,
+            "CoorY": 2664536,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10219",
+            "Site_Name": "台中市霧峰區吳厝段43-71地號",
+            "Kind_No": "Farm",
+            "CoorX": 215547,
+            "CoorY": 2664504,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10220",
+            "Site_Name": "台中市霧峰區吳厝段43-72地號",
+            "Kind_No": "Farm",
+            "CoorX": 215529,
+            "CoorY": 2664544,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10221",
+            "Site_Name": "台中市霧峰區吳厝段43-209地號",
+            "Kind_No": "Farm",
+            "CoorX": 215438,
+            "CoorY": 2664510,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10222",
+            "Site_Name": "台中市霧峰區吳厝段43-210地號",
+            "Kind_No": "Farm",
+            "CoorX": 215459,
+            "CoorY": 2664545,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10223",
+            "Site_Name": "台中市霧峰區吳厝段43-32地號",
+            "Kind_No": "Farm",
+            "CoorX": 215702,
+            "CoorY": 2664534,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10224",
+            "Site_Name": "台中市霧峰區吳厝段43-34地號",
+            "Kind_No": "Farm",
+            "CoorX": 215793,
+            "CoorY": 2664483,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10225",
+            "Site_Name": "台中市霧峰區吳厝段43-36地號",
+            "Kind_No": "Farm",
+            "CoorX": 215753,
+            "CoorY": 2664438,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10122",
+            "Site_Name": "大里區詹厝園段160-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216906,
+            "CoorY": 2665203,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

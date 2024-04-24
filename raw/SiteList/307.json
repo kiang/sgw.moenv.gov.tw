@@ -1,0 +1,189 @@
+{
+    "PageNo": 307,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10037",
+            "Site_Name": "新屋鄉石磊子段水流小段482地號",
+            "Kind_No": "Farm",
+            "CoorX": 258519,
+            "CoorY": 2765557,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10038",
+            "Site_Name": "新屋鄉石磊子段水流小段485地號",
+            "Kind_No": "Farm",
+            "CoorX": 258435,
+            "CoorY": 2765518,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10039",
+            "Site_Name": "新屋鄉石磊子段水流小段488地號",
+            "Kind_No": "Farm",
+            "CoorX": 258504,
+            "CoorY": 2765474,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10096",
+            "Site_Name": "臺中市神岡區三角子段53-2地號",
+            "Kind_No": "Farm",
+            "CoorX": 218624,
+            "CoorY": 2682047,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10097",
+            "Site_Name": "臺中市神岡區三角子段53-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218559,
+            "CoorY": 2682028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10098",
+            "Site_Name": "臺中市神岡區三角子段53-6(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218606,
+            "CoorY": 2682020,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10099",
+            "Site_Name": "臺中市神岡區三角子段53-7(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218608,
+            "CoorY": 2681950,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10100",
+            "Site_Name": "臺中市神岡區三角子段53-24(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 218566,
+            "CoorY": 2681964,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10155",
+            "Site_Name": "大里區中興段563地號",
+            "Kind_No": "Farm",
+            "CoorX": 216906,
+            "CoorY": 2665237,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10156",
+            "Site_Name": "臺中市大里區中興段564地號",
+            "Kind_No": "Farm",
+            "CoorX": 215775,
+            "CoorY": 2665208,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10157",
+            "Site_Name": "大里區中興段598地號",
+            "Kind_No": "Farm",
+            "CoorX": 216866,
+            "CoorY": 2665200,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10158",
+            "Site_Name": "大里區中興段697地號",
+            "Kind_No": "Farm",
+            "CoorX": 216673,
+            "CoorY": 2664990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10169",
+            "Site_Name": "大里區中興段744地號",
+            "Kind_No": "Farm",
+            "CoorX": 216566,
+            "CoorY": 2664947,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10173",
+            "Site_Name": "大里區中興段746地號",
+            "Kind_No": "Farm",
+            "CoorX": 216508,
+            "CoorY": 2664944,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10174",
+            "Site_Name": "大里區中興段747地號",
+            "Kind_No": "Farm",
+            "CoorX": 216505,
+            "CoorY": 2664951,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10161",
+            "Site_Name": "大里區中興段696地號",
+            "Kind_No": "Farm",
+            "CoorX": 216612,
+            "CoorY": 2664993,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10162",
+            "Site_Name": "大里區中興段701地號",
+            "Kind_No": "Farm",
+            "CoorX": 216607,
+            "CoorY": 2664990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10163",
+            "Site_Name": "大里區中興段699地號",
+            "Kind_No": "Farm",
+            "CoorX": 216620,
+            "CoorY": 2664961,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10152",
+            "Site_Name": "臺中市大里區中興段533地號",
+            "Kind_No": "Farm",
+            "CoorX": 216952,
+            "CoorY": 2665267,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10153",
+            "Site_Name": "大里區中興段531地號",
+            "Kind_No": "Farm",
+            "CoorX": 216971,
+            "CoorY": 2665245,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

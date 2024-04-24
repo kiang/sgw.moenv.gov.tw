@@ -1,0 +1,189 @@
+{
+    "PageNo": 309,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B10121",
+            "Site_Name": "大里區詹厝園段171-9(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216366,
+            "CoorY": 2664911,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10085",
+            "Site_Name": "臺中市大里區詹厝園段170-5(部分)地號-2",
+            "Kind_No": "Farm",
+            "CoorX": 215607,
+            "CoorY": 2664940,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10051",
+            "Site_Name": "神岡區前寮段241(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220052,
+            "CoorY": 2683849,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10052",
+            "Site_Name": "神岡區前寮段234(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220056,
+            "CoorY": 2683899,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10053",
+            "Site_Name": "神岡區前寮段88(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220124,
+            "CoorY": 2683893,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10054",
+            "Site_Name": "神岡區前寮段259(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220107,
+            "CoorY": 2683877,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10055",
+            "Site_Name": "神岡區前寮段259-1(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220104,
+            "CoorY": 2683872,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10056",
+            "Site_Name": "神岡區前寮段234(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220077,
+            "CoorY": 2683871,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10057",
+            "Site_Name": "神岡區前寮段241(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220067,
+            "CoorY": 2683852,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10058",
+            "Site_Name": "神岡區前寮段242(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220067,
+            "CoorY": 2683849,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10059",
+            "Site_Name": "神岡區前寮段259(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220107,
+            "CoorY": 2683893,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10060",
+            "Site_Name": "神岡區前寮段260(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220101,
+            "CoorY": 2683895,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10061",
+            "Site_Name": "神岡區前寮段88(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220124,
+            "CoorY": 2683890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10062",
+            "Site_Name": "神岡區前寮段259-1(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220077,
+            "CoorY": 2683879,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10063",
+            "Site_Name": "神岡區前寮段258(部份之2)",
+            "Kind_No": "Farm",
+            "CoorX": 220110,
+            "CoorY": 2683881,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10064",
+            "Site_Name": "神岡區前寮段258(部份)",
+            "Kind_No": "Farm",
+            "CoorX": 220078,
+            "CoorY": 2683886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00254",
+            "Site_Name": "桃園縣中壢市內壢段1299地號",
+            "Kind_No": "Farm",
+            "CoorX": 274217,
+            "CoorY": 2766289,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00255",
+            "Site_Name": "桃園縣中壢市內壢段1300地號",
+            "Kind_No": "Farm",
+            "CoorX": 274206,
+            "CoorY": 2766306,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00256",
+            "Site_Name": "桃園縣中壢市內壢段1301地號",
+            "Kind_No": "Farm",
+            "CoorX": 274198,
+            "CoorY": 2766324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00066",
+            "Site_Name": "桃園縣蘆竹鄉中興段676地號",
+            "Kind_No": "Farm",
+            "CoorX": 275141,
+            "CoorY": 2767939,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

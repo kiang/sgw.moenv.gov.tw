@@ -1,0 +1,189 @@
+{
+    "PageNo": 287,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10831",
+            "Site_Name": "蘆竹鄉新庄子段1965地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275069,
+            "CoorY": 2768252,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00024",
+            "Site_Name": "桃園縣蘆竹鄉新庄子段1965地號",
+            "Kind_No": "Farm",
+            "CoorX": 275127,
+            "CoorY": 2768258,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00062",
+            "Site_Name": "桃園縣蘆竹鄉中興段674地號",
+            "Kind_No": "Farm",
+            "CoorX": 275195,
+            "CoorY": 2767953,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00065",
+            "Site_Name": "桃園縣蘆竹鄉中興段673地號",
+            "Kind_No": "Farm",
+            "CoorX": 275141,
+            "CoorY": 2767926,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00049",
+            "Site_Name": "桃園縣蘆竹鄉中興段577地號",
+            "Kind_No": "Farm",
+            "CoorX": 275379,
+            "CoorY": 2767642,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00086",
+            "Site_Name": "桃園縣蘆竹鄉中興段662地號",
+            "Kind_No": "Farm",
+            "CoorX": 275228,
+            "CoorY": 2767708,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00087",
+            "Site_Name": "桃園縣蘆竹鄉中興段661地號",
+            "Kind_No": "Farm",
+            "CoorX": 275265,
+            "CoorY": 2767690,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H00266",
+            "Site_Name": "桃園縣蘆竹市內興段308地號(原桃園縣蘆竹鄉南崁內厝段內厝小段21-55地號)",
+            "Kind_No": "Farm",
+            "CoorX": 277830,
+            "CoorY": 2773971,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10248",
+            "Site_Name": "大園鄉五塊厝段下埔小段1575地號",
+            "Kind_No": "Farm",
+            "CoorX": 272848,
+            "CoorY": 2767506,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10243",
+            "Site_Name": "大園鄉五塊厝段下埔小段981-4地號",
+            "Kind_No": "Farm",
+            "CoorX": 272524,
+            "CoorY": 2768785,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10277",
+            "Site_Name": "大里區詹厝園段171(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216350,
+            "CoorY": 2664894,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10384",
+            "Site_Name": "大里區詹厝園段176-139(部分)地號-95",
+            "Kind_No": "Farm",
+            "CoorX": 216092,
+            "CoorY": 2665084,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10355",
+            "Site_Name": "大里區詹厝園段201-4(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215816,
+            "CoorY": 2664724,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10364",
+            "Site_Name": "大里區詹厝園段176-139(部分)地號-94",
+            "Kind_No": "Farm",
+            "CoorX": 216059,
+            "CoorY": 2665124,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10360",
+            "Site_Name": "大里區詹厝園段190(部分)地號-99",
+            "Kind_No": "Farm",
+            "CoorX": 216172,
+            "CoorY": 2664774,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10357",
+            "Site_Name": "大里區詹厝園段200(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 215786,
+            "CoorY": 2664750,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10343",
+            "Site_Name": "大里區詹厝園段206(部分)地號-115",
+            "Kind_No": "Farm",
+            "CoorX": 216194,
+            "CoorY": 2664549,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10325",
+            "Site_Name": "臺中市大里區詹厝園段10-1(部分)地號-5",
+            "Kind_No": "Farm",
+            "CoorX": 216811,
+            "CoorY": 2664905,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10326",
+            "Site_Name": "大里區詹厝園段無地號國有地(部分)-5",
+            "Kind_No": "Farm",
+            "CoorX": 216811,
+            "CoorY": 2664905,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10327",
+            "Site_Name": "大里區詹厝園段10-1地號(部分)-6",
+            "Kind_No": "Farm",
+            "CoorX": 216788,
+            "CoorY": 2664913,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

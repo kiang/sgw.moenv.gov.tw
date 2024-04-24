@@ -1,0 +1,189 @@
+{
+    "PageNo": 184,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "L10075",
+            "Site_Name": "臺中市烏日區同安厝段335(部分)地號(坵塊2部分)(重測後臺中市烏日區溪尾北段203(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212088,
+            "CoorY": 2661034,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10028",
+            "Site_Name": "臺中市烏日區同安厝段346-2地號(重測後臺中市烏日區溪尾北段263地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212196,
+            "CoorY": 2660962,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10034",
+            "Site_Name": "臺中市烏日區同安厝段254-1地號(重測後臺中市烏日區溪尾北段237地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212359,
+            "CoorY": 2661050,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10026",
+            "Site_Name": "臺中市烏日區同安厝段348-1地號(重測後臺中市烏日區溪尾北段290地號)",
+            "Kind_No": "Farm",
+            "CoorX": 212133,
+            "CoorY": 2660925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11607",
+            "Site_Name": "臺中市大里區夏田西段768地號",
+            "Kind_No": "Farm",
+            "CoorX": 216481,
+            "CoorY": 2664609,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11608",
+            "Site_Name": "臺中市大里區夏田西段789地號",
+            "Kind_No": "Farm",
+            "CoorX": 216476,
+            "CoorY": 2664554,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11597",
+            "Site_Name": "臺中市大甲區順帆段448地號",
+            "Kind_No": "Farm",
+            "CoorX": 213614,
+            "CoorY": 2700456,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11601",
+            "Site_Name": "臺中市大里區國中段400(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217634,
+            "CoorY": 2665249,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11518",
+            "Site_Name": "臺中市大里區夏田西段788地號",
+            "Kind_No": "Farm",
+            "CoorX": 216481,
+            "CoorY": 2664551,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11509",
+            "Site_Name": "臺中市大里區夏田西段571(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216025,
+            "CoorY": 2664743,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11462",
+            "Site_Name": "臺中市大里區國中段398(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 220664,
+            "CoorY": 2666519,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11463",
+            "Site_Name": "臺中市大里區國中段429(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 217592,
+            "CoorY": 2665284,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11465",
+            "Site_Name": "臺中市大里區夏田東段221(部分)地號(原臺中市大里區大突寮段253地號-1)",
+            "Kind_No": "Farm",
+            "CoorX": 217606,
+            "CoorY": 2665254,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N11403",
+            "Site_Name": "彰化市聯興段0788-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 208588,
+            "CoorY": 2661822,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10956",
+            "Site_Name": "彰化縣和美鎮嘉安段0052-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201712,
+            "CoorY": 2666375,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10933",
+            "Site_Name": "彰化縣和美鎮嘉安段0026-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201657,
+            "CoorY": 2666407,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10934",
+            "Site_Name": "彰化縣和美鎮嘉安段0029-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201664,
+            "CoorY": 2666503,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10935",
+            "Site_Name": "彰化縣和美鎮嘉安段0044-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201670,
+            "CoorY": 2666501,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10936",
+            "Site_Name": "彰化縣和美鎮嘉安段0045-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201709,
+            "CoorY": 2666466,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10937",
+            "Site_Name": "彰化縣和美鎮嘉安段0049-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201764,
+            "CoorY": 2666482,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "PageNo": 13,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10063",
+            "Site_Name": "臺南市南區興農段0636-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167317,
+            "CoorY": 2536557,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10065",
+            "Site_Name": "臺南市南區興農段0654-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167292,
+            "CoorY": 2536488,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10066",
+            "Site_Name": "臺南市南區興農段0656-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167295,
+            "CoorY": 2536489,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10067",
+            "Site_Name": "臺南市南區興農段0665-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167315,
+            "CoorY": 2536336,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10069",
+            "Site_Name": "臺南市南區興農段0732-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167113,
+            "CoorY": 2536353,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10070",
+            "Site_Name": "臺南市南區興農段0733-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 167104,
+            "CoorY": 2536334,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10071",
+            "Site_Name": "臺南市南區興農段0736-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167054,
+            "CoorY": 2536379,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10074",
+            "Site_Name": "臺南市南區興農段0756-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167017,
+            "CoorY": 2536416,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10034",
+            "Site_Name": "臺南市南區同安段0075-0001地號",
+            "Kind_No": "Other",
+            "CoorX": 166966,
+            "CoorY": 2536178,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10035",
+            "Site_Name": "臺南市南區同安段0078-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 166989,
+            "CoorY": 2536131,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10037",
+            "Site_Name": "臺南市南區同安段0079-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 166979,
+            "CoorY": 2536111,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10039",
+            "Site_Name": "臺南市南區同安段0079-0002地號",
+            "Kind_No": "Other",
+            "CoorX": 167002,
+            "CoorY": 2536104,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10049",
+            "Site_Name": "臺南市南區同安段0181-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166732,
+            "CoorY": 2536269,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10050",
+            "Site_Name": "臺南市南區同安段0183-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 166718,
+            "CoorY": 2536232,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10053",
+            "Site_Name": "臺南市南區同安段0653-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166496,
+            "CoorY": 2535830,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10055",
+            "Site_Name": "臺南市南區同安段0658-0000地號 ",
+            "Kind_No": "Other",
+            "CoorX": 166528,
+            "CoorY": 2535897,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10058",
+            "Site_Name": "臺南市南區興農段0424-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167221,
+            "CoorY": 2536629,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10059",
+            "Site_Name": "臺南市南區興農段0433-0000地號",
+            "Kind_No": "Other",
+            "CoorX": 167241,
+            "CoorY": 2536637,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H10024",
+            "Site_Name": "欣榮建業股份有限公司所有原欣榮鋼鐵股份有限公司工廠用地",
+            "Kind_No": "Factory",
+            "CoorX": 273923,
+            "CoorY": 2759302,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N10032",
+            "Site_Name": "寶群加油站有限公司",
+            "Kind_No": "Gas",
+            "CoorX": 197701,
+            "CoorY": 2668200,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

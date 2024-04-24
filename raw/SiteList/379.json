@@ -1,0 +1,189 @@
+{
+    "PageNo": 379,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00380",
+            "Site_Name": "彰化縣和美鎮大嘉段1237地號",
+            "Kind_No": "Farm",
+            "CoorX": 200230,
+            "CoorY": 2665727,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00220",
+            "Site_Name": "彰化縣彰化市莿桐段0905地號",
+            "Kind_No": "Farm",
+            "CoorX": 200509,
+            "CoorY": 2662028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00221",
+            "Site_Name": "彰化縣彰化市莿桐段0907地號",
+            "Kind_No": "Farm",
+            "CoorX": 200490,
+            "CoorY": 2662028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00227",
+            "Site_Name": "彰化縣彰化市莿桐段0956地號",
+            "Kind_No": "Farm",
+            "CoorX": 200519,
+            "CoorY": 2661925,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00228",
+            "Site_Name": "彰化縣彰化市莿桐段1006地號",
+            "Kind_No": "Farm",
+            "CoorX": 200409,
+            "CoorY": 2661515,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00229",
+            "Site_Name": "彰化縣彰化市莿桐段1148地號",
+            "Kind_No": "Farm",
+            "CoorX": 200979,
+            "CoorY": 2661895,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00230",
+            "Site_Name": "彰化縣彰化市莿桐段1240-0006地號",
+            "Kind_No": "Farm",
+            "CoorX": 201233,
+            "CoorY": 2662118,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00231",
+            "Site_Name": "彰化縣彰化市莿桐段1574地號",
+            "Kind_No": "Farm",
+            "CoorX": 200288,
+            "CoorY": 2661295,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00232",
+            "Site_Name": "彰化縣彰化市莿桐段1575地號",
+            "Kind_No": "Farm",
+            "CoorX": 200306,
+            "CoorY": 2661324,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00233",
+            "Site_Name": "彰化縣彰化市莿桐段1713地號",
+            "Kind_No": "Farm",
+            "CoorX": 200042,
+            "CoorY": 2661822,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00234",
+            "Site_Name": "彰化縣彰化市莿桐段1903地號",
+            "Kind_No": "Farm",
+            "CoorX": 200221,
+            "CoorY": 2661407,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00235",
+            "Site_Name": "彰化縣彰化市彰興段0013地號",
+            "Kind_No": "Farm",
+            "CoorX": 199901,
+            "CoorY": 2663500,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00236",
+            "Site_Name": "彰化縣彰化市彰興段0023地號",
+            "Kind_No": "Farm",
+            "CoorX": 199823,
+            "CoorY": 2663599,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00237",
+            "Site_Name": "彰化縣彰化市彰興段0106地號",
+            "Kind_No": "Farm",
+            "CoorX": 199900,
+            "CoorY": 2663467,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00238",
+            "Site_Name": "彰化縣彰化市彰興段0107地號",
+            "Kind_No": "Farm",
+            "CoorX": 199898,
+            "CoorY": 2663438,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00239",
+            "Site_Name": "彰化縣彰化市彰興段0108地號",
+            "Kind_No": "Farm",
+            "CoorX": 199898,
+            "CoorY": 2663411,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00240",
+            "Site_Name": "彰化縣彰化市彰興段0109-0002地號(原彰化市彰興段0109地號)",
+            "Kind_No": "Farm",
+            "CoorX": 199897,
+            "CoorY": 2663361,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00218",
+            "Site_Name": "彰化縣彰化市莿桐段0893地號",
+            "Kind_No": "Farm",
+            "CoorX": 200638,
+            "CoorY": 2662027,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00215",
+            "Site_Name": "彰化縣彰化市莿桐段0883-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 200729,
+            "CoorY": 2661908,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00209",
+            "Site_Name": "彰化縣彰化市莿桐段0670地號",
+            "Kind_No": "Farm",
+            "CoorX": 199850,
+            "CoorY": 2662450,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

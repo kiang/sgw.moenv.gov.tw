@@ -1,0 +1,189 @@
+{
+    "PageNo": 277,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H10754",
+            "Site_Name": "蘆竹鄉新庄子段1521地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274796,
+            "CoorY": 2768596,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10828",
+            "Site_Name": "蘆竹鄉新庄子段1929-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275167,
+            "CoorY": 2768311,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10825",
+            "Site_Name": "蘆竹鄉新庄子段1926地號",
+            "Kind_No": "Farm",
+            "CoorX": 275130,
+            "CoorY": 2768359,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10830",
+            "Site_Name": "蘆竹鄉新庄子段1930-1地號",
+            "Kind_No": "Farm",
+            "CoorX": 275167,
+            "CoorY": 2768311,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10838",
+            "Site_Name": "蘆竹鄉新庄子段1972地號",
+            "Kind_No": "Farm",
+            "CoorX": 275019,
+            "CoorY": 2768344,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10839",
+            "Site_Name": "蘆竹鄉新庄子段1973地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275012,
+            "CoorY": 2768357,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10840",
+            "Site_Name": "蘆竹鄉新庄子段1975地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275012,
+            "CoorY": 2768357,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10841",
+            "Site_Name": "蘆竹鄉新庄子段1976地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275025,
+            "CoorY": 2768297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10842",
+            "Site_Name": "蘆竹鄉新庄子段1976-1地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275025,
+            "CoorY": 2768297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10843",
+            "Site_Name": "蘆竹鄉新庄子段1977地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275025,
+            "CoorY": 2768297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10844",
+            "Site_Name": "蘆竹鄉新庄子段1978地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 275025,
+            "CoorY": 2768297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10845",
+            "Site_Name": "蘆竹鄉新庄子段1979地號",
+            "Kind_No": "Farm",
+            "CoorX": 275026,
+            "CoorY": 2768290,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10846",
+            "Site_Name": "蘆竹鄉新庄子段1980地號",
+            "Kind_No": "Farm",
+            "CoorX": 275044,
+            "CoorY": 2768269,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10907",
+            "Site_Name": "蘆竹鄉新庄子段923地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274251,
+            "CoorY": 2769306,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10892",
+            "Site_Name": "蘆竹鄉新庄子段883地號 (部分坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274315,
+            "CoorY": 2769352,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10888",
+            "Site_Name": "蘆竹鄉新庄子段754地號 ",
+            "Kind_No": "Farm",
+            "CoorX": 274634,
+            "CoorY": 2769190,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10691",
+            "Site_Name": "蘆竹鄉新庄子段1014地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274137,
+            "CoorY": 2769208,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10692",
+            "Site_Name": "蘆竹鄉新庄子段1015地號(部份坵塊)",
+            "Kind_No": "Farm",
+            "CoorX": 274172,
+            "CoorY": 2769228,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10693",
+            "Site_Name": "蘆竹鄉新庄子段1016地號",
+            "Kind_No": "Farm",
+            "CoorX": 274158,
+            "CoorY": 2769188,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10694",
+            "Site_Name": "蘆竹鄉新庄子段1020地號",
+            "Kind_No": "Farm",
+            "CoorX": 274224,
+            "CoorY": 2769137,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

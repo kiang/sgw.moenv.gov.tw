@@ -1,0 +1,189 @@
+{
+    "PageNo": 390,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N00718",
+            "Site_Name": "彰化縣彰化市線東段0856地號(原彰化市西勢子段西勢子小段0288-0007地號)",
+            "Kind_No": "Farm",
+            "CoorX": 201366,
+            "CoorY": 2663990,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00719",
+            "Site_Name": "彰化縣彰化市線東段0858地號(原彰化市西勢子段西勢子小段0288-0008地號)",
+            "Kind_No": "Farm",
+            "CoorX": 201396,
+            "CoorY": 2664031,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00761",
+            "Site_Name": "彰化縣彰化市西勢子段西勢子小段0159-0015地號",
+            "Kind_No": "Farm",
+            "CoorX": 201933,
+            "CoorY": 2664297,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00762",
+            "Site_Name": "彰化縣彰化市南興段0672地號",
+            "Kind_No": "Farm",
+            "CoorX": 201812,
+            "CoorY": 2661536,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00763",
+            "Site_Name": "彰化縣彰化市南興段0679地號",
+            "Kind_No": "Farm",
+            "CoorX": 202012,
+            "CoorY": 2661606,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00764",
+            "Site_Name": "彰化縣彰化市南興段0717地號",
+            "Kind_No": "Farm",
+            "CoorX": 202264,
+            "CoorY": 2661639,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00668",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0017-0011地號",
+            "Kind_No": "Farm",
+            "CoorX": 203552,
+            "CoorY": 2661041,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00669",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0017-0012地號",
+            "Kind_No": "Farm",
+            "CoorX": 203475,
+            "CoorY": 2661067,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00670",
+            "Site_Name": "彰化縣花壇線北白沙坑段0994-0000地號(原彰化縣花壇鄉白沙坑段0017-0013地號)",
+            "Kind_No": "Farm",
+            "CoorX": 203561,
+            "CoorY": 2660987,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00671",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0017-0004地號",
+            "Kind_No": "Farm",
+            "CoorX": 203479,
+            "CoorY": 2661028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00672",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0017-0005地號",
+            "Kind_No": "Farm",
+            "CoorX": 203485,
+            "CoorY": 2660991,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00673",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0017地號",
+            "Kind_No": "Farm",
+            "CoorX": 203626,
+            "CoorY": 2661028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00674",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0032-0001號",
+            "Kind_No": "Farm",
+            "CoorX": 203404,
+            "CoorY": 2661059,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00675",
+            "Site_Name": "彰化縣花壇鄉白沙坑段0032-0002號",
+            "Kind_No": "Farm",
+            "CoorX": 203413,
+            "CoorY": 2661018,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00676",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0891-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198593,
+            "CoorY": 2660930,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00677",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0892地號",
+            "Kind_No": "Farm",
+            "CoorX": 198591,
+            "CoorY": 2660905,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00678",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0911-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198498,
+            "CoorY": 2660897,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00679",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0912地號",
+            "Kind_No": "Farm",
+            "CoorX": 198497,
+            "CoorY": 2660918,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00680",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0913-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 198496,
+            "CoorY": 2660947,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N00681",
+            "Site_Name": "彰化縣秀水鄉馬鳴段0945地號",
+            "Kind_No": "Farm",
+            "CoorX": 198398,
+            "CoorY": 2660810,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

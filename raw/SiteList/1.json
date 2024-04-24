@@ -1,0 +1,189 @@
+{
+    "PageNo": 1,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "N18499",
+            "Site_Name": "彰化市西門口段0348-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201620,
+            "CoorY": 2663126,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16429",
+            "Site_Name": "台灣中油股份有限公司煉製事業部桃園煉油廠",
+            "Kind_No": "Other",
+            "CoorX": 280878,
+            "CoorY": 2769646,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10259",
+            "Site_Name": "中國製釉股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 254925,
+            "CoorY": 2740720,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10654",
+            "Site_Name": "富億實業廠有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 176084,
+            "CoorY": 2543474,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10413",
+            "Site_Name": "新北市新莊區福營段819及820地號",
+            "Kind_No": "Factory",
+            "CoorX": 293671,
+            "CoorY": 2768939,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10411",
+            "Site_Name": "牛展工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 296840,
+            "CoorY": 2772252,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10412",
+            "Site_Name": "永灃工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 294390,
+            "CoorY": 2775613,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "J10213",
+            "Site_Name": "南港輪胎股份有限公司新豐廠",
+            "Kind_No": "Factory",
+            "CoorX": 250534,
+            "CoorY": 2752266,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "P10896",
+            "Site_Name": "台灣庵原農藥股份有限公司虎尾工廠",
+            "Kind_No": "Factory",
+            "CoorX": 195013,
+            "CoorY": 2625615,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10717",
+            "Site_Name": "永芳鐵鍊五金工廠股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 176253,
+            "CoorY": 2540454,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "C10096",
+            "Site_Name": "興業金屬股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 320537,
+            "CoorY": 2782592,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12378",
+            "Site_Name": "宏恕倉儲裝卸股份有限公司",
+            "Kind_No": "Tank",
+            "CoorX": 200273,
+            "CoorY": 2686315,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10702",
+            "Site_Name": "皇益興業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 179149,
+            "CoorY": 2521384,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10704",
+            "Site_Name": "金銧有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 174600,
+            "CoorY": 2540787,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "E10715",
+            "Site_Name": "志昱科技股份有限公司(高雄市前鎮區興邦段0313-0000地號)",
+            "Kind_No": "Factory",
+            "CoorX": 177310,
+            "CoorY": 2499905,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10414",
+            "Site_Name": "群龍工業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 297130,
+            "CoorY": 2771144,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10415",
+            "Site_Name": "新北市中和區民利段1283(部分)地號",
+            "Kind_No": "Other",
+            "CoorX": 298068,
+            "CoorY": 2765115,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18290",
+            "Site_Name": "彰化縣和美鎮大霞段1691-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198555,
+            "CoorY": 2664762,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18291",
+            "Site_Name": "彰化縣和美鎮大霞段1692-0000(西坵塊)地號",
+            "Kind_No": "Farm",
+            "CoorX": 198554,
+            "CoorY": 2664753,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10270",
+            "Site_Name": "苗栗縣竹南鎮新山佳段1220、1228地號",
+            "Kind_No": "Factory",
+            "CoorX": 237956,
+            "CoorY": 2732116,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}

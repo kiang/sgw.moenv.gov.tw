@@ -1,0 +1,189 @@
+{
+    "PageNo": 95,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "H14319",
+            "Site_Name": "桃園市蘆竹區內興段770(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276745,
+            "CoorY": 2773355,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14320",
+            "Site_Name": "桃園市蘆竹區內興段902(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276673,
+            "CoorY": 2773060,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14333",
+            "Site_Name": "桃園市蘆竹區內興段893(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276746,
+            "CoorY": 2773115,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14334",
+            "Site_Name": "桃園市蘆竹區內興段900、902(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276709,
+            "CoorY": 2773017,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14335",
+            "Site_Name": "桃園市蘆竹區內興段915(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276697,
+            "CoorY": 2772985,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14336",
+            "Site_Name": "桃園市蘆竹區內興段915(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276700,
+            "CoorY": 2772960,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14337",
+            "Site_Name": "桃園市蘆竹區內興段915(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276717,
+            "CoorY": 2772962,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14331",
+            "Site_Name": "桃園市蘆竹區內興段891、901(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276701,
+            "CoorY": 2773086,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14348",
+            "Site_Name": "桃園市蘆竹區內興段792、793、795(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276842,
+            "CoorY": 2773352,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14339",
+            "Site_Name": "桃園市蘆竹區內興段918(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276802,
+            "CoorY": 2772975,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14340",
+            "Site_Name": "桃園市蘆竹區內興段898、899(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276830,
+            "CoorY": 2773037,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "E10613",
+            "Site_Name": "前鎮區興邦段220地號",
+            "Kind_No": "Factory",
+            "CoorX": 177653,
+            "CoorY": 2499655,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14332",
+            "Site_Name": "桃園市蘆竹區內興段893(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276688,
+            "CoorY": 2773136,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14352",
+            "Site_Name": "桃園市蘆竹區內興段956(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276856,
+            "CoorY": 2773098,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14329",
+            "Site_Name": "桃園市蘆竹區內興段893(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276687,
+            "CoorY": 2773147,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14330",
+            "Site_Name": "桃園市蘆竹區內興段893(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276691,
+            "CoorY": 2773169,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14321",
+            "Site_Name": "桃園市蘆竹區內興段913(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276670,
+            "CoorY": 2772963,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14322",
+            "Site_Name": "桃園市蘆竹區內興段816、893(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276676,
+            "CoorY": 2773186,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14323",
+            "Site_Name": "桃園市蘆竹區內興段847(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276699,
+            "CoorY": 2773193,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H14326",
+            "Site_Name": "桃園市蘆竹區內興段819、847(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 276686,
+            "CoorY": 2773213,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

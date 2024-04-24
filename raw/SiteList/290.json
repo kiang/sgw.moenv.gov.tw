@@ -1,0 +1,189 @@
+{
+    "PageNo": 290,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "D10181",
+            "Site_Name": "全國新市站",
+            "Kind_No": "Gas",
+            "CoorX": 178564,
+            "CoorY": 2553121,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10034",
+            "Site_Name": "湖口鄉中勢段0008地號君朋加油站",
+            "Kind_No": "Gas",
+            "CoorX": 255421,
+            "CoorY": 2754788,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10195",
+            "Site_Name": "台中市大里區中興段503地號",
+            "Kind_No": "Farm",
+            "CoorX": 217050,
+            "CoorY": 2665322,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10196",
+            "Site_Name": "台中市大里區中興段504地號",
+            "Kind_No": "Farm",
+            "CoorX": 217036,
+            "CoorY": 2665336,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10197",
+            "Site_Name": "台中市大里區中興段505地號",
+            "Kind_No": "Farm",
+            "CoorX": 217024,
+            "CoorY": 2665350,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10185",
+            "Site_Name": "台中市大里區中興段470地號",
+            "Kind_No": "Farm",
+            "CoorX": 217142,
+            "CoorY": 2665461,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10186",
+            "Site_Name": "台中市大里區中興段471地號",
+            "Kind_No": "Farm",
+            "CoorX": 217153,
+            "CoorY": 2665448,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10187",
+            "Site_Name": "台中市大里區中興段472地號",
+            "Kind_No": "Farm",
+            "CoorX": 217197,
+            "CoorY": 2665434,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10188",
+            "Site_Name": "台中市大里區中興段473地號",
+            "Kind_No": "Farm",
+            "CoorX": 217128,
+            "CoorY": 2665397,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10189",
+            "Site_Name": "台中市大里區中興段474地號",
+            "Kind_No": "Farm",
+            "CoorX": 217113,
+            "CoorY": 2665411,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B10190",
+            "Site_Name": "台中市大里區中興段475地號",
+            "Kind_No": "Farm",
+            "CoorX": 217102,
+            "CoorY": 2665424,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "A00602",
+            "Site_Name": "台灣中油股份有限公司新生南路加油站",
+            "Kind_No": "Gas",
+            "CoorX": 303792,
+            "CoorY": 2770150,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "N10179",
+            "Site_Name": "彰化縣彰化市國聖里聖安路147號",
+            "Kind_No": "Factory",
+            "CoorX": 206224,
+            "CoorY": 2664982,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J10010",
+            "Site_Name": "台灣中華化學工業股份有限公司竹北廠",
+            "Kind_No": "Factory",
+            "CoorX": 245070,
+            "CoorY": 2748200,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "J00008",
+            "Site_Name": "新竹縣峨眉鄉富興段430-5、432-2、433、433-1、433-2、436-2、437、661、663-3及663-4地號等10筆土地",
+            "Kind_No": "Other",
+            "CoorX": 247861,
+            "CoorY": 2732389,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R10184",
+            "Site_Name": "台灣中油新中加油站",
+            "Kind_No": "Gas",
+            "CoorX": 182554,
+            "CoorY": 2562643,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "R00052",
+            "Site_Name": "帝統企業股份有限公司所有合誼加油站",
+            "Kind_No": "Gas",
+            "CoorX": 178934,
+            "CoorY": 2548928,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "H10016",
+            "Site_Name": "統一精工八德二站加油站",
+            "Kind_No": "Gas",
+            "CoorX": 277902,
+            "CoorY": 2760319,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10278",
+            "Site_Name": "大里區詹厝園段187-2",
+            "Kind_No": "Farm",
+            "CoorX": 216224,
+            "CoorY": 2664805,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "L10190",
+            "Site_Name": "大里區詹厝園段166-2(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 216576,
+            "CoorY": 2664886,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

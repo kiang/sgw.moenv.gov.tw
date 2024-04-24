@@ -1,0 +1,189 @@
+{
+    "PageNo": 243,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B11437",
+            "Site_Name": "臺中市大里區詹厝園段241(部分)地號(重測後臺中市大里區夏田西段842(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216026,
+            "CoorY": 2664530,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11458",
+            "Site_Name": "臺中市霧峰區吳厝段43-75(部分)地號(重測後臺中市霧峰區五福北段1238(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 215645,
+            "CoorY": 2664501,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11459",
+            "Site_Name": "臺中市霧峰區吳厝段43-30(部分)地號(重測後臺中市霧峰區五福北段1237(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 215665,
+            "CoorY": 2664501,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11460",
+            "Site_Name": "臺中市霧峰區吳厝段43-82(部分)地號(重測後臺中市霧峰區五福北段1232(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 215604,
+            "CoorY": 2664490,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11771",
+            "Site_Name": "臺中市大里區夏田東段651地號(部分)(原大里區詹厝園段無地號國有地) ",
+            "Kind_No": "Farm",
+            "CoorX": 216720,
+            "CoorY": 2664890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11555",
+            "Site_Name": "臺中市大里區夏田西段330地號(部分)(原台中市大里區詹厝園段176-21地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 215581,
+            "CoorY": 2665028,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11740",
+            "Site_Name": "臺中市大里區夏田東段943地號(部分)(原台中市大里區詹厝園段150-1地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 216699,
+            "CoorY": 2664890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11741",
+            "Site_Name": "臺中市大里區夏田東段650地號(部分)(原大里區詹厝園段無地號國有地) ",
+            "Kind_No": "Farm",
+            "CoorX": 216699,
+            "CoorY": 2664898,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11742",
+            "Site_Name": "后里區月眉段86(部分)",
+            "Kind_No": "Farm",
+            "CoorX": 220253,
+            "CoorY": 2690445,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11545",
+            "Site_Name": "臺中市大里區夏田西段1001地號(部分)(原台中市大里區詹厝園段241-3地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 216017,
+            "CoorY": 2664296,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11546",
+            "Site_Name": "臺中市大里區夏田西段878地號(部分)(原台中市大里區詹厝園段241-2地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 216046,
+            "CoorY": 2664307,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11602",
+            "Site_Name": "臺中市霧峰區吳厝段43-233(部分)地號(重測後臺中市霧峰區五福北段1226(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 215505,
+            "CoorY": 2664530,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11603",
+            "Site_Name": "臺中市霧峰區吳厝段43-234(部分)地號(重測後臺中市霧峰區五福北段1227(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 215519,
+            "CoorY": 2664484,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11508",
+            "Site_Name": "臺中市大里區夏田東段944地號(部分)(原台中市大里區詹厝園段149地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 216712,
+            "CoorY": 2664890,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11517",
+            "Site_Name": "臺中市大里區夏田西段763地號(部分)(原台中市大里區詹厝園段127地號(部分))",
+            "Kind_No": "Farm",
+            "CoorX": 216495,
+            "CoorY": 2664661,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11411",
+            "Site_Name": "臺中市大里區詹厝園段174-3(部分)地號(重測後臺中市大里區夏田西段446(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216207,
+            "CoorY": 2664867,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11412",
+            "Site_Name": "臺中市大里區詹厝園段174-1(部分)地號-2(重測後臺中市大里區夏田西段443(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216189,
+            "CoorY": 2664872,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11413",
+            "Site_Name": "臺中市大里區詹厝園段130-2(部分)地號(重測後臺中市大里區夏田西段548(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216442,
+            "CoorY": 2664820,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11414",
+            "Site_Name": "臺中市大里區詹厝園段134-3(部分)地號-2(重測後臺中市大里區夏田西段758(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216577,
+            "CoorY": 2664715,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        },
+        {
+            "SiteNo": "B11415",
+            "Site_Name": "臺中市大里區詹厝園段37(部分)地號(重測後臺中市大里區夏田東段883(部分)地號)",
+            "Kind_No": "Farm",
+            "CoorX": 216673,
+            "CoorY": 2664583,
+            "AreaCode": 0,
+            "Situation": "ControlN"
+        }
+    ]
+}

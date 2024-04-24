@@ -1,0 +1,189 @@
+{
+    "PageNo": 2,
+    "PageSize": 20,
+    "TotalPages": 411,
+    "Total": 8209,
+    "Conditions": null,
+    "Data": [
+        {
+            "SiteNo": "B12265",
+            "Site_Name": "台灣油研股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 209879,
+            "CoorY": 2674021,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "K10277",
+            "Site_Name": "苗栗縣三灣鄉北埔段105地號",
+            "Kind_No": "Discard",
+            "CoorX": 247991,
+            "CoorY": 2726156,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "P10887",
+            "Site_Name": "台環資源科技有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 196621,
+            "CoorY": 2621569,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16380",
+            "Site_Name": "伯達實業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 278933,
+            "CoorY": 2772805,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18480",
+            "Site_Name": "彰化縣和美鎮嘉慶段0583-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 201277,
+            "CoorY": 2664926,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18481",
+            "Site_Name": "彰化縣彰化市線東段0025-0000地號",
+            "Kind_No": "Farm",
+            "CoorX": 202266,
+            "CoorY": 2665086,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N13570",
+            "Site_Name": "彰化縣彰化市線東段0086-0000(部分)地號",
+            "Kind_No": "Farm",
+            "CoorX": 201890,
+            "CoorY": 2664915,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "G10691",
+            "Site_Name": "臺灣湯淺電池股份有限公司宜蘭廠",
+            "Kind_No": "Factory",
+            "CoorX": 332752,
+            "CoorY": 2725519,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18191",
+            "Site_Name": "尚泰五金實業有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 197705,
+            "CoorY": 2664326,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18202",
+            "Site_Name": "瀚森五金有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 197732,
+            "CoorY": 2664466,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18132",
+            "Site_Name": "元博貴有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 200853,
+            "CoorY": 2642696,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18194",
+            "Site_Name": "國盟不銹鋼電解有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 204237,
+            "CoorY": 2658101,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "B12266",
+            "Site_Name": "臺中市清水區高美南段1002地號",
+            "Kind_No": "Discard",
+            "CoorX": 205759,
+            "CoorY": 2688642,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10407",
+            "Site_Name": "先進工業股份有限公司樹林廠",
+            "Kind_No": "Factory",
+            "CoorX": 292481,
+            "CoorY": 2767594,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "D10666",
+            "Site_Name": "聖惠電鍍股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 173112,
+            "CoorY": 2544647,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "N18190",
+            "Site_Name": "鹿港鎮溝墘里溝墘巷87之50號",
+            "Kind_No": "Factory",
+            "CoorX": 197610,
+            "CoorY": 2664405,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10404",
+            "Site_Name": "晟鈦股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293804,
+            "CoorY": 2766500,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "F10403",
+            "Site_Name": "泰新工業股份有限公司",
+            "Kind_No": "Factory",
+            "CoorX": 293028,
+            "CoorY": 2766969,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "H16384",
+            "Site_Name": "新通企業行",
+            "Kind_No": "Other",
+            "CoorX": 275133,
+            "CoorY": 2755253,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        },
+        {
+            "SiteNo": "M10162",
+            "Site_Name": "南投縣南投市永新段372地號",
+            "Kind_No": "Factory",
+            "CoorX": 216054,
+            "CoorY": 2647630,
+            "AreaCode": 0,
+            "Situation": "ControlY"
+        }
+    ]
+}
