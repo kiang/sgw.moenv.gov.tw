@@ -2,6 +2,7 @@
     "require": {
         "symfony/browser-kit": "^7.0",
         "symfony/http-client": "^7.0",
-        "symfony/mime": "^7.0"
+        "symfony/mime": "^7.0",
+        "proj4php/proj4php": "^2.0"
     }
 }
